@@ -1,0 +1,101 @@
+doid_id,drugbank_id,disease,drug,category
+DOID:10652,DB00843,Alzheimer's disease,Donepezil,DM
+DOID:10652,DB00674,Alzheimer's disease,Galantamine,DM
+DOID:10652,DB01043,Alzheimer's disease,Memantine,DM
+DOID:10652,DB00989,Alzheimer's disease,Rivastigmine,DM
+DOID:10652,DB00245,Alzheimer's disease,Benzatropine,SYM
+DOID:10652,DB00502,Alzheimer's disease,Haloperidol,SYM
+DOID:10652,DB01224,Alzheimer's disease,Quetiapine,SYM
+DOID:10652,DB00268,Alzheimer's disease,Ropinirole,SYM
+DOID:10652,DB01037,Alzheimer's disease,Selegiline,SYM
+DOID:10652,DB00810,Alzheimer's disease,Biperiden,NOT
+DOID:10652,DB00190,Alzheimer's disease,Carbidopa,NOT
+DOID:10652,DB00413,Alzheimer's disease,Pramipexole,NOT
+DOID:10652,DB00387,Alzheimer's disease,Procyclidine,NOT
+DOID:10652,DB00747,Alzheimer's disease,Scopolamine,NOT
+DOID:10652,DB00313,Alzheimer's disease,Valproic Acid,NOT
+DOID:10652,DB00163,Alzheimer's disease,Vitamin E,NOT
+DOID:9206,DB00736,Barrett's esophagus,Esomeprazole,DM
+DOID:9206,DB00338,Barrett's esophagus,Omeprazole,DM
+DOID:8778,DB00993,Crohn's disease,Azathioprine,DM
+DOID:8778,DB01014,Crohn's disease,Balsalazide,DM
+DOID:8778,DB01033,Crohn's disease,Mercaptopurine,DM
+DOID:8778,DB00244,Crohn's disease,Mesalazine,DM
+DOID:8778,DB00635,Crohn's disease,Prednisone,DM
+DOID:8778,DB00795,Crohn's disease,Sulfasalazine,DM
+DOID:8778,DB00572,Crohn's disease,Atropine,SYM
+DOID:8778,DB00424,Crohn's disease,Hyoscyamine,SYM
+DOID:8778,DB00158,Crohn's disease,Folic Acid,NOT
+DOID:8778,DB00916,Crohn's disease,Metronidazole,NOT
+DOID:11119,DB00575,Gilles de la Tourette syndrome,Clonidine,SYM
+DOID:11119,DB00502,Gilles de la Tourette syndrome,Haloperidol,SYM
+DOID:11119,DB00657,Gilles de la Tourette syndrome,Mecamylamine,SYM
+DOID:11119,DB00334,Gilles de la Tourette syndrome,Olanzapine,SYM
+DOID:11119,DB01186,Gilles de la Tourette syndrome,Pergolide,SYM
+DOID:11119,DB00850,Gilles de la Tourette syndrome,Perphenazine,SYM
+DOID:11119,DB01100,Gilles de la Tourette syndrome,Pimozide,SYM
+DOID:11119,DB00734,Gilles de la Tourette syndrome,Risperidone,SYM
+DOID:11119,DB00246,Gilles de la Tourette syndrome,Ziprasidone,SYM
+DOID:12361,DB00763,Graves' disease,Methimazole,DM
+DOID:12361,DB00550,Graves' disease,Propylthiouracil,DM
+DOID:12361,DB00509,Graves' disease,Dextrothyroxine,NOT
+DOID:12361,DB00451,Graves' disease,Levothyroxine,NOT
+DOID:12361,DB00279,Graves' disease,Liothyronine,NOT
+DOID:12361,DB01583,Graves' disease,Liotrix,NOT
+DOID:13378,DB00945,Kawasaki disease,Acetylsalicylic acid,DM
+DOID:5408,DB00630,Paget's disease of bone,Alendronate,DM
+DOID:5408,DB01077,Paget's disease of bone,Etidronic acid,DM
+DOID:5408,DB00282,Paget's disease of bone,Pamidronate,DM
+DOID:5408,DB00884,Paget's disease of bone,Risedronate,DM
+DOID:5408,DB01133,Paget's disease of bone,Tiludronate,DM
+DOID:5408,DB00399,Paget's disease of bone,Zoledronate,DM
+DOID:14330,DB00915,Parkinson's disease,Amantadine,SYM
+DOID:14330,DB00714,Parkinson's disease,Apomorphine,SYM
+DOID:14330,DB00572,Parkinson's disease,Atropine,SYM
+DOID:14330,DB00245,Parkinson's disease,Benzatropine,SYM
+DOID:14330,DB00810,Parkinson's disease,Biperiden,SYM
+DOID:14330,DB01200,Parkinson's disease,Bromocriptine,SYM
+DOID:14330,DB00248,Parkinson's disease,Cabergoline,SYM
+DOID:14330,DB00190,Parkinson's disease,Carbidopa,SYM
+DOID:14330,DB01068,Parkinson's disease,Clonazepam,SYM
+DOID:14330,DB01075,Parkinson's disease,Diphenhydramine,SYM
+DOID:14330,DB00494,Parkinson's disease,Entacapone,SYM
+DOID:14330,DB00687,Parkinson's disease,Fludrocortisone,SYM
+DOID:14330,DB00996,Parkinson's disease,Gabapentin,SYM
+DOID:14330,DB00424,Parkinson's disease,Hyoscyamine,SYM
+DOID:14330,DB01235,Parkinson's disease,L-DOPA,SYM
+DOID:14330,DB01043,Parkinson's disease,Memantine,SYM
+DOID:14330,DB00745,Parkinson's disease,Modafinil,SYM
+DOID:14330,DB01186,Parkinson's disease,Pergolide,SYM
+DOID:14330,DB00413,Parkinson's disease,Pramipexole,SYM
+DOID:14330,DB00387,Parkinson's disease,Procyclidine,SYM
+DOID:14330,DB00980,Parkinson's disease,Ramelteon,SYM
+DOID:14330,DB01367,Parkinson's disease,Rasagiline,SYM
+DOID:14330,DB00989,Parkinson's disease,Rivastigmine,SYM
+DOID:14330,DB00268,Parkinson's disease,Ropinirole,SYM
+DOID:14330,DB05271,Parkinson's disease,Rotigotine,SYM
+DOID:14330,DB01037,Parkinson's disease,Selegiline,SYM
+DOID:14330,DB00323,Parkinson's disease,Tolcapone,SYM
+DOID:14330,DB00376,Parkinson's disease,Trihexyphenidyl,SYM
+DOID:14330,DB00215,Parkinson's disease,Citalopram,NOT
+DOID:14330,DB00985,Parkinson's disease,Dimenhydrinate,NOT
+DOID:14330,DB01175,Parkinson's disease,Escitalopram,NOT
+DOID:14330,DB01224,Parkinson's disease,Quetiapine,NOT
+DOID:14330,DB00747,Parkinson's disease,Scopolamine,NOT
+DOID:14330,DB01104,Parkinson's disease,Sertraline,NOT
+DOID:14330,DB00425,Parkinson's disease,Zolpidem,NOT
+DOID:635,DB01048,acquired immunodeficiency syndrome,Abacavir,DM
+DOID:635,DB00701,acquired immunodeficiency syndrome,Amprenavir,DM
+DOID:635,DB00705,acquired immunodeficiency syndrome,Delavirdine,DM
+DOID:635,DB00900,acquired immunodeficiency syndrome,Didanosine,DM
+DOID:635,DB00625,acquired immunodeficiency syndrome,Efavirenz,DM
+DOID:635,DB00224,acquired immunodeficiency syndrome,Indinavir,DM
+DOID:635,DB00709,acquired immunodeficiency syndrome,Lamivudine,DM
+DOID:635,DB01601,acquired immunodeficiency syndrome,Lopinavir,DM
+DOID:635,DB00220,acquired immunodeficiency syndrome,Nelfinavir,DM
+DOID:635,DB00238,acquired immunodeficiency syndrome,Nevirapine,DM
+DOID:635,DB00503,acquired immunodeficiency syndrome,Ritonavir,DM
+DOID:635,DB01232,acquired immunodeficiency syndrome,Saquinavir,DM
+DOID:635,DB00649,acquired immunodeficiency syndrome,Stavudine,DM
+DOID:635,DB00495,acquired immunodeficiency syndrome,Zidovudine,DM
+DOID:635,DB00787,acquired immunodeficiency syndrome,Aciclovir,NOT

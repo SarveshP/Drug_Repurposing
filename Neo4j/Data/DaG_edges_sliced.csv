@@ -1,0 +1,604 @@
+source,doid_name,target,gene_symbol,sources
+DOID:8778,Crohn's disease,213,ALB,DISEASES
+DOID:8778,Crohn's disease,639,PRDM1,GWAS Catalog
+DOID:8778,Crohn's disease,677,ZFP36L1,GWAS Catalog
+DOID:8778,Crohn's disease,920,CD4,DISEASES
+DOID:8778,Crohn's disease,973,CD79A,DISEASES
+DOID:8778,Crohn's disease,1201,CLN3,GWAS Catalog
+DOID:8778,Crohn's disease,1235,CCR6,GWAS Catalog
+DOID:8778,Crohn's disease,1238,ACKR2,DISEASES
+DOID:8778,Crohn's disease,1390,CREM,GWAS Catalog
+DOID:8778,Crohn's disease,1401,CRP,DISEASES
+DOID:8778,Crohn's disease,1670,DEFA5,DISEASES
+DOID:8778,Crohn's disease,1788,DNMT3A,GWAS Catalog
+DOID:8778,Crohn's disease,2153,F5,DOAF
+DOID:8778,Crohn's disease,2524,FUT2,GWAS Catalog
+DOID:8778,Crohn's disease,2646,GCKR,GWAS Catalog
+DOID:8778,Crohn's disease,2879,GPX4,GWAS Catalog
+DOID:8778,Crohn's disease,3304,HSPA1B,DOAF
+DOID:8778,Crohn's disease,3383,ICAM1,DOAF
+DOID:8778,Crohn's disease,3458,IFNG,DISEASES
+DOID:8778,Crohn's disease,3460,IFNGR2,GWAS Catalog
+DOID:8778,Crohn's disease,3553,IL1B,DISEASES
+DOID:8778,Crohn's disease,3559,IL2RA,GWAS Catalog
+DOID:8778,Crohn's disease,3562,IL3,GWAS Catalog
+DOID:8778,Crohn's disease,3569,IL6,DISEASES|DOAF
+DOID:8778,Crohn's disease,3576,CXCL8,DISEASES
+DOID:8778,Crohn's disease,3586,IL10,DISEASES|DOAF|GWAS Catalog
+DOID:8778,Crohn's disease,3593,IL12B,GWAS Catalog
+DOID:8778,Crohn's disease,3600,IL15,DISEASES
+DOID:8778,Crohn's disease,3605,IL17A,DISEASES
+DOID:8778,Crohn's disease,3606,IL18,DISEASES|DOAF
+DOID:8778,Crohn's disease,3676,ITGA4,DISEASES
+DOID:8778,Crohn's disease,3717,JAK2,GWAS Catalog
+DOID:8778,Crohn's disease,3992,FADS1,GWAS Catalog
+DOID:8778,Crohn's disease,4057,LTF,DISEASES
+DOID:8778,Crohn's disease,4088,SMAD3,GWAS Catalog
+DOID:8778,Crohn's disease,4295,MLN,GWAS Catalog
+DOID:8778,Crohn's disease,4353,MPO,DISEASES
+DOID:8778,Crohn's disease,4485,MST1,GWAS Catalog
+DOID:8778,Crohn's disease,5334,PLCL1,GWAS Catalog
+DOID:8778,Crohn's disease,5536,PPP5C,GWAS Catalog
+DOID:8778,Crohn's disease,5734,PTGER4,GWAS Catalog
+DOID:8778,Crohn's disease,5743,PTGS2,DOAF
+DOID:8778,Crohn's disease,5771,PTPN2,DISEASES|GWAS Catalog
+DOID:8778,Crohn's disease,6400,SEL1L,DISEASES
+DOID:8778,Crohn's disease,6556,SLC11A1,DOAF
+DOID:8778,Crohn's disease,6583,SLC22A4,DISEASES|DOAF
+DOID:8778,Crohn's disease,6584,SLC22A5,DISEASES|DOAF
+DOID:8778,Crohn's disease,6664,SOX11,GWAS Catalog
+DOID:8778,Crohn's disease,6774,STAT3,GWAS Catalog
+DOID:8778,Crohn's disease,7099,TLR4,DISEASES|DOAF
+DOID:8778,Crohn's disease,7124,TNF,DISEASES|DOAF
+DOID:8778,Crohn's disease,7133,TNFRSF1B,DISEASES
+DOID:8778,Crohn's disease,7297,TYK2,GWAS Catalog
+DOID:8778,Crohn's disease,7321,UBE2D1,GWAS Catalog
+DOID:8778,Crohn's disease,7349,UCN,GWAS Catalog
+DOID:8778,Crohn's disease,8174,MADCAM1,DISEASES
+DOID:8778,Crohn's disease,8477,GPR65,GWAS Catalog
+DOID:8778,Crohn's disease,8600,TNFSF11,GWAS Catalog
+DOID:8778,Crohn's disease,8651,SOCS1,GWAS Catalog
+DOID:8778,Crohn's disease,8767,RIPK2,DISEASES|GWAS Catalog
+DOID:8778,Crohn's disease,8807,IL18RAP,GWAS Catalog
+DOID:8778,Crohn's disease,8844,KSR1,GWAS Catalog
+DOID:8778,Crohn's disease,8897,MTMR3,GWAS Catalog
+DOID:8778,Crohn's disease,8935,SKAP2,GWAS Catalog
+DOID:8778,Crohn's disease,8995,TNFSF18,GWAS Catalog
+DOID:8778,Crohn's disease,9231,DLG5,DISEASES
+DOID:8778,Crohn's disease,9341,VAMP3,GWAS Catalog
+DOID:8778,Crohn's disease,9966,TNFSF15,DISEASES|DOAF|GWAS Catalog
+DOID:8778,Crohn's disease,9978,RBX1,GWAS Catalog
+DOID:8778,Crohn's disease,10125,RASGRP1,GWAS Catalog
+DOID:8778,Crohn's disease,10285,SMNDC1,GWAS Catalog
+DOID:8778,Crohn's disease,10320,IKZF1,GWAS Catalog
+DOID:8778,Crohn's disease,10392,NOD1,DISEASES
+DOID:8778,Crohn's disease,10454,TAB1,GWAS Catalog
+DOID:8778,Crohn's disease,10803,CCR9,DISEASES
+DOID:8778,Crohn's disease,11085,ADAM30,GWAS Catalog
+DOID:8778,Crohn's disease,11262,SP140,GWAS Catalog
+DOID:8778,Crohn's disease,22891,ZNF365,GWAS Catalog
+DOID:8778,Crohn's disease,23216,TBC1D1,GWAS Catalog
+DOID:8778,Crohn's disease,23308,ICOSLG,GWAS Catalog
+DOID:8778,Crohn's disease,26191,PTPN22,GWAS Catalog
+DOID:8778,Crohn's disease,29015,SLC43A3,GWAS Catalog
+DOID:8778,Crohn's disease,51561,IL23A,DISEASES
+DOID:8778,Crohn's disease,54901,CDKAL1,GWAS Catalog
+DOID:8778,Crohn's disease,55024,BANK1,GWAS Catalog
+DOID:8778,Crohn's disease,55054,ATG16L1,DISEASES|DOAF|GWAS Catalog
+DOID:8778,Crohn's disease,55192,DNAJC17,DISEASES
+DOID:8778,Crohn's disease,55600,ITLN1,GWAS Catalog
+DOID:8778,Crohn's disease,55765,C1orf106,GWAS Catalog
+DOID:8778,Crohn's disease,56946,C11orf30,GWAS Catalog
+DOID:8778,Crohn's disease,57178,ZMIZ1,GWAS Catalog
+DOID:8778,Crohn's disease,57606,SLAIN2,GWAS Catalog
+DOID:8778,Crohn's disease,60468,BACH2,GWAS Catalog
+DOID:8778,Crohn's disease,63027,SLC22A23,GWAS Catalog
+DOID:8778,Crohn's disease,63892,THADA,GWAS Catalog
+DOID:8778,Crohn's disease,64127,NOD2,DISEASES|DOAF|GWAS Catalog
+DOID:8778,Crohn's disease,64167,ERAP2,GWAS Catalog
+DOID:8778,Crohn's disease,64170,CARD9,GWAS Catalog
+DOID:8778,Crohn's disease,79722,ANKRD55,GWAS Catalog
+DOID:8778,Crohn's disease,80315,CPEB4,GWAS Catalog
+DOID:8778,Crohn's disease,80762,NDFIP1,GWAS Catalog
+DOID:8778,Crohn's disease,84619,ZGPAT,GWAS Catalog
+DOID:8778,Crohn's disease,84870,RSPO3,GWAS Catalog
+DOID:8778,Crohn's disease,94103,ORMDL3,GWAS Catalog
+DOID:8778,Crohn's disease,117289,TAGAP,GWAS Catalog
+DOID:8778,Crohn's disease,120892,LRRK2,GWAS Catalog
+DOID:8778,Crohn's disease,133482,SLCO6A1,GWAS Catalog
+DOID:8778,Crohn's disease,144811,LACC1,GWAS Catalog
+DOID:8778,Crohn's disease,149233,IL23R,DISEASES|DOAF|GWAS Catalog
+DOID:8778,Crohn's disease,150223,YDJC,GWAS Catalog
+DOID:8778,Crohn's disease,150962,PUS10,GWAS Catalog
+DOID:8778,Crohn's disease,157869,SBSPON,GWAS Catalog
+DOID:8778,Crohn's disease,159296,NKX2-3,DISEASES|GWAS Catalog
+DOID:8778,Crohn's disease,163486,DENND1B,GWAS Catalog
+DOID:8778,Crohn's disease,200728,TMEM17,GWAS Catalog
+DOID:8778,Crohn's disease,221895,JAZF1,GWAS Catalog
+DOID:8778,Crohn's disease,255189,PLA2G4F,DISEASES
+DOID:8778,Crohn's disease,256536,TCERG1L,GWAS Catalog
+DOID:8778,Crohn's disease,284119,PTRF,GWAS Catalog
+DOID:8778,Crohn's disease,345611,IRGM,DOAF|GWAS Catalog
+DOID:10652,Alzheimer's disease,2,A2M,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,12,SERPINA3,DOAF
+DOID:10652,Alzheimer's disease,19,ABCA1,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,43,ACHE,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,102,ADAM10,DISEASES
+DOID:10652,Alzheimer's disease,177,AGER,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,207,AKT1,DISEASES
+DOID:10652,Alzheimer's disease,267,AMFR,DisGeNET
+DOID:10652,Alzheimer's disease,274,BIN1,DISEASES|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,322,APBB1,DISEASES
+DOID:10652,Alzheimer's disease,323,APBB2,DisGeNET
+DOID:10652,Alzheimer's disease,327,APEH,DISEASES
+DOID:10652,Alzheimer's disease,333,APLP1,DISEASES
+DOID:10652,Alzheimer's disease,334,APLP2,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,347,APOD,DOAF
+DOID:10652,Alzheimer's disease,348,APOE,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,351,APP,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,498,ATP5A1,DisGeNET
+DOID:10652,Alzheimer's disease,581,BAX,DisGeNET
+DOID:10652,Alzheimer's disease,590,BCHE,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,596,BCL2,DisGeNET
+DOID:10652,Alzheimer's disease,627,BDNF,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,642,BLMH,DisGeNET
+DOID:10652,Alzheimer's disease,762,CA4,DISEASES
+DOID:10652,Alzheimer's disease,801,CALM1,DisGeNET
+DOID:10652,Alzheimer's disease,836,CASP3,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,857,CAV1,DisGeNET
+DOID:10652,Alzheimer's disease,945,CD33,DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,1020,CDK5,DOAF
+DOID:10652,Alzheimer's disease,1103,CHAT,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,1137,CHRNA4,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,1139,CHRNA7,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,1141,CHRNB2,DisGeNET
+DOID:10652,Alzheimer's disease,1191,CLU,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,1200,TPP1,DisGeNET
+DOID:10652,Alzheimer's disease,1234,CCR5,DisGeNET
+DOID:10652,Alzheimer's disease,1356,CP,DOAF
+DOID:10652,Alzheimer's disease,1378,CR1,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,1385,CREB1,DISEASES
+DOID:10652,Alzheimer's disease,1392,CRH,DisGeNET
+DOID:10652,Alzheimer's disease,1410,CRYAB,DOAF
+DOID:10652,Alzheimer's disease,1471,CST3,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,1508,CTSB,DISEASES
+DOID:10652,Alzheimer's disease,1509,CTSD,DISEASES
+DOID:10652,Alzheimer's disease,1565,CYP2D6,DisGeNET
+DOID:10652,Alzheimer's disease,1627,DBN1,DISEASES
+DOID:10652,Alzheimer's disease,1636,ACE,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,1718,DHCR24,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,1742,DLG4,DISEASES
+DOID:10652,Alzheimer's disease,1795,DOCK3,DISEASES
+DOID:10652,Alzheimer's disease,1808,DPYSL2,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,1827,RCAN1,DOAF
+DOID:10652,Alzheimer's disease,1965,EIF2S1,DisGeNET
+DOID:10652,Alzheimer's disease,2023,ENO1,DisGeNET
+DOID:10652,Alzheimer's disease,2041,EPHA1,DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,2099,ESR1,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,2147,F2,DisGeNET
+DOID:10652,Alzheimer's disease,2185,PTK2B,GWAS Catalog
+DOID:10652,Alzheimer's disease,2597,GAPDH,DOAF
+DOID:10652,Alzheimer's disease,2670,GFAP,DISEASES
+DOID:10652,Alzheimer's disease,2890,GRIA1,DISEASES
+DOID:10652,Alzheimer's disease,2896,GRN,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,2897,GRIK1,DISEASES
+DOID:10652,Alzheimer's disease,2898,GRIK2,DISEASES
+DOID:10652,Alzheimer's disease,2904,GRIN2B,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,2931,GSK3A,DISEASES
+DOID:10652,Alzheimer's disease,2932,GSK3B,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,3028,HSD17B10,DOAF
+DOID:10652,Alzheimer's disease,3075,CFH,DOAF
+DOID:10652,Alzheimer's disease,3077,HFE,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,3162,HMOX1,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,3329,HSPD1,DisGeNET
+DOID:10652,Alzheimer's disease,3356,HTR2A,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,3362,HTR6,DISEASES
+DOID:10652,Alzheimer's disease,3375,IAPP,DISEASES
+DOID:10652,Alzheimer's disease,3416,IDE,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,3479,IGF1,DisGeNET
+DOID:10652,Alzheimer's disease,3480,IGF1R,DisGeNET
+DOID:10652,Alzheimer's disease,3481,IGF2,DisGeNET
+DOID:10652,Alzheimer's disease,3482,IGF2R,DisGeNET
+DOID:10652,Alzheimer's disease,3552,IL1A,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,3553,IL1B,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,3569,IL6,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,3600,IL15,DISEASES
+DOID:10652,Alzheimer's disease,3630,INS,DisGeNET
+DOID:10652,Alzheimer's disease,3635,INPP5D,GWAS Catalog
+DOID:10652,Alzheimer's disease,3952,LEP,DisGeNET
+DOID:10652,Alzheimer's disease,4023,LPL,DOAF
+DOID:10652,Alzheimer's disease,4035,LRP1,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,4129,MAOB,DISEASES
+DOID:10652,Alzheimer's disease,4133,MAP2,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,4137,MAPT,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,4208,MEF2C,GWAS Catalog
+DOID:10652,Alzheimer's disease,4311,MME,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,4353,MPO,DisGeNET
+DOID:10652,Alzheimer's disease,4504,MT3,DISEASES
+DOID:10652,Alzheimer's disease,4524,MTHFR,DisGeNET
+DOID:10652,Alzheimer's disease,4535,ND1,DisGeNET
+DOID:10652,Alzheimer's disease,4803,NGF,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,4804,NGFR,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,4843,NOS2,DisGeNET
+DOID:10652,Alzheimer's disease,4846,NOS3,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,4851,NOTCH1,DISEASES
+DOID:10652,Alzheimer's disease,4852,NPY,DisGeNET
+DOID:10652,Alzheimer's disease,4915,NTRK2,DISEASES
+DOID:10652,Alzheimer's disease,4968,OGG1,DOAF
+DOID:10652,Alzheimer's disease,5176,SERPINF1,DisGeNET
+DOID:10652,Alzheimer's disease,5252,PHF1,DISEASES
+DOID:10652,Alzheimer's disease,5300,PIN1,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,5328,PLAU,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,5444,PON1,DOAF
+DOID:10652,Alzheimer's disease,5468,PPARG,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,5524,PPP2R4,DISEASES
+DOID:10652,Alzheimer's disease,5530,PPP3CA,DisGeNET
+DOID:10652,Alzheimer's disease,5536,PPP5C,DISEASES
+DOID:10652,Alzheimer's disease,5582,PRKCG,DISEASES
+DOID:10652,Alzheimer's disease,5599,MAPK8,DISEASES
+DOID:10652,Alzheimer's disease,5610,EIF2AK2,DOAF
+DOID:10652,Alzheimer's disease,5621,PRNP,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,5649,RELN,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,5653,KLK6,DOAF
+DOID:10652,Alzheimer's disease,5663,PSEN1,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,5664,PSEN2,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,5697,PYY,DisGeNET
+DOID:10652,Alzheimer's disease,5742,PTGS1,DisGeNET
+DOID:10652,Alzheimer's disease,5743,PTGS2,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,5819,PVRL2,GWAS Catalog
+DOID:10652,Alzheimer's disease,6285,S100B,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,6347,CCL2,DOAF
+DOID:10652,Alzheimer's disease,6532,SLC6A4,DOAF
+DOID:10652,Alzheimer's disease,6572,SLC18A3,DISEASES
+DOID:10652,Alzheimer's disease,6622,SNCA,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,6647,SOD1,DisGeNET
+DOID:10652,Alzheimer's disease,6648,SOD2,DisGeNET
+DOID:10652,Alzheimer's disease,6653,SORL1,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,6750,SST,DISEASES
+DOID:10652,Alzheimer's disease,6855,SYP,DISEASES
+DOID:10652,Alzheimer's disease,7018,TF,DisGeNET
+DOID:10652,Alzheimer's disease,7019,TFAM,DisGeNET
+DOID:10652,Alzheimer's disease,7040,TGFB1,DOAF
+DOID:10652,Alzheimer's disease,7124,TNF,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,7133,TNFRSF1B,DOAF
+DOID:10652,Alzheimer's disease,7157,TP53,DOAF
+DOID:10652,Alzheimer's disease,7161,TP73,DOAF
+DOID:10652,Alzheimer's disease,7167,TPI1,DisGeNET
+DOID:10652,Alzheimer's disease,7276,TTR,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,7422,VEGFA,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,7782,SLC30A4,DisGeNET
+DOID:10652,Alzheimer's disease,8301,PICALM,DOAF|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,9436,NCR2,GWAS Catalog
+DOID:10652,Alzheimer's disease,9445,ITM2B,DISEASES
+DOID:10652,Alzheimer's disease,9507,ADAMTS4,DisGeNET
+DOID:10652,Alzheimer's disease,9509,ADAMTS2,DISEASES
+DOID:10652,Alzheimer's disease,9846,GAB2,DOAF
+DOID:10652,Alzheimer's disease,10313,RTN3,DOAF
+DOID:10652,Alzheimer's disease,10347,ABCA7,DISEASES|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,10452,TOMM40,DISEASES
+DOID:10652,Alzheimer's disease,10658,CELF1,GWAS Catalog
+DOID:10652,Alzheimer's disease,10858,CYP46A1,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,10891,PPARGC1A,DisGeNET
+DOID:10652,Alzheimer's disease,10971,YWHAQ,DISEASES
+DOID:10652,Alzheimer's disease,10979,FERMT2,GWAS Catalog
+DOID:10652,Alzheimer's disease,22976,PAXIP1,DisGeNET
+DOID:10652,Alzheimer's disease,23236,PLCB1,DisGeNET
+DOID:10652,Alzheimer's disease,23237,ARC,DisGeNET
+DOID:10652,Alzheimer's disease,23385,NCSTN,DISEASES|DisGeNET
+DOID:10652,Alzheimer's disease,23435,TARDBP,DISEASES
+DOID:10652,Alzheimer's disease,23583,SMUG1,DISEASES
+DOID:10652,Alzheimer's disease,23607,CD2AP,DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,23621,BACE1,DISEASES|DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,23646,PLD3,DISEASES
+DOID:10652,Alzheimer's disease,25825,BACE2,DISEASES
+DOID:10652,Alzheimer's disease,25902,MTHFD1L,GWAS Catalog
+DOID:10652,Alzheimer's disease,26330,GAPDHS,DisGeNET
+DOID:10652,Alzheimer's disease,27328,PCDH11X,DOAF|DisGeNET
+DOID:10652,Alzheimer's disease,28951,TRIB2,DisGeNET
+DOID:10652,Alzheimer's disease,29119,CTNNA3,DOAF
+DOID:10652,Alzheimer's disease,29979,UBQLN1,DISEASES
+DOID:10652,Alzheimer's disease,51083,GAL,DISEASES
+DOID:10652,Alzheimer's disease,51107,APH1A,DISEASES
+DOID:10652,Alzheimer's disease,51314,NME8,GWAS Catalog
+DOID:10652,Alzheimer's disease,51338,MS4A4A,DisGeNET
+DOID:10652,Alzheimer's disease,54209,TREM2,DISEASES|DisGeNET|GWAS Catalog
+DOID:10652,Alzheimer's disease,55063,ZCWPW1,GWAS Catalog
+DOID:10652,Alzheimer's disease,55103,RALGPS2,DISEASES
+DOID:10652,Alzheimer's disease,55676,SLC30A6,DisGeNET
+DOID:10652,Alzheimer's disease,55691,FRMD4A,GWAS Catalog
+DOID:10652,Alzheimer's disease,55851,PSENEN,DISEASES
+DOID:10652,Alzheimer's disease,57091,CASS4,GWAS Catalog
+DOID:10652,Alzheimer's disease,64231,MS4A6A,GWAS Catalog
+DOID:10652,Alzheimer's disease,120892,LRRK2,DOAF
+DOID:10652,Alzheimer's disease,123041,SLC24A4,GWAS Catalog
+DOID:10652,Alzheimer's disease,169792,GLIS3,GWAS Catalog
+DOID:10652,Alzheimer's disease,246744,STH,DOAF
+DOID:10652,Alzheimer's disease,255022,CALHM1,DISEASES|DOAF
+DOID:10652,Alzheimer's disease,594857,NPS,DISEASES
+DOID:12361,Graves' disease,28,ABO,GWAS Catalog
+DOID:12361,Graves' disease,355,FAS,DOAF
+DOID:12361,Graves' disease,356,FASLG,DOAF
+DOID:12361,Graves' disease,920,CD4,DISEASES
+DOID:12361,Graves' disease,925,CD8A,DISEASES
+DOID:12361,Graves' disease,958,CD40,DISEASES|DOAF
+DOID:12361,Graves' disease,1493,CTLA4,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:12361,Graves' disease,2556,GABRA3,DISEASES
+DOID:12361,Graves' disease,2638,GC,DisGeNET
+DOID:12361,Graves' disease,3105,HLA-A,DISEASES
+DOID:12361,Graves' disease,3106,HLA-B,DISEASES
+DOID:12361,Graves' disease,3119,HLA-DQB1,DISEASES|DOAF
+DOID:12361,Graves' disease,3123,HLA-DRB1,DISEASES|DOAF|DisGeNET
+DOID:12361,Graves' disease,3133,HLA-E,GWAS Catalog
+DOID:12361,Graves' disease,3383,ICAM1,DOAF
+DOID:12361,Graves' disease,3458,IFNG,DISEASES
+DOID:12361,Graves' disease,3553,IL1B,DOAF
+DOID:12361,Graves' disease,3559,IL2RA,DISEASES
+DOID:12361,Graves' disease,3627,CXCL10,DOAF
+DOID:12361,Graves' disease,6906,SERPINA7,DISEASES
+DOID:12361,Graves' disease,7038,TG,DISEASES|DOAF|GWAS Catalog
+DOID:12361,Graves' disease,7124,TNF,DOAF
+DOID:12361,Graves' disease,7253,TSHR,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:12361,Graves' disease,8635,RNASET2,DisGeNET|GWAS Catalog
+DOID:12361,Graves' disease,8718,TNFRSF25,DISEASES
+DOID:12361,Graves' disease,10678,B3GNT2,DisGeNET
+DOID:12361,Graves' disease,26191,PTPN22,DISEASES|DOAF|DisGeNET
+DOID:12361,Graves' disease,64135,IFIH1,DOAF|DisGeNET
+DOID:12361,Graves' disease,84159,ARID5B,DisGeNET
+DOID:12361,Graves' disease,84636,GPR174,DISEASES
+DOID:12361,Graves' disease,114836,SLAMF6,GWAS Catalog
+DOID:12361,Graves' disease,114904,C1QTNF6,GWAS Catalog
+DOID:12361,Graves' disease,115352,FCRL3,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:12361,Graves' disease,117156,SCGB3A2,DISEASES
+DOID:14330,Parkinson's disease,25,ABL1,DisGeNET
+DOID:14330,Parkinson's disease,135,ADORA2A,DISEASES
+DOID:14330,Parkinson's disease,156,ADRBK1,DisGeNET
+DOID:14330,Parkinson's disease,157,ADRBK2,DisGeNET
+DOID:14330,Parkinson's disease,199,AIF1,DisGeNET
+DOID:14330,Parkinson's disease,348,APOE,DOAF|DisGeNET
+DOID:14330,Parkinson's disease,356,FASLG,DisGeNET
+DOID:14330,Parkinson's disease,478,ATP1A3,DISEASES
+DOID:14330,Parkinson's disease,627,BDNF,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,683,BST1,DisGeNET|GWAS Catalog
+DOID:14330,Parkinson's disease,793,CALB1,DISEASES
+DOID:14330,Parkinson's disease,836,CASP3,DISEASES
+DOID:14330,Parkinson's disease,1121,CHM,DISEASES
+DOID:14330,Parkinson's disease,1137,CHRNA4,DISEASES
+DOID:14330,Parkinson's disease,1312,COMT,DISEASES
+DOID:14330,Parkinson's disease,1356,CP,DOAF|DisGeNET
+DOID:14330,Parkinson's disease,1490,CTGF,DisGeNET
+DOID:14330,Parkinson's disease,1565,CYP2D6,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,1571,CYP2E1,DisGeNET
+DOID:14330,Parkinson's disease,1609,DGKQ,GWAS Catalog
+DOID:14330,Parkinson's disease,1621,DBH,DOAF
+DOID:14330,Parkinson's disease,1639,DCTN1,DISEASES
+DOID:14330,Parkinson's disease,1644,DDC,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,1728,NQO1,DisGeNET
+DOID:14330,Parkinson's disease,1739,DLG1,DisGeNET
+DOID:14330,Parkinson's disease,1742,DLG4,DisGeNET
+DOID:14330,Parkinson's disease,1795,DOCK3,DISEASES
+DOID:14330,Parkinson's disease,1812,DRD1,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,1813,DRD2,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,1814,DRD3,DOAF
+DOID:14330,Parkinson's disease,1906,EDN1,DisGeNET
+DOID:14330,Parkinson's disease,2019,EN1,DISEASES
+DOID:14330,Parkinson's disease,2203,FBP1,DisGeNET
+DOID:14330,Parkinson's disease,2244,FGB,DisGeNET
+DOID:14330,Parkinson's disease,2580,GAK,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,2629,GBA,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:14330,Parkinson's disease,2643,GCH1,DISEASES
+DOID:14330,Parkinson's disease,2668,GDNF,DisGeNET
+DOID:14330,Parkinson's disease,2670,GFAP,DisGeNET
+DOID:14330,Parkinson's disease,2747,GLUD2,DisGeNET
+DOID:14330,Parkinson's disease,2861,GPR37,DISEASES
+DOID:14330,Parkinson's disease,2869,GRK5,DisGeNET
+DOID:14330,Parkinson's disease,2870,GRK6,DisGeNET
+DOID:14330,Parkinson's disease,2876,GPX1,DisGeNET
+DOID:14330,Parkinson's disease,2897,GRIK1,DISEASES
+DOID:14330,Parkinson's disease,2898,GRIK2,DISEASES
+DOID:14330,Parkinson's disease,2904,GRIN2B,DISEASES
+DOID:14330,Parkinson's disease,2914,GRM4,DISEASES
+DOID:14330,Parkinson's disease,2915,GRM5,DISEASES
+DOID:14330,Parkinson's disease,2941,GSTA4,DisGeNET
+DOID:14330,Parkinson's disease,2944,GSTM1,DisGeNET
+DOID:14330,Parkinson's disease,2950,GSTP1,DisGeNET
+DOID:14330,Parkinson's disease,2996,GYPE,DISEASES
+DOID:14330,Parkinson's disease,3077,HFE,DisGeNET
+DOID:14330,Parkinson's disease,3082,HGF,DisGeNET
+DOID:14330,Parkinson's disease,3122,HLA-DRA,DisGeNET
+DOID:14330,Parkinson's disease,3162,HMOX1,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,3303,HSPA1A,DisGeNET
+DOID:14330,Parkinson's disease,3308,HSPA4,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,3312,HSPA8,DisGeNET
+DOID:14330,Parkinson's disease,3313,HSPA9,DisGeNET
+DOID:14330,Parkinson's disease,3350,HTR1A,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,3356,HTR2A,DISEASES
+DOID:14330,Parkinson's disease,3363,HTR7,DISEASES
+DOID:14330,Parkinson's disease,3480,IGF1R,DisGeNET
+DOID:14330,Parkinson's disease,3481,IGF2,DisGeNET
+DOID:14330,Parkinson's disease,3482,IGF2R,DisGeNET
+DOID:14330,Parkinson's disease,3553,IL1B,DisGeNET
+DOID:14330,Parkinson's disease,3569,IL6,DisGeNET
+DOID:14330,Parkinson's disease,3630,INS,DisGeNET
+DOID:14330,Parkinson's disease,3643,INSR,DisGeNET
+DOID:14330,Parkinson's disease,3761,KCNJ4,DisGeNET
+DOID:14330,Parkinson's disease,4009,LMX1A,DISEASES
+DOID:14330,Parkinson's disease,4099,MAG,DisGeNET
+DOID:14330,Parkinson's disease,4128,MAOA,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,4129,MAOB,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,4137,MAPT,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:14330,Parkinson's disease,4217,MAP3K5,DisGeNET
+DOID:14330,Parkinson's disease,4287,ATXN3,DOAF
+DOID:14330,Parkinson's disease,4524,MTHFR,DOAF
+DOID:14330,Parkinson's disease,4537,ND3,DisGeNET
+DOID:14330,Parkinson's disease,4803,NGF,DisGeNET
+DOID:14330,Parkinson's disease,4835,NQO2,DOAF
+DOID:14330,Parkinson's disease,4902,NRTN,DISEASES
+DOID:14330,Parkinson's disease,4929,NR4A2,DISEASES|DOAF
+DOID:14330,Parkinson's disease,4958,OMD,DISEASES
+DOID:14330,Parkinson's disease,5071,PARK2,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,5173,PDYN,DISEASES
+DOID:14330,Parkinson's disease,5179,PENK,DISEASES
+DOID:14330,Parkinson's disease,5243,ABCB1,DOAF|DisGeNET
+DOID:14330,Parkinson's disease,5309,PITX3,DISEASES
+DOID:14330,Parkinson's disease,5413,5-Sep,DISEASES
+DOID:14330,Parkinson's disease,5599,MAPK8,DISEASES
+DOID:14330,Parkinson's disease,6014,RIT2,GWAS Catalog
+DOID:14330,Parkinson's disease,6128,RPL6,DisGeNET
+DOID:14330,Parkinson's disease,6147,RPL23A,DisGeNET
+DOID:14330,Parkinson's disease,6202,RPS8,DisGeNET
+DOID:14330,Parkinson's disease,6311,ATXN2,DISEASES
+DOID:14330,Parkinson's disease,6531,SLC6A3,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,6571,SLC18A2,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,6620,SNCB,DISEASES
+DOID:14330,Parkinson's disease,6622,SNCA,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:14330,Parkinson's disease,6623,SNCG,DISEASES
+DOID:14330,Parkinson's disease,6647,SOD1,DisGeNET
+DOID:14330,Parkinson's disease,6648,SOD2,DisGeNET
+DOID:14330,Parkinson's disease,6863,TAC1,DISEASES
+DOID:14330,Parkinson's disease,6872,TAF1,DISEASES
+DOID:14330,Parkinson's disease,6888,TALDO1,DisGeNET
+DOID:14330,Parkinson's disease,7054,TH,DISEASES|DisGeNET
+DOID:14330,Parkinson's disease,7124,TNF,DOAF|DisGeNET
+DOID:14330,Parkinson's disease,7345,UCHL1,DISEASES|DOAF
+DOID:14330,Parkinson's disease,7431,VIM,DISEASES
+DOID:14330,Parkinson's disease,8398,PLA2G6,DISEASES
+DOID:14330,Parkinson's disease,8575,PRKRA,DISEASES
+DOID:14330,Parkinson's disease,9045,RPL14,DisGeNET
+DOID:14330,Parkinson's disease,9627,SNCAIP,DISEASES|DOAF
+DOID:14330,Parkinson's disease,9829,DNAJC6,DISEASES
+DOID:14330,Parkinson's disease,10159,ATP6AP2,DISEASES
+DOID:14330,Parkinson's disease,10461,MERTK,DISEASES
+DOID:14330,Parkinson's disease,11315,PARK7,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,23317,DNAJC13,DisGeNET
+DOID:14330,Parkinson's disease,23400,ATP13A2,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,25793,FBXO7,DISEASES
+DOID:14330,Parkinson's disease,26058,GIGYF2,DISEASES|DOAF
+DOID:14330,Parkinson's disease,26281,FGF20,DISEASES|DOAF
+DOID:14330,Parkinson's disease,27347,STK39,GWAS Catalog
+DOID:14330,Parkinson's disease,27429,HTRA2,DISEASES|DOAF
+DOID:14330,Parkinson's disease,54205,CYCS,DISEASES
+DOID:14330,Parkinson's disease,54539,NDUFB11,DISEASES
+DOID:14330,Parkinson's disease,54541,DDIT4,DisGeNET
+DOID:14330,Parkinson's disease,54822,TRPM7,DISEASES
+DOID:14330,Parkinson's disease,55532,SLC30A10,DISEASES
+DOID:14330,Parkinson's disease,55737,VPS35,DISEASES
+DOID:14330,Parkinson's disease,56922,MCCC1,GWAS Catalog
+DOID:14330,Parkinson's disease,57657,HCN3,DisGeNET
+DOID:14330,Parkinson's disease,65018,PINK1,DISEASES|DOAF|DisGeNET
+DOID:14330,Parkinson's disease,79705,LRRK1,DISEASES
+DOID:14330,Parkinson's disease,84152,PPP1R1B,DISEASES
+DOID:14330,Parkinson's disease,84660,CCDC62,DISEASES
+DOID:14330,Parkinson's disease,84938,ATG4C,DISEASES
+DOID:14330,Parkinson's disease,120892,LRRK2,DISEASES|DOAF|DisGeNET|GWAS Catalog
+DOID:14330,Parkinson's disease,441549,CDNF,DISEASES
+DOID:14330,Parkinson's disease,100631383,FAM47E-STBD1,GWAS Catalog
+DOID:5408,Paget's disease of bone,249,ALPL,DISEASES
+DOID:5408,Paget's disease of bone,250,ALPP,DISEASES
+DOID:5408,Paget's disease of bone,251,ALPPL2,DISEASES
+DOID:5408,Paget's disease of bone,632,BGLAP,DISEASES
+DOID:5408,Paget's disease of bone,796,CALCA,DISEASES
+DOID:5408,Paget's disease of bone,1435,CSF1,DisGeNET|GWAS Catalog
+DOID:5408,Paget's disease of bone,3635,INPP5D,DisGeNET
+DOID:5408,Paget's disease of bone,4982,TNFRSF11B,DISEASES
+DOID:5408,Paget's disease of bone,5371,PML,DisGeNET|GWAS Catalog
+DOID:5408,Paget's disease of bone,7415,VCP,DISEASES|DOAF
+DOID:5408,Paget's disease of bone,8792,TNFRSF11A,DOAF|DisGeNET|GWAS Catalog
+DOID:5408,Paget's disease of bone,8878,SQSTM1,DISEASES|DOAF|DisGeNET
+DOID:5408,Paget's disease of bone,10133,OPTN,DisGeNET|GWAS Catalog
+DOID:5408,Paget's disease of bone,23165,NUP205,DisGeNET|GWAS Catalog
+DOID:5408,Paget's disease of bone,79890,RIN3,DisGeNET|GWAS Catalog
+DOID:5408,Paget's disease of bone,81501,DCSTAMP,DisGeNET|GWAS Catalog
+DOID:13378,Kawasaki disease,640,BLK,DisGeNET|GWAS Catalog
+DOID:13378,Kawasaki disease,767,CA8,DISEASES
+DOID:13378,Kawasaki disease,920,CD4,DISEASES
+DOID:13378,Kawasaki disease,958,CD40,DisGeNET|GWAS Catalog
+DOID:13378,Kawasaki disease,1234,CCR5,DOAF
+DOID:13378,Kawasaki disease,1401,CRP,DISEASES
+DOID:13378,Kawasaki disease,2212,FCGR2A,DisGeNET|GWAS Catalog
+DOID:13378,Kawasaki disease,3586,IL10,DOAF
+DOID:13378,Kawasaki disease,3682,ITGAE,DISEASES
+DOID:13378,Kawasaki disease,4318,MMP9,DOAF
+DOID:13378,Kawasaki disease,7422,VEGFA,DOAF
+DOID:13378,Kawasaki disease,79682,CENPU,GWAS Catalog
+DOID:13378,Kawasaki disease,79934,ADCK4,GWAS Catalog
+DOID:13378,Kawasaki disease,80271,ITPKC,DISEASES|DOAF|DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,119,ADD2,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,1813,DRD2,DISEASES|DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,1814,DRD3,DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,1815,DRD4,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,3067,HDC,DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,3356,HTR2A,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,4233,MET,DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,6531,SLC6A3,DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,23317,DNAJC13,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,51133,KCTD3,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,81491,GPR63,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,83943,IMMP2L,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,85301,COL27A1,GWAS Catalog
+DOID:11119,Gilles de la Tourette syndrome,114792,KLHL32,DISEASES
+DOID:11119,Gilles de la Tourette syndrome,114798,SLITRK1,DISEASES|DOAF|DisGeNET
+DOID:11119,Gilles de la Tourette syndrome,219833,C11orf45,DISEASES
+DOID:9206,Barrett's esophagus,324,APC,DOAF
+DOID:9206,Barrett's esophagus,495,ATP4A,DISEASES
+DOID:9206,Barrett's esophagus,652,BMP4,DisGeNET
+DOID:9206,Barrett's esophagus,1012,CDH13,DisGeNET
+DOID:9206,Barrett's esophagus,1029,CDKN2A,DOAF
+DOID:9206,Barrett's esophagus,1045,CDX2,DOAF
+DOID:9206,Barrett's esophagus,1592,CYP26A1,DisGeNET
+DOID:9206,Barrett's esophagus,2294,FOXF1,GWAS Catalog
+DOID:9206,Barrett's esophagus,2520,GAST,DisGeNET
+DOID:9206,Barrett's esophagus,3082,HGF,DisGeNET
+DOID:9206,Barrett's esophagus,3576,CXCL8,DisGeNET
+DOID:9206,Barrett's esophagus,4170,MCL1,DisGeNET
+DOID:9206,Barrett's esophagus,5468,PPARG,DisGeNET
+DOID:9206,Barrett's esophagus,5743,PTGS2,DOAF|DisGeNET
+DOID:9206,Barrett's esophagus,5970,RELA,DisGeNET
+DOID:9206,Barrett's esophagus,6548,SLC9A1,DisGeNET
+DOID:9206,Barrett's esophagus,6750,SST,DisGeNET
+DOID:9206,Barrett's esophagus,7157,TP53,DISEASES|DOAF
+DOID:9206,Barrett's esophagus,8856,NR1I2,DisGeNET
+DOID:9206,Barrett's esophagus,9536,PTGES,DisGeNET
+DOID:9206,Barrett's esophagus,23373,CRTC1,GWAS Catalog
+DOID:9206,Barrett's esophagus,27086,FOXP1,GWAS Catalog
+DOID:9206,Barrett's esophagus,56033,BARX1,GWAS Catalog
+DOID:9206,Barrett's esophagus,56475,RPRM,DisGeNET
+DOID:635,acquired immunodeficiency syndrome,71,ACTG1,DISEASES
+DOID:635,acquired immunodeficiency syndrome,213,ALB,DISEASES
+DOID:635,acquired immunodeficiency syndrome,904,CCNT1,DISEASES
+DOID:635,acquired immunodeficiency syndrome,920,CD4,DISEASES
+DOID:635,acquired immunodeficiency syndrome,925,CD8A,DISEASES
+DOID:635,acquired immunodeficiency syndrome,952,CD38,DISEASES
+DOID:635,acquired immunodeficiency syndrome,959,CD40LG,DISEASES
+DOID:635,acquired immunodeficiency syndrome,973,CD79A,DISEASES
+DOID:635,acquired immunodeficiency syndrome,1234,CCR5,DISEASES|DOAF
+DOID:635,acquired immunodeficiency syndrome,1437,CSF2,DISEASES
+DOID:635,acquired immunodeficiency syndrome,2028,ENPEP,DISEASES
+DOID:635,acquired immunodeficiency syndrome,2532,ACKR1,DOAF
+DOID:635,acquired immunodeficiency syndrome,3106,HLA-B,DOAF
+DOID:635,acquired immunodeficiency syndrome,3266,ERAS,DISEASES
+DOID:635,acquired immunodeficiency syndrome,3439,IFNA1,DISEASES|DisGeNET
+DOID:635,acquired immunodeficiency syndrome,3458,IFNG,DISEASES|DisGeNET
+DOID:635,acquired immunodeficiency syndrome,3558,IL2,DISEASES|DisGeNET
+DOID:635,acquired immunodeficiency syndrome,3565,IL4,DISEASES
+DOID:635,acquired immunodeficiency syndrome,3569,IL6,DISEASES
+DOID:635,acquired immunodeficiency syndrome,3586,IL10,DISEASES|DOAF
+DOID:635,acquired immunodeficiency syndrome,3600,IL15,DISEASES
+DOID:635,acquired immunodeficiency syndrome,3700,ITIH4,DISEASES
+DOID:635,acquired immunodeficiency syndrome,4153,MBL2,DOAF
+DOID:635,acquired immunodeficiency syndrome,6348,CCL3,DISEASES
+DOID:635,acquired immunodeficiency syndrome,6349,CCL3L1,DISEASES|DOAF
+DOID:635,acquired immunodeficiency syndrome,6351,CCL4,DISEASES
+DOID:635,acquired immunodeficiency syndrome,6352,CCL5,DISEASES|DOAF
+DOID:635,acquired immunodeficiency syndrome,6387,CXCL12,DOAF
+DOID:635,acquired immunodeficiency syndrome,6898,TAT,DISEASES
+DOID:635,acquired immunodeficiency syndrome,7124,TNF,DISEASES
+DOID:635,acquired immunodeficiency syndrome,7852,CXCR4,DISEASES
+DOID:635,acquired immunodeficiency syndrome,8540,AGPS,DISEASES
+DOID:635,acquired immunodeficiency syndrome,9607,CARTPT,DISEASES
+DOID:635,acquired immunodeficiency syndrome,30816,ERVW-1,DISEASES
+DOID:635,acquired immunodeficiency syndrome,54107,POLE3,DISEASES
+DOID:635,acquired immunodeficiency syndrome,60489,APOBEC3G,DISEASES
+DOID:635,acquired immunodeficiency syndrome,79966,SCD5,DISEASES
+DOID:635,acquired immunodeficiency syndrome,85363,TRIM5,DISEASES
+DOID:635,acquired immunodeficiency syndrome,641371,ACOT1,DISEASES
+DOID:635,acquired immunodeficiency syndrome,729230,CCR2,DISEASES
