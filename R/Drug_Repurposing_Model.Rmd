@@ -1,0 +1,233 @@
+---
+title: "Drug Repurposing Model"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(magrittr)
+library(glmnet)
+library(caTools)
+library(caret)
+library(InformationValue)
+library(car)
+library(ggplot2)
+```
+
+```{r,include=FALSE}
+blacklist = readr::read_csv('blacklist.csv')$feature
+feature_df = readr::read_csv('transformed-features.csv') %>% dplyr::select(-dplyr::one_of(blacklist)) 
+org_feature_df = readr::read_csv('features.csv')
+transformed_df = readr::read_csv('transformed-features.csv')
+```
+
+```{r}
+feature_df$status <- ifelse(feature_df$status == 1, 1, 0)
+feature_df$status <- factor(feature_df$status, levels = c(0, 1))
+```
+
+
+```{r}
+####Avoiding Class bias
+# Create Training Data
+input_ones <- feature_df[which(feature_df$status == 1), ]  # all 1's
+input_zeros <- feature_df[which(feature_df$status == 0), ]  # all 0's
+#set.seed(100)  # for repeatability of samples
+input_ones_training_rows <- sample(1:nrow(input_ones), 0.9*nrow(input_ones))  # 1's for training
+input_zeros_training_rows <- sample(1:nrow(input_zeros), 0.9*nrow(input_ones))  # 0's for training. Pick as many 0's as 1's
+training_ones <- input_ones[input_ones_training_rows, ]  
+training_zeros <- input_zeros[input_zeros_training_rows, ]
+trainingData <- rbind(training_ones, training_zeros)  # row bind the 1's and 0's 
+write.csv(trainingData,file = "trainingdata.csv")
+
+
+# Create Test Data
+test_ones <- input_ones[-input_ones_training_rows, ]
+test_zeros <- input_zeros[-input_zeros_training_rows, ]
+testData <- rbind(test_ones, test_zeros)  # row bind the 1's and 0's 
+write.csv(testData,file = "testdata.csv")
+
+```
+
+
+```{r}
+train_x = trainingData %>% dplyr::select(dplyr::starts_with('degree_'), dplyr::starts_with('PC_'),dplyr::starts_with('prior_'))
+train_y = trainingData %>% dplyr::select(dplyr::starts_with('status'))
+train_df = cbind(train_x,train_y)
+
+testData<-testData[sample(1:nrow(testData),nrow(train_df)),]
+write.csv(testData,file = "testdata1.csv")
+```
+
+
+```{r}
+testData = readr::read_csv('testdata1.csv')
+```
+
+
+```{r Run 0}
+
+## Run 0 - With out prior probability and Cross validation technique
+
+# train the model 
+fit_run0<- train(status ~ ., data = train_df[,-8],
+                    method = "glmnet",
+                    preProcess = c("center", "scale"))
+(fit_run0)
+plot(fit_run0, xvar = "dev", label = TRUE)
+
+#Predict
+predicted_run0 <- predict(fit_run0,newdata = testData , type = 'prob')
+pred_df_run0 = testData %>%
+  dplyr::select(compound_id, compound_name, disease_id, disease_name, status, PC_CbGaD) 
+pred_df_run0["Predicted_Probs"] = predicted_run0[2]
+
+## Cut-off
+optCutOff_run0 <- optimalCutoff(testData$status, predicted_run0[2])[1]
+print(optCutOff_run0)
+
+y_pred_num <- ifelse(predicted_run0[2] > 0.32, 1, 0)
+pred_df_run0[,"Repurpose"] <- factor(y_pred_num, levels=c(0, 1))
+
+##Evaluation metric - Accuracy
+
+cm = as.matrix(table(Actual = as.numeric(pred_df_run0$status), Predicted = as.numeric(pred_df_run0$Repurpose)))
+diag = diag(cm)
+n=sum(cm)
+accuracy_run0 = sum(diag) / n 
+print(paste0("Accuracy of model Run0:", accuracy_run0))
+```
+
+
+```{r Run 1}
+
+#Run1 - With out prior probability and with Cross validation technique
+
+train_control<- trainControl(method="repeatedcv", number=14,repeats = 5)
+glmnet_grid <- expand.grid(alpha = c(0,  .1,  .2, .4, .6, .8, 1),
+                           lambda = seq(.01, .2, length = 20))
+# train the model 
+fit_run1<- train(status ~ ., data = train_df[,-8],
+                    method = "glmnet",
+                    preProcess = c("center", "scale"),
+                    tuneGrid = glmnet_grid,
+                    trControl = train_control, family="binomial")
+
+(fit_run1)
+ggplot(fit_run1)
+
+#Predict
+predicted_run1 <- predict(fit_run1,newdata = testData , type = 'prob')
+pred_df_run1 = testData %>%
+  dplyr::select(compound_id, compound_name, disease_id, disease_name, status) 
+pred_df_run1["Predicted_Probs"] = predicted_run1[2]
+
+#Variable importance
+varImp(fit_run1)
+
+```
+
+
+```{r}
+fit_run1
+```
+
+```{r Run 1}
+y_pred_num1 <- ifelse(predicted_run1[2] > 0.5, 1, 0)
+pred_df_run1[,"Repurpose"] <- factor(y_pred_num1, levels=c(0, 1))
+
+cm1 = as.matrix(table(Actual = as.numeric(pred_df_run1$status), Predicted = as.numeric(pred_df_run1$Repurpose)))
+diag1 = diag(cm1)
+n1=sum(cm1)
+accuracy_run1 = sum(diag1) / n1 
+print(paste0("Accuracy of model Run1:", accuracy_run1))
+
+#Sensitivity, specitivity, precision
+Sens1 <- cm1[2,2]/(cm1[2,2] + cm1[2,1])
+Spec1 <- cm1[1,1]/(cm1[1,1] + cm1[1,2])
+prec1 <- cm1[2,2]/(cm1[2,2] + cm1[1,2])
+print(paste0("Sensitivity Run1: ",Sens1))
+print(paste0("Specitivity Run1: ", Spec1))
+print(paste0("Precision is Run1: ", prec1))
+```
+
+
+```{r Run 2}
+#Run2 - With both prior probability and Cross validation technique
+
+train_control<- trainControl(method="repeatedcv", number=14,repeats = 5)
+glmnet_grid <- expand.grid(alpha = c(0,  .1,  .2, .4, .6, .8, 1),
+                           lambda = seq(.01, .2, length = 20))
+# train the model 
+fit_run2<- train(status ~ ., data = train_df,
+                    method = "glmnet",
+                    preProcess = c("center", "scale"),
+                    tuneGrid = glmnet_grid,
+                    trControl = train_control, family="binomial")
+
+(fit_run2)
+
+#Predict
+predicted_run2 <- predict(fit_run2,newdata = testData , type = 'prob')
+pred_df_run2 = testData %>%
+  dplyr::select(compound_id, compound_name, disease_id, disease_name, status) 
+pred_df_run2["Predicted_Probs"] = predicted_run2[2]
+
+#Variable importance
+varImp(fit_run2)
+
+```
+
+```{r}
+y_pred_num_2 <- ifelse(predicted_run2[2] > 0.5, 1, 0)
+pred_df_run2[,"Repurpose"] <- factor(y_pred_num_2, levels=c(0, 1))
+
+cm2 = as.matrix(table(Actual = as.numeric(pred_df_run2$status), Predicted = as.numeric(pred_df_run2$Repurpose)))
+diag2 = diag(cm2)
+n2=sum(cm2)
+accuracy_run2 = sum(diag2) / n2
+print(paste0("Accuracy of model Run2:", accuracy_run2))
+
+#Sensitivity, specitivity, precision
+Sens2 <- cm2[2,2]/(cm2[2,2] + cm2[2,1])
+Spec2 <- cm2[1,1]/(cm2[1,1] + cm2[1,2])
+prec2 <- cm2[2,2]/(cm2[2,2] + cm2[1,2])
+print(paste0("Sensitivity Run2: ",Sens2))
+print(paste0("Specitivity Run2: ", Spec2))
+print(paste0("Precision is Run2: ", prec2))
+
+```
+
+```{r}
+print(coef(fit_run1$finalModel))
+```
+
+```{r}
+write.csv(pred_df_run2, file="Predictions.csv")
+```
+
+
+```{r}
+##Deciding optimal prediction cutoff
+optCutOff <- optimalCutoff(testData$status, predicted)[1]
+print(optCutOff)
+
+# Like in case of linear regression, we should check for multicollinearity in the model. As seen below, all X variables in the model have VIF well below 4.
+vif(logitMod)
+# Misclassification error is the percentage mismatch of predcited vs actuals, irrespective of 1’s or 0’s. The lower the misclassification error, the better is your model.
+misClassError(testData$status, predicted, threshold = optCutOff)
+
+#plotROC(testData$status, predicted)
+
+#Concordance(testData$status, predicted)
+Concordance(testData$status, predicted[2])
+
+# Sensitivity (or True Positive Rate) is the percentage of 1’s (actuals) correctly predicted by the model, while, specificity is the percentage of 0’s (actuals) correctly predicted. Specificity can also be calculated as 1-False Positive Rate.
+sensitivity(testData$status, predicted[2], threshold = optCutOff)
+
+specificity(testData$status, predicted[2], threshold = optCutOff)
+
+confusionMatrix(testData$status, predicted[2], threshold = optCutOff)
+
+plot(varImp(fit_run2,scale=F))
+
+```
