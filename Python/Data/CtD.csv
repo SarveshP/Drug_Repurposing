@@ -1,0 +1,1146 @@
+doid_id,drugbank_id,disease,drug,category
+DOID:10652,DB00843,Alzheimer's disease,Donepezil,DM
+DOID:10652,DB00674,Alzheimer's disease,Galantamine,DM
+DOID:10652,DB01043,Alzheimer's disease,Memantine,DM
+DOID:10652,DB00989,Alzheimer's disease,Rivastigmine,DM
+DOID:10652,DB00245,Alzheimer's disease,Benzatropine,SYM
+DOID:10652,DB01224,Alzheimer's disease,Quetiapine,SYM
+DOID:10652,DB00268,Alzheimer's disease,Ropinirole,SYM
+DOID:10652,DB01037,Alzheimer's disease,Selegiline,SYM
+DOID:10652,DB00810,Alzheimer's disease,Biperiden,NOT
+DOID:10652,DB00190,Alzheimer's disease,Carbidopa,NOT
+DOID:10652,DB00413,Alzheimer's disease,Pramipexole,NOT
+DOID:10652,DB00387,Alzheimer's disease,Procyclidine,NOT
+DOID:10652,DB00747,Alzheimer's disease,Scopolamine,NOT
+DOID:10652,DB00502,Alzheimer's disease,Haloperidol,SYM
+DOID:10652,DB00313,Alzheimer's disease,Valproic Acid,NOT
+DOID:10652,DB00163,Alzheimer's disease,Vitamin E,NOT
+DOID:9206,DB00736,Barrett's esophagus,Esomeprazole,DM
+DOID:9206,DB00338,Barrett's esophagus,Omeprazole,DM
+DOID:8778,DB00993,Crohn's disease,Azathioprine,DM
+DOID:8778,DB01014,Crohn's disease,Balsalazide,DM
+DOID:8778,DB01033,Crohn's disease,Mercaptopurine,DM
+DOID:8778,DB00244,Crohn's disease,Mesalazine,DM
+DOID:8778,DB00635,Crohn's disease,Prednisone,DM
+DOID:8778,DB00795,Crohn's disease,Sulfasalazine,DM
+DOID:8778,DB00572,Crohn's disease,Atropine,SYM
+DOID:8778,DB00424,Crohn's disease,Hyoscyamine,SYM
+DOID:8778,DB00158,Crohn's disease,Folic Acid,NOT
+DOID:8778,DB00916,Crohn's disease,Metronidazole,NOT
+DOID:11119,DB00246,Gilles de la Tourette syndrome,Ziprasidone,SYM
+DOID:11119,DB00575,Gilles de la Tourette syndrome,Clonidine,SYM
+DOID:11119,DB00502,Gilles de la Tourette syndrome,Haloperidol,SYM
+DOID:11119,DB00657,Gilles de la Tourette syndrome,Mecamylamine,SYM
+DOID:11119,DB00334,Gilles de la Tourette syndrome,Olanzapine,SYM
+DOID:11119,DB01186,Gilles de la Tourette syndrome,Pergolide,SYM
+DOID:11119,DB00850,Gilles de la Tourette syndrome,Perphenazine,SYM
+DOID:11119,DB01100,Gilles de la Tourette syndrome,Pimozide,SYM
+DOID:11119,DB00734,Gilles de la Tourette syndrome,Risperidone,SYM
+DOID:12361,DB00763,Graves' disease,Methimazole,DM
+DOID:12361,DB00550,Graves' disease,Propylthiouracil,DM
+DOID:12361,DB00509,Graves' disease,Dextrothyroxine,NOT
+DOID:12361,DB00451,Graves' disease,Levothyroxine,NOT
+DOID:12361,DB00279,Graves' disease,Liothyronine,NOT
+DOID:12361,DB01583,Graves' disease,Liotrix,NOT
+DOID:13378,DB00945,Kawasaki disease,Acetylsalicylic acid,DM
+DOID:5408,DB00630,Paget's disease of bone,Alendronate,DM
+DOID:5408,DB01077,Paget's disease of bone,Etidronic acid,DM
+DOID:5408,DB00282,Paget's disease of bone,Pamidronate,DM
+DOID:5408,DB00884,Paget's disease of bone,Risedronate,DM
+DOID:5408,DB01133,Paget's disease of bone,Tiludronate,DM
+DOID:5408,DB00399,Paget's disease of bone,Zoledronate,DM
+DOID:14330,DB00915,Parkinson's disease,Amantadine,SYM
+DOID:14330,DB00714,Parkinson's disease,Apomorphine,SYM
+DOID:14330,DB00572,Parkinson's disease,Atropine,SYM
+DOID:14330,DB00245,Parkinson's disease,Benzatropine,SYM
+DOID:14330,DB00810,Parkinson's disease,Biperiden,SYM
+DOID:14330,DB01200,Parkinson's disease,Bromocriptine,SYM
+DOID:14330,DB00248,Parkinson's disease,Cabergoline,SYM
+DOID:14330,DB00190,Parkinson's disease,Carbidopa,SYM
+DOID:14330,DB01068,Parkinson's disease,Clonazepam,SYM
+DOID:14330,DB01075,Parkinson's disease,Diphenhydramine,SYM
+DOID:14330,DB00494,Parkinson's disease,Entacapone,SYM
+DOID:14330,DB00687,Parkinson's disease,Fludrocortisone,SYM
+DOID:14330,DB00996,Parkinson's disease,Gabapentin,SYM
+DOID:14330,DB00424,Parkinson's disease,Hyoscyamine,SYM
+DOID:14330,DB01235,Parkinson's disease,L-DOPA,SYM
+DOID:14330,DB01043,Parkinson's disease,Memantine,SYM
+DOID:14330,DB00745,Parkinson's disease,Modafinil,SYM
+DOID:14330,DB01186,Parkinson's disease,Pergolide,SYM
+DOID:14330,DB00413,Parkinson's disease,Pramipexole,SYM
+DOID:14330,DB00387,Parkinson's disease,Procyclidine,SYM
+DOID:14330,DB00980,Parkinson's disease,Ramelteon,SYM
+DOID:14330,DB01367,Parkinson's disease,Rasagiline,SYM
+DOID:14330,DB00989,Parkinson's disease,Rivastigmine,SYM
+DOID:14330,DB00268,Parkinson's disease,Ropinirole,SYM
+DOID:14330,DB05271,Parkinson's disease,Rotigotine,SYM
+DOID:14330,DB01037,Parkinson's disease,Selegiline,SYM
+DOID:14330,DB00323,Parkinson's disease,Tolcapone,SYM
+DOID:14330,DB00376,Parkinson's disease,Trihexyphenidyl,SYM
+DOID:14330,DB00215,Parkinson's disease,Citalopram,NOT
+DOID:14330,DB00985,Parkinson's disease,Dimenhydrinate,NOT
+DOID:14330,DB01175,Parkinson's disease,Escitalopram,NOT
+DOID:14330,DB01224,Parkinson's disease,Quetiapine,NOT
+DOID:14330,DB00747,Parkinson's disease,Scopolamine,NOT
+DOID:14330,DB01104,Parkinson's disease,Sertraline,NOT
+DOID:14330,DB00425,Parkinson's disease,Zolpidem,NOT
+DOID:635,DB01048,acquired immunodeficiency syndrome,Abacavir,DM
+DOID:635,DB00701,acquired immunodeficiency syndrome,Amprenavir,DM
+DOID:635,DB00705,acquired immunodeficiency syndrome,Delavirdine,DM
+DOID:635,DB00900,acquired immunodeficiency syndrome,Didanosine,DM
+DOID:635,DB00625,acquired immunodeficiency syndrome,Efavirenz,DM
+DOID:635,DB00224,acquired immunodeficiency syndrome,Indinavir,DM
+DOID:635,DB00709,acquired immunodeficiency syndrome,Lamivudine,DM
+DOID:635,DB01601,acquired immunodeficiency syndrome,Lopinavir,DM
+DOID:635,DB00220,acquired immunodeficiency syndrome,Nelfinavir,DM
+DOID:635,DB00238,acquired immunodeficiency syndrome,Nevirapine,DM
+DOID:635,DB00503,acquired immunodeficiency syndrome,Ritonavir,DM
+DOID:635,DB01232,acquired immunodeficiency syndrome,Saquinavir,DM
+DOID:635,DB00649,acquired immunodeficiency syndrome,Stavudine,DM
+DOID:635,DB00495,acquired immunodeficiency syndrome,Zidovudine,DM
+DOID:635,DB00787,acquired immunodeficiency syndrome,Aciclovir,NOT
+DOID:635,DB00997,acquired immunodeficiency syndrome,Doxorubicin,NOT
+DOID:635,DB00445,acquired immunodeficiency syndrome,Epirubicin,NOT
+DOID:635,DB00196,acquired immunodeficiency syndrome,Fluconazole,NOT
+DOID:635,DB01004,acquired immunodeficiency syndrome,Ganciclovir,NOT
+DOID:635,DB00615,acquired immunodeficiency syndrome,Rifabutin,NOT
+DOID:0050741,DB00659,alcohol dependence,Acamprosate,DM
+DOID:0050741,DB00215,alcohol dependence,Citalopram,DM
+DOID:0050741,DB00822,alcohol dependence,Disulfiram,DM
+DOID:0050741,DB00704,alcohol dependence,Naltrexone,DM
+DOID:0050741,DB00475,alcohol dependence,Chlordiazepoxide,SYM
+DOID:0050741,DB00904,alcohol dependence,Ondansetron,SYM
+DOID:0050741,DB00158,alcohol dependence,Folic Acid,NOT
+DOID:4481,DB00443,allergic rhinitis,Betamethasone,DM
+DOID:4481,DB00341,allergic rhinitis,Cetirizine,DM
+DOID:4481,DB00434,allergic rhinitis,Cyproheptadine,DM
+DOID:4481,DB00967,allergic rhinitis,Desloratadine,DM
+DOID:4481,DB01234,allergic rhinitis,Dexamethasone,DM
+DOID:4481,DB00985,allergic rhinitis,Dimenhydrinate,DM
+DOID:4481,DB01075,allergic rhinitis,Diphenhydramine,DM
+DOID:4481,DB00180,allergic rhinitis,Flunisolide,DM
+DOID:4481,DB00741,allergic rhinitis,Hydrocortisone,DM
+DOID:4481,DB00455,allergic rhinitis,Loratadine,DM
+DOID:4481,DB00959,allergic rhinitis,Methylprednisolone,DM
+DOID:4481,DB00471,allergic rhinitis,Montelukast,DM
+DOID:4481,DB00768,allergic rhinitis,Olopatadine,DM
+DOID:4481,DB00860,allergic rhinitis,Prednisolone,DM
+DOID:4481,DB00620,allergic rhinitis,Triamcinolone,DM
+DOID:4481,DB01364,allergic rhinitis,Ephedrine,SYM
+DOID:4481,DB00668,allergic rhinitis,Epinephrine,SYM
+DOID:4481,DB00935,allergic rhinitis,Oxymetazoline,SYM
+DOID:4481,DB00852,allergic rhinitis,Pseudoephedrine,SYM
+DOID:4481,DB01001,allergic rhinitis,Salbutamol,SYM
+DOID:4481,DB00535,allergic rhinitis,Cefdinir,NOT
+DOID:4481,DB01190,allergic rhinitis,Clindamycin,NOT
+DOID:4481,DB00736,allergic rhinitis,Esomeprazole,NOT
+DOID:4481,DB00338,allergic rhinitis,Omeprazole,NOT
+DOID:986,DB00620,alopecia areata,Triamcinolone,DM
+DOID:332,DB00740,amyotrophic lateral sclerosis,Riluzole,DM
+DOID:332,DB00514,amyotrophic lateral sclerosis,Dextromethorphan,SYM
+DOID:2355,DB00513,anemia,Aminocaproic Acid,NOT
+DOID:2355,DB00443,anemia,Betamethasone,NOT
+DOID:2355,DB01262,anemia,Decitabine,NOT
+DOID:2355,DB08826,anemia,Deferiprone,NOT
+DOID:2355,DB01234,anemia,Dexamethasone,NOT
+DOID:2355,DB00949,anemia,Felbamate,NOT
+DOID:2355,DB00158,anemia,Folic Acid,NOT
+DOID:2355,DB00959,anemia,Methylprednisolone,NOT
+DOID:2355,DB00860,anemia,Prednisolone,NOT
+DOID:2355,DB00635,anemia,Prednisone,NOT
+DOID:2355,DB00165,anemia,Pyridoxine,NOT
+DOID:2355,DB00620,anemia,Triamcinolone,NOT
+DOID:2355,DB00126,anemia,Vitamin C,NOT
+DOID:2355,DB00163,anemia,Vitamin E,NOT
+DOID:7147,DB00443,ankylosing spondylitis,Betamethasone,DM
+DOID:7147,DB01234,ankylosing spondylitis,Dexamethasone,DM
+DOID:7147,DB00563,ankylosing spondylitis,Methotrexate,DM
+DOID:7147,DB00959,ankylosing spondylitis,Methylprednisolone,DM
+DOID:7147,DB00860,ankylosing spondylitis,Prednisolone,DM
+DOID:7147,DB00635,ankylosing spondylitis,Prednisone,DM
+DOID:7147,DB00795,ankylosing spondylitis,Sulfasalazine,DM
+DOID:7147,DB00620,ankylosing spondylitis,Triamcinolone,DM
+DOID:7147,DB00482,ankylosing spondylitis,Celecoxib,SYM
+DOID:7147,DB00586,ankylosing spondylitis,Diclofenac,SYM
+DOID:7147,DB00328,ankylosing spondylitis,Indomethacin,SYM
+DOID:7147,DB00814,ankylosing spondylitis,Meloxicam,SYM
+DOID:7147,DB00788,ankylosing spondylitis,Naproxen,SYM
+DOID:7147,DB00554,ankylosing spondylitis,Piroxicam,SYM
+DOID:7147,DB00500,ankylosing spondylitis,Tolmetin,SYM
+DOID:7147,DB00924,ankylosing spondylitis,Cyclobenzaprine,NOT
+DOID:7147,DB00736,ankylosing spondylitis,Esomeprazole,NOT
+DOID:7147,DB00158,ankylosing spondylitis,Folic Acid,NOT
+DOID:7147,DB00338,ankylosing spondylitis,Omeprazole,NOT
+DOID:2841,DB01223,asthma,Aminophylline,DM
+DOID:2841,DB01274,asthma,Arformoterol,DM
+DOID:2841,DB00394,asthma,Beclomethasone,DM
+DOID:2841,DB00443,asthma,Betamethasone,DM
+DOID:2841,DB01222,asthma,Budesonide,DM
+DOID:2841,DB01410,asthma,Ciclesonide,DM
+DOID:2841,DB01003,asthma,Cromoglicic acid,DM
+DOID:2841,DB01234,asthma,Dexamethasone,DM
+DOID:2841,DB00651,asthma,Dyphylline,DM
+DOID:2841,DB00180,asthma,Flunisolide,DM
+DOID:2841,DB00588,asthma,Fluticasone Propionate,DM
+DOID:2841,DB08906,asthma,Fluticasone furoate,DM
+DOID:2841,DB00983,asthma,Formoterol,DM
+DOID:2841,DB00741,asthma,Hydrocortisone,DM
+DOID:2841,DB05039,asthma,Indacaterol,DM
+DOID:2841,DB00332,asthma,Ipratropium bromide,DM
+DOID:2841,DB00221,asthma,Isoetarine,DM
+DOID:2841,DB01064,asthma,Isoprenaline,DM
+DOID:2841,DB00920,asthma,Ketotifen,DM
+DOID:2841,DB00455,asthma,Loratadine,DM
+DOID:2841,DB00959,asthma,Methylprednisolone,DM
+DOID:2841,DB00764,asthma,Mometasone,DM
+DOID:2841,DB00471,asthma,Montelukast,DM
+DOID:2841,DB00716,asthma,Nedocromil,DM
+DOID:2841,DB00816,asthma,Orciprenaline,DM
+DOID:2841,DB01291,asthma,Pirbuterol,DM
+DOID:2841,DB00860,asthma,Prednisolone,DM
+DOID:2841,DB00635,asthma,Prednisone,DM
+DOID:2841,DB01001,asthma,Salbutamol,DM
+DOID:2841,DB00938,asthma,Salmeterol,DM
+DOID:2841,DB00871,asthma,Terbutaline,DM
+DOID:2841,DB00277,asthma,Theophylline,DM
+DOID:2841,DB01409,asthma,Tiotropium,DM
+DOID:2841,DB00620,asthma,Triamcinolone,DM
+DOID:2841,DB05389,asthma,WF10,DM
+DOID:2841,DB00549,asthma,Zafirlukast,DM
+DOID:2841,DB00744,asthma,Zileuton,DM
+DOID:2841,DB01364,asthma,Ephedrine,SYM
+DOID:2841,DB00668,asthma,Epinephrine,SYM
+DOID:2841,DB00852,asthma,Pseudoephedrine,SYM
+DOID:2841,DB00535,asthma,Cefdinir,NOT
+DOID:2841,DB00537,asthma,Ciprofloxacin,NOT
+DOID:2841,DB01137,asthma,Levofloxacin,NOT
+DOID:2841,DB00218,asthma,Moxifloxacin,NOT
+DOID:2841,DB00440,asthma,Trimethoprim,NOT
+DOID:1936,DB00973,atherosclerosis,Ezetimibe,DM
+DOID:1936,DB00227,atherosclerosis,Lovastatin,DM
+DOID:1936,DB00627,atherosclerosis,Niacin,DM
+DOID:1936,DB00175,atherosclerosis,Pravastatin,DM
+DOID:1936,DB01098,atherosclerosis,Rosuvastatin,DM
+DOID:1936,DB00641,atherosclerosis,Simvastatin,DM
+DOID:1936,DB00758,atherosclerosis,Clopidogrel,NOT
+DOID:1936,DB01240,atherosclerosis,Epoprostenol,NOT
+DOID:1936,DB00797,atherosclerosis,Tolazoline,NOT
+DOID:3310,DB00443,atopic dermatitis,Betamethasone,DM
+DOID:3310,DB01260,atopic dermatitis,Desonide,DM
+DOID:3310,DB01234,atopic dermatitis,Dexamethasone,DM
+DOID:3310,DB00985,atopic dermatitis,Dimenhydrinate,DM
+DOID:3310,DB01075,atopic dermatitis,Diphenhydramine,DM
+DOID:3310,DB00591,atopic dermatitis,Fluocinolone Acetonide,DM
+DOID:3310,DB01047,atopic dermatitis,Fluocinonide,DM
+DOID:3310,DB00741,atopic dermatitis,Hydrocortisone,DM
+DOID:3310,DB00455,atopic dermatitis,Loratadine,DM
+DOID:3310,DB00959,atopic dermatitis,Methylprednisolone,DM
+DOID:3310,DB00764,atopic dermatitis,Mometasone,DM
+DOID:3310,DB00337,atopic dermatitis,Pimecrolimus,DM
+DOID:3310,DB00860,atopic dermatitis,Prednisolone,DM
+DOID:3310,DB00635,atopic dermatitis,Prednisone,DM
+DOID:3310,DB00864,atopic dermatitis,Tacrolimus,DM
+DOID:3310,DB00620,atopic dermatitis,Triamcinolone,DM
+DOID:3310,DB01142,atopic dermatitis,Doxepin,SYM
+DOID:3310,DB00427,atopic dermatitis,Triprolidine,SYM
+DOID:3310,DB01190,atopic dermatitis,Clindamycin,NOT
+DOID:3310,DB00410,atopic dermatitis,Mupirocin,NOT
+DOID:1094,DB00182,attention deficit hyperactivity disorder,Amphetamine,SYM
+DOID:1094,DB00289,attention deficit hyperactivity disorder,Atomoxetine,SYM
+DOID:1094,DB01156,attention deficit hyperactivity disorder,Bupropion,SYM
+DOID:1094,DB00575,attention deficit hyperactivity disorder,Clonidine,SYM
+DOID:1094,DB01151,attention deficit hyperactivity disorder,Desipramine,SYM
+DOID:1094,DB01576,attention deficit hyperactivity disorder,Dextroamphetamine,SYM
+DOID:1094,DB01018,attention deficit hyperactivity disorder,Guanfacine,SYM
+DOID:1094,DB00458,attention deficit hyperactivity disorder,Imipramine,SYM
+DOID:1094,DB01255,attention deficit hyperactivity disorder,Lisdexamfetamine,SYM
+DOID:1094,DB01577,attention deficit hyperactivity disorder,Methamphetamine,SYM
+DOID:1094,DB00422,attention deficit hyperactivity disorder,Methylphenidate,SYM
+DOID:1094,DB00745,attention deficit hyperactivity disorder,Modafinil,SYM
+DOID:1094,DB00540,attention deficit hyperactivity disorder,Nortriptyline,SYM
+DOID:1094,DB00285,attention deficit hyperactivity disorder,Venlafaxine,SYM
+DOID:12849,DB01238,autistic disorder,Aripiprazole,SYM
+DOID:12849,DB00289,autistic disorder,Atomoxetine,SYM
+DOID:12849,DB00245,autistic disorder,Benzatropine,SYM
+DOID:12849,DB01068,autistic disorder,Clonazepam,SYM
+DOID:12849,DB00575,autistic disorder,Clonidine,SYM
+DOID:12849,DB01224,autistic disorder,Quetiapine,SYM
+DOID:12849,DB00734,autistic disorder,Risperidone,SYM
+DOID:12849,DB01104,autistic disorder,Sertraline,SYM
+DOID:12849,DB00583,autistic disorder,L-Carnitine,NOT
+DOID:14227,DB00882,azoospermia,Clomifene,DM
+DOID:3312,DB01238,bipolar disorder,Aripiprazole,SYM
+DOID:3312,DB00564,bipolar disorder,Carbamazepine,SYM
+DOID:3312,DB00477,bipolar disorder,Chlorpromazine,SYM
+DOID:3312,DB00215,bipolar disorder,Citalopram,SYM
+DOID:3312,DB01068,bipolar disorder,Clonazepam,SYM
+DOID:3312,DB00363,bipolar disorder,Clozapine,SYM
+DOID:3312,DB00476,bipolar disorder,Duloxetine,SYM
+DOID:3312,DB01175,bipolar disorder,Escitalopram,SYM
+DOID:3312,DB00996,bipolar disorder,Gabapentin,SYM
+DOID:3312,DB00555,bipolar disorder,Lamotrigine,SYM
+DOID:3312,DB00334,bipolar disorder,Olanzapine,SYM
+DOID:3312,DB00776,bipolar disorder,Oxcarbazepine,SYM
+DOID:3312,DB00715,bipolar disorder,Paroxetine,SYM
+DOID:3312,DB01224,bipolar disorder,Quetiapine,SYM
+DOID:3312,DB00734,bipolar disorder,Risperidone,SYM
+DOID:3312,DB00906,bipolar disorder,Tiagabine,SYM
+DOID:3312,DB00273,bipolar disorder,Topiramate,SYM
+DOID:3312,DB00656,bipolar disorder,Trazodone,SYM
+DOID:3312,DB00313,bipolar disorder,Valproic Acid,SYM
+DOID:3312,DB00246,bipolar disorder,Ziprasidone,SYM
+DOID:184,DB00958,bone cancer,Carboplatin,DM
+DOID:184,DB00515,bone cancer,Cisplatin,DM
+DOID:184,DB00997,bone cancer,Doxorubicin,DM
+DOID:184,DB00445,bone cancer,Epirubicin,DM
+DOID:184,DB00563,bone cancer,Methotrexate,DM
+DOID:184,DB00650,bone cancer,Leucovorin,NOT
+DOID:184,DB00399,bone cancer,Zoledronate,NOT
+DOID:1319,DB00958,brain cancer,Carboplatin,DM
+DOID:1319,DB00262,brain cancer,Carmustine,DM
+DOID:1319,DB00773,brain cancer,Etoposide,DM
+DOID:1319,DB01005,brain cancer,Hydroxyurea,DM
+DOID:1319,DB01206,brain cancer,Lomustine,DM
+DOID:1319,DB01168,brain cancer,Procarbazine,DM
+DOID:1319,DB00853,brain cancer,Temozolomide,DM
+DOID:1319,DB00443,brain cancer,Betamethasone,SYM
+DOID:1319,DB01234,brain cancer,Dexamethasone,SYM
+DOID:1319,DB00959,brain cancer,Methylprednisolone,SYM
+DOID:1319,DB00620,brain cancer,Triamcinolone,SYM
+DOID:1319,DB00834,brain cancer,Mifepristone,NOT
+DOID:1612,DB01217,breast cancer,Anastrozole,DM
+DOID:1612,DB01101,breast cancer,Capecitabine,DM
+DOID:1612,DB00958,breast cancer,Carboplatin,DM
+DOID:1612,DB00291,breast cancer,Chlorambucil,DM
+DOID:1612,DB01248,breast cancer,Docetaxel,DM
+DOID:1612,DB00997,breast cancer,Doxorubicin,DM
+DOID:1612,DB00445,breast cancer,Epirubicin,DM
+DOID:1612,DB08871,breast cancer,Eribulin,DM
+DOID:1612,DB00990,breast cancer,Exemestane,DM
+DOID:1612,DB00544,breast cancer,Fluorouracil,DM
+DOID:1612,DB01185,breast cancer,Fluoxymesterone,DM
+DOID:1612,DB00947,breast cancer,Fulvestrant,DM
+DOID:1612,DB00441,breast cancer,Gemcitabine,DM
+DOID:1612,DB00014,breast cancer,Goserelin,DM
+DOID:1612,DB01177,breast cancer,Idarubicin,DM
+DOID:1612,DB00762,breast cancer,Irinotecan,DM
+DOID:1612,DB04845,breast cancer,Ixabepilone,DM
+DOID:1612,DB01259,breast cancer,Lapatinib,DM
+DOID:1612,DB01006,breast cancer,Letrozole,DM
+DOID:1612,DB01042,breast cancer,Melphalan,DM
+DOID:1612,DB00563,breast cancer,Methotrexate,DM
+DOID:1612,DB01204,breast cancer,Mitoxantrone,DM
+DOID:1612,DB01229,breast cancer,Paclitaxel,DM
+DOID:1612,DB00481,breast cancer,Raloxifene,DM
+DOID:1612,DB00675,breast cancer,Tamoxifen,DM
+DOID:1612,DB04572,breast cancer,Thiotepa,DM
+DOID:1612,DB00539,breast cancer,Toremifene,DM
+DOID:1612,DB00570,breast cancer,Vinblastine,DM
+DOID:1612,DB00361,breast cancer,Vinorelbine,DM
+DOID:1612,DB00673,breast cancer,Aprepitant,SYM
+DOID:1612,DB00443,breast cancer,Betamethasone,SYM
+DOID:1612,DB00286,breast cancer,Conjugated Estrogens,SYM
+DOID:1612,DB01234,breast cancer,Dexamethasone,SYM
+DOID:1612,DB00783,breast cancer,Estradiol,SYM
+DOID:1612,DB08866,breast cancer,Estradiol valerate/Dienogest,SYM
+DOID:1612,DB00655,breast cancer,Estrone,SYM
+DOID:1612,DB00977,breast cancer,Ethinyl Estradiol,SYM
+DOID:1612,DB00603,breast cancer,Medroxyprogesterone Acetate,SYM
+DOID:1612,DB00351,breast cancer,Megestrol acetate,SYM
+DOID:1612,DB06710,breast cancer,Methyltestosterone,SYM
+DOID:1612,DB00433,breast cancer,Prochlorperazine,SYM
+DOID:1612,DB00624,breast cancer,Testosterone,SYM
+DOID:1612,DB01420,breast cancer,Testosterone Propionate,SYM
+DOID:1612,DB00630,breast cancer,Alendronate,NOT
+DOID:1612,DB00380,breast cancer,Dexrazoxane,NOT
+DOID:1612,DB00282,breast cancer,Pamidronate,NOT
+DOID:1612,DB00761,breast cancer,Potassium Chloride,NOT
+DOID:1612,DB00884,breast cancer,Risedronate,NOT
+DOID:1612,DB01133,breast cancer,Tiludronate,NOT
+DOID:1612,DB00399,breast cancer,Zoledronate,NOT
+DOID:4362,DB01030,cervical cancer,Topotecan,DM
+DOID:784,DB00887,chronic kidney failure,Bumetanide,SYM
+DOID:784,DB00136,chronic kidney failure,Calcitriol,SYM
+DOID:784,DB00258,chronic kidney failure,Calcium Acetate,SYM
+DOID:784,DB00169,chronic kidney failure,Cholecalciferol,SYM
+DOID:784,DB01012,chronic kidney failure,Cinacalcet,SYM
+DOID:784,DB00746,chronic kidney failure,Deferoxamine,SYM
+DOID:784,DB00903,chronic kidney failure,Ethacrynic acid,SYM
+DOID:784,DB00695,chronic kidney failure,Furosemide,SYM
+DOID:784,DB00910,chronic kidney failure,Paricalcitol,SYM
+DOID:784,DB00214,chronic kidney failure,Torasemide,SYM
+DOID:784,DB00567,chronic kidney failure,Cephalexin,NOT
+DOID:3083,DB01223,chronic obstructive pulmonary disease,Aminophylline,DM
+DOID:3083,DB01274,chronic obstructive pulmonary disease,Arformoterol,DM
+DOID:3083,DB00983,chronic obstructive pulmonary disease,Formoterol,DM
+DOID:3083,DB00471,chronic obstructive pulmonary disease,Montelukast,DM
+DOID:3083,DB00860,chronic obstructive pulmonary disease,Prednisolone,DM
+DOID:3083,DB00635,chronic obstructive pulmonary disease,Prednisone,DM
+DOID:3083,DB01656,chronic obstructive pulmonary disease,Roflumilast,DM
+DOID:3083,DB01001,chronic obstructive pulmonary disease,Salbutamol,DM
+DOID:3083,DB01409,chronic obstructive pulmonary disease,Tiotropium,DM
+DOID:3083,DB06151,chronic obstructive pulmonary disease,Acetylcysteine,SYM
+DOID:3083,DB00537,chronic obstructive pulmonary disease,Ciprofloxacin,SYM
+DOID:3083,DB00254,chronic obstructive pulmonary disease,Doxycycline,SYM
+DOID:3083,DB01137,chronic obstructive pulmonary disease,Levofloxacin,SYM
+DOID:3083,DB00218,chronic obstructive pulmonary disease,Moxifloxacin,SYM
+DOID:3083,DB01165,chronic obstructive pulmonary disease,Ofloxacin,SYM
+DOID:3083,DB00184,chronic obstructive pulmonary disease,Nicotine,NOT
+DOID:3083,DB00820,chronic obstructive pulmonary disease,Tadalafil,NOT
+DOID:3083,DB05389,chronic obstructive pulmonary disease,WF10,NOT
+DOID:3083,DB00425,chronic obstructive pulmonary disease,Zolpidem,NOT
+DOID:219,DB01101,colon cancer,Capecitabine,DM
+DOID:219,DB00544,colon cancer,Fluorouracil,DM
+DOID:219,DB00762,colon cancer,Irinotecan,DM
+DOID:219,DB00563,colon cancer,Methotrexate,DM
+DOID:219,DB00541,colon cancer,Vincristine,DM
+DOID:219,DB00673,colon cancer,Aprepitant,SYM
+DOID:219,DB00443,colon cancer,Betamethasone,SYM
+DOID:219,DB00482,colon cancer,Celecoxib,SYM
+DOID:219,DB01234,colon cancer,Dexamethasone,SYM
+DOID:219,DB01008,colon cancer,Busulfan,NOT
+DOID:219,DB00987,colon cancer,Cytarabine,NOT
+DOID:219,DB00996,colon cancer,Gabapentin,NOT
+DOID:219,DB00650,colon cancer,Leucovorin,NOT
+DOID:12995,DB00477,conduct disorder,Chlorpromazine,SYM
+DOID:12995,DB00502,conduct disorder,Haloperidol,SYM
+DOID:12995,DB00734,conduct disorder,Risperidone,SYM
+DOID:3393,DB00945,coronary artery disease,Acetylsalicylic acid,DM
+DOID:3393,DB01076,coronary artery disease,Atorvastatin,DM
+DOID:3393,DB01197,coronary artery disease,Captopril,DM
+DOID:3393,DB00758,coronary artery disease,Clopidogrel,DM
+DOID:3393,DB00584,coronary artery disease,Enalapril,DM
+DOID:3393,DB00700,coronary artery disease,Eplerenone,DM
+DOID:3393,DB00973,coronary artery disease,Ezetimibe,DM
+DOID:3393,DB01039,coronary artery disease,Fenofibrate,DM
+DOID:3393,DB00695,coronary artery disease,Furosemide,DM
+DOID:3393,DB01241,coronary artery disease,Gemfibrozil,DM
+DOID:3393,DB00722,coronary artery disease,Lisinopril,DM
+DOID:3393,DB00678,coronary artery disease,Losartan,DM
+DOID:3393,DB00227,coronary artery disease,Lovastatin,DM
+DOID:3393,DB00627,coronary artery disease,Niacin,DM
+DOID:3393,DB00275,coronary artery disease,Olmesartan,DM
+DOID:3393,DB01359,coronary artery disease,Penbutolol,DM
+DOID:3393,DB00790,coronary artery disease,Perindopril,DM
+DOID:3393,DB08860,coronary artery disease,Pitavastatin,DM
+DOID:3393,DB00175,coronary artery disease,Pravastatin,DM
+DOID:3393,DB00178,coronary artery disease,Ramipril,DM
+DOID:3393,DB01098,coronary artery disease,Rosuvastatin,DM
+DOID:3393,DB00641,coronary artery disease,Simvastatin,DM
+DOID:3393,DB00966,coronary artery disease,Telmisartan,DM
+DOID:3393,DB08816,coronary artery disease,Ticagrelor,DM
+DOID:3393,DB00373,coronary artery disease,Timolol,DM
+DOID:3393,DB00775,coronary artery disease,Tirofiban,DM
+DOID:3393,DB00519,coronary artery disease,Trandolapril,DM
+DOID:3393,DB00177,coronary artery disease,Valsartan,DM
+DOID:3393,DB00381,coronary artery disease,Amlodipine,SYM
+DOID:3393,DB00390,coronary artery disease,Digoxin,SYM
+DOID:3393,DB00343,coronary artery disease,Diltiazem,SYM
+DOID:3393,DB00975,coronary artery disease,Dipyridamole,SYM
+DOID:3393,DB00883,coronary artery disease,Isosorbide Dinitrate,SYM
+DOID:3393,DB01020,coronary artery disease,Isosorbide Mononitrate,SYM
+DOID:3393,DB00281,coronary artery disease,Lidocaine,SYM
+DOID:3393,DB00295,coronary artery disease,Morphine,SYM
+DOID:3393,DB01115,coronary artery disease,Nifedipine,SYM
+DOID:3393,DB00727,coronary artery disease,Nitroglycerin,SYM
+DOID:3393,DB01118,coronary artery disease,Amiodarone,NOT
+DOID:3393,DB00509,coronary artery disease,Dextrothyroxine,NOT
+DOID:3393,DB00988,coronary artery disease,Dopamine,NOT
+DOID:3393,DB00783,coronary artery disease,Estradiol,NOT
+DOID:3393,DB00451,coronary artery disease,Levothyroxine,NOT
+DOID:3393,DB01583,coronary artery disease,Liotrix,NOT
+DOID:3393,DB00761,coronary artery disease,Potassium Chloride,NOT
+DOID:216,DB00907,dental caries,Cocaine,NOT
+DOID:12930,DB00695,dilated cardiomyopathy,Furosemide,DM
+DOID:12930,DB00722,dilated cardiomyopathy,Lisinopril,DM
+DOID:12930,DB00421,dilated cardiomyopathy,Spironolactone,DM
+DOID:12930,DB01427,dilated cardiomyopathy,Amrinone,SYM
+DOID:12930,DB00390,dilated cardiomyopathy,Digoxin,SYM
+DOID:1595,DB00321,endogenous depression,Amitriptyline,SYM
+DOID:1595,DB01238,endogenous depression,Aripiprazole,SYM
+DOID:1595,DB00215,endogenous depression,Citalopram,SYM
+DOID:1595,DB00476,endogenous depression,Duloxetine,SYM
+DOID:1595,DB01175,endogenous depression,Escitalopram,SYM
+DOID:1595,DB00176,endogenous depression,Fluvoxamine,SYM
+DOID:1595,DB00458,endogenous depression,Imipramine,SYM
+DOID:1595,DB01149,endogenous depression,Nefazodone,SYM
+DOID:1595,DB00540,endogenous depression,Nortriptyline,SYM
+DOID:1595,DB00715,endogenous depression,Paroxetine,SYM
+DOID:1595,DB01037,endogenous depression,Selegiline,SYM
+DOID:1595,DB01104,endogenous depression,Sertraline,SYM
+DOID:1595,DB00656,endogenous depression,Trazodone,SYM
+DOID:1595,DB00313,endogenous depression,Valproic Acid,SYM
+DOID:1595,DB06684,endogenous depression,Vilazodone,SYM
+DOID:1826,DB00819,epilepsy syndrome,Acetazolamide,DM
+DOID:1826,DB01351,epilepsy syndrome,Amobarbital,DM
+DOID:1826,DB00564,epilepsy syndrome,Carbamazepine,DM
+DOID:1826,DB00349,epilepsy syndrome,Clobazam,DM
+DOID:1826,DB01068,epilepsy syndrome,Clonazepam,DM
+DOID:1826,DB00829,epilepsy syndrome,Diazepam,DM
+DOID:1826,DB00949,epilepsy syndrome,Felbamate,DM
+DOID:1826,DB01320,epilepsy syndrome,Fosphenytoin,DM
+DOID:1826,DB00996,epilepsy syndrome,Gabapentin,DM
+DOID:1826,DB06218,epilepsy syndrome,Lacosamide,DM
+DOID:1826,DB00555,epilepsy syndrome,Lamotrigine,DM
+DOID:1826,DB01202,epilepsy syndrome,Levetiracetam,DM
+DOID:1826,DB00683,epilepsy syndrome,Midazolam,DM
+DOID:1826,DB00776,epilepsy syndrome,Oxcarbazepine,DM
+DOID:1826,DB01174,epilepsy syndrome,Phenobarbital,DM
+DOID:1826,DB00252,epilepsy syndrome,Phenytoin,DM
+DOID:1826,DB00230,epilepsy syndrome,Pregabalin,DM
+DOID:1826,DB00794,epilepsy syndrome,Primidone,DM
+DOID:1826,DB00818,epilepsy syndrome,Propofol,DM
+DOID:1826,DB06201,epilepsy syndrome,Rufinamide,DM
+DOID:1826,DB00273,epilepsy syndrome,Topiramate,DM
+DOID:1826,DB00347,epilepsy syndrome,Trimethadione,DM
+DOID:1826,DB00313,epilepsy syndrome,Valproic Acid,DM
+DOID:1826,DB01080,epilepsy syndrome,Vigabatrin,DM
+DOID:1826,DB00909,epilepsy syndrome,Zonisamide,DM
+DOID:1826,DB00490,epilepsy syndrome,Buspirone,NOT
+DOID:1826,DB00292,epilepsy syndrome,Etomidate,NOT
+DOID:1826,DB01216,epilepsy syndrome,Finasteride,NOT
+DOID:1826,DB00158,epilepsy syndrome,Folic Acid,NOT
+DOID:1826,DB00350,epilepsy syndrome,Minoxidil,NOT
+DOID:1826,DB01346,epilepsy syndrome,Quinidine barbiturate,NOT
+DOID:1826,DB00421,epilepsy syndrome,Spironolactone,NOT
+DOID:1826,DB00795,epilepsy syndrome,Sulfasalazine,NOT
+DOID:1826,DB00906,epilepsy syndrome,Tiagabine,NOT
+DOID:1826,DB00620,epilepsy syndrome,Triamcinolone,NOT
+DOID:5041,DB01101,esophageal cancer,Capecitabine,DM
+DOID:5041,DB00958,esophageal cancer,Carboplatin,DM
+DOID:5041,DB00515,esophageal cancer,Cisplatin,DM
+DOID:5041,DB00563,esophageal cancer,Methotrexate,DM
+DOID:5041,DB00736,esophageal cancer,Esomeprazole,SYM
+DOID:5041,DB00338,esophageal cancer,Omeprazole,SYM
+DOID:5041,DB00707,esophageal cancer,Porfimer,SYM
+DOID:1312,DB00091,focal segmental glomerulosclerosis,Cyclosporine,DM
+DOID:2994,DB00290,germ cell cancer,Bleomycin,DM
+DOID:2994,DB00515,germ cell cancer,Cisplatin,DM
+DOID:2994,DB00970,germ cell cancer,Dactinomycin,DM
+DOID:2994,DB00773,germ cell cancer,Etoposide,DM
+DOID:2994,DB01181,germ cell cancer,Ifosfamide,DM
+DOID:2994,DB00563,germ cell cancer,Methotrexate,DM
+DOID:2994,DB00570,germ cell cancer,Vinblastine,DM
+DOID:2994,DB00917,germ cell cancer,Dinoprostone,NOT
+DOID:11714,DB01016,gestational diabetes,Glyburide,DM
+DOID:1686,DB00819,glaucoma,Acetazolamide,DM
+DOID:1686,DB00964,glaucoma,Apraclonidine,DM
+DOID:1686,DB00195,glaucoma,Betaxolol,DM
+DOID:1686,DB00905,glaucoma,Bimatoprost,DM
+DOID:1686,DB00484,glaucoma,Brimonidine,DM
+DOID:1686,DB01194,glaucoma,Brinzolamide,DM
+DOID:1686,DB00411,glaucoma,Carbachol,DM
+DOID:1686,DB00521,glaucoma,Carteolol,DM
+DOID:1686,DB00575,glaucoma,Clonidine,DM
+DOID:1686,DB01144,glaucoma,Diclofenamide,DM
+DOID:1686,DB00449,glaucoma,Dipivefrin,DM
+DOID:1686,DB00869,glaucoma,Dorzolamide,DM
+DOID:1686,DB01057,glaucoma,Echothiophate,DM
+DOID:1686,DB00654,glaucoma,Latanoprost,DM
+DOID:1686,DB01210,glaucoma,Levobunolol,DM
+DOID:1686,DB00703,glaucoma,Methazolamide,DM
+DOID:1686,DB01214,glaucoma,Metipranolol,DM
+DOID:1686,DB00981,glaucoma,Physostigmine,DM
+DOID:1686,DB01085,glaucoma,Pilocarpine,DM
+DOID:1686,DB00373,glaucoma,Timolol,DM
+DOID:1686,DB00287,glaucoma,Travoprost,DM
+DOID:1686,DB00668,glaucoma,Epinephrine,SYM
+DOID:1686,DB00742,glaucoma,Mannitol,SYM
+DOID:1686,DB00305,glaucoma,Mitomycin,NOT
+DOID:1686,DB00388,glaucoma,Phenylephrine,NOT
+DOID:13189,DB00437,gout,Allopurinol,DM
+DOID:13189,DB01394,gout,Colchicine,DM
+DOID:13189,DB00741,gout,Hydrocortisone,DM
+DOID:13189,DB00328,gout,Indomethacin,DM
+DOID:13189,DB00959,gout,Methylprednisolone,DM
+DOID:13189,DB00788,gout,Naproxen,DM
+DOID:13189,DB00860,gout,Prednisolone,DM
+DOID:13189,DB00635,gout,Prednisone,DM
+DOID:13189,DB01032,gout,Probenecid,DM
+DOID:13189,DB00945,gout,Acetylsalicylic acid,SYM
+DOID:11934,DB01248,head and neck cancer,Docetaxel,DM
+DOID:11934,DB00544,head and neck cancer,Fluorouracil,DM
+DOID:11934,DB01005,head and neck cancer,Hydroxyurea,DM
+DOID:11934,DB00570,head and neck cancer,Vinblastine,DM
+DOID:11934,DB01085,head and neck cancer,Pilocarpine,SYM
+DOID:2531,DB00523,hematologic cancer,Alitretinoin,DM
+DOID:2531,DB00261,hematologic cancer,Anagrelide,DM
+DOID:2531,DB00443,hematologic cancer,Betamethasone,DM
+DOID:2531,DB00307,hematologic cancer,Bexarotene,DM
+DOID:2531,DB00290,hematologic cancer,Bleomycin,DM
+DOID:2531,DB00188,hematologic cancer,Bortezomib,DM
+DOID:2531,DB01008,hematologic cancer,Busulfan,DM
+DOID:2531,DB00262,hematologic cancer,Carmustine,DM
+DOID:2531,DB00291,hematologic cancer,Chlorambucil,DM
+DOID:2531,DB00515,hematologic cancer,Cisplatin,DM
+DOID:2531,DB00242,hematologic cancer,Cladribine,DM
+DOID:2531,DB00631,hematologic cancer,Clofarabine,DM
+DOID:2531,DB00987,hematologic cancer,Cytarabine,DM
+DOID:2531,DB00851,hematologic cancer,Dacarbazine,DM
+DOID:2531,DB01254,hematologic cancer,Dasatinib,DM
+DOID:2531,DB00694,hematologic cancer,Daunorubicin,DM
+DOID:2531,DB01234,hematologic cancer,Dexamethasone,DM
+DOID:2531,DB00997,hematologic cancer,Doxorubicin,DM
+DOID:2531,DB00445,hematologic cancer,Epirubicin,DM
+DOID:2531,DB00773,hematologic cancer,Etoposide,DM
+DOID:2531,DB01073,hematologic cancer,Fludarabine,DM
+DOID:2531,DB00441,hematologic cancer,Gemcitabine,DM
+DOID:2531,DB01005,hematologic cancer,Hydroxyurea,DM
+DOID:2531,DB01177,hematologic cancer,Idarubicin,DM
+DOID:2531,DB01181,hematologic cancer,Ifosfamide,DM
+DOID:2531,DB00619,hematologic cancer,Imatinib,DM
+DOID:2531,DB00762,hematologic cancer,Irinotecan,DM
+DOID:2531,DB00480,hematologic cancer,Lenalidomide,DM
+DOID:2531,DB01206,hematologic cancer,Lomustine,DM
+DOID:2531,DB00888,hematologic cancer,Mechlorethamine,DM
+DOID:2531,DB01042,hematologic cancer,Melphalan,DM
+DOID:2531,DB01033,hematologic cancer,Mercaptopurine,DM
+DOID:2531,DB00563,hematologic cancer,Methotrexate,DM
+DOID:2531,DB00553,hematologic cancer,Methoxsalen,DM
+DOID:2531,DB01204,hematologic cancer,Mitoxantrone,DM
+DOID:2531,DB01280,hematologic cancer,Nelarabine,DM
+DOID:2531,DB04868,hematologic cancer,Nilotinib,DM
+DOID:2531,DB00552,hematologic cancer,Pentostatin,DM
+DOID:2531,DB00860,hematologic cancer,Prednisolone,DM
+DOID:2531,DB00635,hematologic cancer,Prednisone,DM
+DOID:2531,DB01168,hematologic cancer,Procarbazine,DM
+DOID:2531,DB08877,hematologic cancer,Ruxolitinib,DM
+DOID:2531,DB00444,hematologic cancer,Teniposide,DM
+DOID:2531,DB01041,hematologic cancer,Thalidomide,DM
+DOID:2531,DB04572,hematologic cancer,Thiotepa,DM
+DOID:2531,DB00352,hematologic cancer,Tioguanine,DM
+DOID:2531,DB00620,hematologic cancer,Triamcinolone,DM
+DOID:2531,DB00570,hematologic cancer,Vinblastine,DM
+DOID:2531,DB00541,hematologic cancer,Vincristine,DM
+DOID:2531,DB00361,hematologic cancer,Vinorelbine,DM
+DOID:2531,DB02546,hematologic cancer,Vorinostat,DM
+DOID:2531,DB00482,hematologic cancer,Celecoxib,SYM
+DOID:2531,DB00959,hematologic cancer,Methylprednisolone,SYM
+DOID:2531,DB00437,hematologic cancer,Allopurinol,NOT
+DOID:2531,DB00982,hematologic cancer,Isotretinoin,NOT
+DOID:2531,DB00282,hematologic cancer,Pamidronate,NOT
+DOID:2531,DB06809,hematologic cancer,Plerixafor,NOT
+DOID:2531,DB00428,hematologic cancer,Streptozocin,NOT
+DOID:2531,DB00755,hematologic cancer,Tretinoin,NOT
+DOID:2531,DB00399,hematologic cancer,Zoledronate,NOT
+DOID:2043,DB00718,hepatitis B,Adefovir Dipivoxil,DM
+DOID:2043,DB00442,hepatitis B,Entecavir,DM
+DOID:2043,DB00709,hepatitis B,Lamivudine,DM
+DOID:2043,DB01265,hepatitis B,Telbivudine,DM
+DOID:10763,DB01193,hypertension,Acebutolol,DM
+DOID:10763,DB00594,hypertension,Amiloride,DM
+DOID:10763,DB00381,hypertension,Amlodipine,DM
+DOID:10763,DB01076,hypertension,Atorvastatin,DM
+DOID:10763,DB00542,hypertension,Benazepril,DM
+DOID:10763,DB00436,hypertension,Bendroflumethiazide,DM
+DOID:10763,DB01244,hypertension,Bepridil,DM
+DOID:10763,DB00195,hypertension,Betaxolol,DM
+DOID:10763,DB00887,hypertension,Bumetanide,DM
+DOID:10763,DB00796,hypertension,Candesartan,DM
+DOID:10763,DB01197,hypertension,Captopril,DM
+DOID:10763,DB01136,hypertension,Carvedilol,DM
+DOID:10763,DB00880,hypertension,Chlorothiazide,DM
+DOID:10763,DB00310,hypertension,Chlorthalidone,DM
+DOID:10763,DB00575,hypertension,Clonidine,DM
+DOID:10763,DB00343,hypertension,Diltiazem,DM
+DOID:10763,DB00590,hypertension,Doxazosin,DM
+DOID:10763,DB00584,hypertension,Enalapril,DM
+DOID:10763,DB00700,hypertension,Eplerenone,DM
+DOID:10763,DB00876,hypertension,Eprosartan,DM
+DOID:10763,DB00187,hypertension,Esmolol,DM
+DOID:10763,DB00903,hypertension,Ethacrynic acid,DM
+DOID:10763,DB01023,hypertension,Felodipine,DM
+DOID:10763,DB00800,hypertension,Fenoldopam,DM
+DOID:10763,DB00492,hypertension,Fosinopril,DM
+DOID:10763,DB00695,hypertension,Furosemide,DM
+DOID:10763,DB00629,hypertension,Guanabenz,DM
+DOID:10763,DB00226,hypertension,Guanadrel,DM
+DOID:10763,DB01170,hypertension,Guanethidine,DM
+DOID:10763,DB01018,hypertension,Guanfacine,DM
+DOID:10763,DB01275,hypertension,Hydralazine,DM
+DOID:10763,DB00999,hypertension,Hydrochlorothiazide,DM
+DOID:10763,DB00774,hypertension,Hydroflumethiazide,DM
+DOID:10763,DB00808,hypertension,Indapamide,DM
+DOID:10763,DB01029,hypertension,Irbesartan,DM
+DOID:10763,DB00270,hypertension,Isradipine,DM
+DOID:10763,DB00598,hypertension,Labetalol,DM
+DOID:10763,DB00722,hypertension,Lisinopril,DM
+DOID:10763,DB00678,hypertension,Losartan,DM
+DOID:10763,DB00657,hypertension,Mecamylamine,DM
+DOID:10763,DB00968,hypertension,Methyldopa,DM
+DOID:10763,DB00524,hypertension,Metolazone,DM
+DOID:10763,DB00264,hypertension,Metoprolol,DM
+DOID:10763,DB00350,hypertension,Minoxidil,DM
+DOID:10763,DB00691,hypertension,Moexipril,DM
+DOID:10763,DB01203,hypertension,Nadolol,DM
+DOID:10763,DB04861,hypertension,Nebivolol,DM
+DOID:10763,DB00622,hypertension,Nicardipine,DM
+DOID:10763,DB01115,hypertension,Nifedipine,DM
+DOID:10763,DB00401,hypertension,Nisoldipine,DM
+DOID:10763,DB00275,hypertension,Olmesartan,DM
+DOID:10763,DB01359,hypertension,Penbutolol,DM
+DOID:10763,DB00790,hypertension,Perindopril,DM
+DOID:10763,DB00960,hypertension,Pindolol,DM
+DOID:10763,DB00457,hypertension,Prazosin,DM
+DOID:10763,DB00571,hypertension,Propranolol,DM
+DOID:10763,DB00881,hypertension,Quinapril,DM
+DOID:10763,DB00178,hypertension,Ramipril,DM
+DOID:10763,DB00206,hypertension,Reserpine,DM
+DOID:10763,DB00421,hypertension,Spironolactone,DM
+DOID:10763,DB00966,hypertension,Telmisartan,DM
+DOID:10763,DB01162,hypertension,Terazosin,DM
+DOID:10763,DB00373,hypertension,Timolol,DM
+DOID:10763,DB00214,hypertension,Torasemide,DM
+DOID:10763,DB00519,hypertension,Trandolapril,DM
+DOID:10763,DB00384,hypertension,Triamterene,DM
+DOID:10763,DB00177,hypertension,Valsartan,DM
+DOID:10763,DB00661,hypertension,Verapamil,DM
+DOID:10763,DB01119,hypertension,Diazoxide,SYM
+DOID:10763,DB00692,hypertension,Phentolamine,SYM
+DOID:10763,DB00945,hypertension,Acetylsalicylic acid,NOT
+DOID:10763,DB00770,hypertension,Alprostadil,NOT
+DOID:10763,DB01118,hypertension,Amiodarone,NOT
+DOID:10763,DB00443,hypertension,Betamethasone,NOT
+DOID:10763,DB00905,hypertension,Bimatoprost,NOT
+DOID:10763,DB00559,hypertension,Bosentan,NOT
+DOID:10763,DB00484,hypertension,Brimonidine,NOT
+DOID:10763,DB01194,hypertension,Brinzolamide,NOT
+DOID:10763,DB00521,hypertension,Carteolol,NOT
+DOID:10763,DB00758,hypertension,Clopidogrel,NOT
+DOID:10763,DB01189,hypertension,Desflurane,NOT
+DOID:10763,DB01234,hypertension,Dexamethasone,NOT
+DOID:10763,DB00449,hypertension,Dipivefrin,NOT
+DOID:10763,DB00988,hypertension,Dopamine,NOT
+DOID:10763,DB00869,hypertension,Dorzolamide,NOT
+DOID:10763,DB01240,hypertension,Epoprostenol,NOT
+DOID:10763,DB01088,hypertension,Iloprost,NOT
+DOID:10763,DB00883,hypertension,Isosorbide Dinitrate,NOT
+DOID:10763,DB00654,hypertension,Latanoprost,NOT
+DOID:10763,DB01210,hypertension,Levobunolol,NOT
+DOID:10763,DB00227,hypertension,Lovastatin,NOT
+DOID:10763,DB00653,hypertension,Magnesium Sulfate,NOT
+DOID:10763,DB00765,hypertension,Metyrosine,NOT
+DOID:10763,DB00218,hypertension,Moxifloxacin,NOT
+DOID:10763,DB00435,hypertension,Nitric Oxide,NOT
+DOID:10763,DB00727,hypertension,Nitroglycerin,NOT
+DOID:10763,DB00325,hypertension,Nitroprusside,NOT
+DOID:10763,DB01083,hypertension,Orlistat,NOT
+DOID:10763,DB01174,hypertension,Phenobarbital,NOT
+DOID:10763,DB01085,hypertension,Pilocarpine,NOT
+DOID:10763,DB00761,hypertension,Potassium Chloride,NOT
+DOID:10763,DB01346,hypertension,Quinidine barbiturate,NOT
+DOID:10763,DB01001,hypertension,Salbutamol,NOT
+DOID:10763,DB00203,hypertension,Sildenafil,NOT
+DOID:10763,DB00641,hypertension,Simvastatin,NOT
+DOID:10763,DB00364,hypertension,Sucralfate,NOT
+DOID:10763,DB00820,hypertension,Tadalafil,NOT
+DOID:10763,DB00797,hypertension,Tolazoline,NOT
+DOID:10763,DB00287,hypertension,Travoprost,NOT
+DOID:10763,DB00374,hypertension,Treprostinil,NOT
+DOID:10763,DB05389,hypertension,WF10,NOT
+DOID:1459,DB00509,hypothyroidism,Dextrothyroxine,DM
+DOID:1459,DB00451,hypothyroidism,Levothyroxine,DM
+DOID:1459,DB00279,hypothyroidism,Liothyronine,DM
+DOID:1459,DB01583,hypothyroidism,Liotrix,DM
+DOID:0050156,DB00860,idiopathic pulmonary fibrosis,Prednisolone,SYM
+DOID:263,DB01101,kidney cancer,Capecitabine,DM
+DOID:263,DB00970,kidney cancer,Dactinomycin,DM
+DOID:263,DB00997,kidney cancer,Doxorubicin,DM
+DOID:263,DB00530,kidney cancer,Erlotinib,DM
+DOID:263,DB01590,kidney cancer,Everolimus,DM
+DOID:263,DB00441,kidney cancer,Gemcitabine,DM
+DOID:263,DB01229,kidney cancer,Paclitaxel,DM
+DOID:263,DB06589,kidney cancer,Pazopanib,DM
+DOID:263,DB00398,kidney cancer,Sorafenib,DM
+DOID:263,DB01268,kidney cancer,Sunitinib,DM
+DOID:263,DB06287,kidney cancer,Temsirolimus,DM
+DOID:263,DB00570,kidney cancer,Vinblastine,DM
+DOID:263,DB00541,kidney cancer,Vincristine,DM
+DOID:263,DB00443,kidney cancer,Betamethasone,SYM
+DOID:263,DB00482,kidney cancer,Celecoxib,SYM
+DOID:263,DB01234,kidney cancer,Dexamethasone,SYM
+DOID:263,DB00736,kidney cancer,Esomeprazole,SYM
+DOID:263,DB00741,kidney cancer,Hydrocortisone,SYM
+DOID:263,DB00338,kidney cancer,Omeprazole,SYM
+DOID:263,DB00758,kidney cancer,Clopidogrel,NOT
+DOID:263,DB00996,kidney cancer,Gabapentin,NOT
+DOID:263,DB01005,kidney cancer,Hydroxyurea,NOT
+DOID:263,DB00722,kidney cancer,Lisinopril,NOT
+DOID:263,DB01206,kidney cancer,Lomustine,NOT
+DOID:263,DB00603,kidney cancer,Medroxyprogesterone Acetate,NOT
+DOID:263,DB01065,kidney cancer,Melatonin,NOT
+DOID:263,DB00331,kidney cancer,Metformin,NOT
+DOID:263,DB00399,kidney cancer,Zoledronate,NOT
+DOID:1024,DB00250,leprosy,Dapsone,DM
+DOID:1024,DB01045,leprosy,Rifampicin,DM
+DOID:1024,DB01041,leprosy,Thalidomide,DM
+DOID:3571,DB00997,liver cancer,Doxorubicin,DM
+DOID:3571,DB00445,liver cancer,Epirubicin,DM
+DOID:3571,DB00398,liver cancer,Sorafenib,DM
+DOID:3571,DB00331,liver cancer,Metformin,NOT
+DOID:1324,DB00515,lung cancer,Cisplatin,DM
+DOID:1324,DB08865,lung cancer,Crizotinib,DM
+DOID:1324,DB01248,lung cancer,Docetaxel,DM
+DOID:1324,DB00997,lung cancer,Doxorubicin,DM
+DOID:1324,DB00530,lung cancer,Erlotinib,DM
+DOID:1324,DB00773,lung cancer,Etoposide,DM
+DOID:1324,DB00317,lung cancer,Gefitinib,DM
+DOID:1324,DB00441,lung cancer,Gemcitabine,DM
+DOID:1324,DB00762,lung cancer,Irinotecan,DM
+DOID:1324,DB00563,lung cancer,Methotrexate,DM
+DOID:1324,DB01229,lung cancer,Paclitaxel,DM
+DOID:1324,DB00642,lung cancer,Pemetrexed,DM
+DOID:1324,DB00444,lung cancer,Teniposide,DM
+DOID:1324,DB01030,lung cancer,Topotecan,DM
+DOID:1324,DB00570,lung cancer,Vinblastine,DM
+DOID:1324,DB00361,lung cancer,Vinorelbine,DM
+DOID:1324,DB00813,lung cancer,Fentanyl,SYM
+DOID:1324,DB00158,lung cancer,Folic Acid,NOT
+DOID:1324,DB01005,lung cancer,Hydroxyurea,NOT
+DOID:1324,DB01168,lung cancer,Procarbazine,NOT
+DOID:0060073,DB00290,lymphatic system cancer,Bleomycin,DM
+DOID:0060073,DB00262,lymphatic system cancer,Carmustine,DM
+DOID:0060073,DB00987,lymphatic system cancer,Cytarabine,DM
+DOID:0060073,DB01073,lymphatic system cancer,Fludarabine,DM
+DOID:0060073,DB00888,lymphatic system cancer,Mechlorethamine,DM
+DOID:0060073,DB00563,lymphatic system cancer,Methotrexate,DM
+DOID:0060073,DB01204,lymphatic system cancer,Mitoxantrone,DM
+DOID:0060073,DB00444,lymphatic system cancer,Teniposide,DM
+DOID:0060073,DB00541,lymphatic system cancer,Vincristine,DM
+DOID:12365,DB06697,malaria,Artemether,DM
+DOID:12365,DB01190,malaria,Clindamycin,DM
+DOID:12365,DB00250,malaria,Dapsone,DM
+DOID:12365,DB00254,malaria,Doxycycline,DM
+DOID:12365,DB00806,malaria,Pentoxifylline,DM
+DOID:12365,DB01131,malaria,Proguanil,DM
+DOID:12365,DB00205,malaria,Pyrimethamine,DM
+DOID:12365,DB00908,malaria,Quinidine,DM
+DOID:12365,DB01346,malaria,Quinidine barbiturate,DM
+DOID:12365,DB00468,malaria,Quinine,DM
+DOID:12365,DB00359,malaria,Sulfadiazine,DM
+DOID:3070,DB00262,malignant glioma,Carmustine,DM
+DOID:3070,DB00853,malignant glioma,Temozolomide,DM
+DOID:1909,DB00290,melanoma,Bleomycin,DM
+DOID:1909,DB00262,melanoma,Carmustine,DM
+DOID:1909,DB00851,melanoma,Dacarbazine,DM
+DOID:1909,DB00970,melanoma,Dactinomycin,DM
+DOID:1909,DB01248,melanoma,Docetaxel,DM
+DOID:1909,DB00853,melanoma,Temozolomide,DM
+DOID:1909,DB08881,melanoma,Vemurafenib,DM
+DOID:1909,DB01005,melanoma,Hydroxyurea,NOT
+DOID:1909,DB01206,melanoma,Lomustine,NOT
+DOID:1909,DB01042,melanoma,Melphalan,NOT
+DOID:1909,DB01168,melanoma,Procarbazine,NOT
+DOID:3565,DB00987,meningioma,Cytarabine,NOT
+DOID:3565,DB00834,meningioma,Mifepristone,NOT
+DOID:14221,DB00331,metabolic syndrome X,Metformin,DM
+DOID:14221,DB00153,metabolic syndrome X,Ergocalciferol,NOT
+DOID:6364,DB00321,migraine,Amitriptyline,DM
+DOID:6364,DB00996,migraine,Gabapentin,DM
+DOID:6364,DB00571,migraine,Propranolol,DM
+DOID:6364,DB00373,migraine,Timolol,DM
+DOID:6364,DB00273,migraine,Topiramate,DM
+DOID:6364,DB00313,migraine,Valproic Acid,DM
+DOID:6364,DB00661,migraine,Verapamil,DM
+DOID:6364,DB00316,migraine,Acetaminophen,SYM
+DOID:6364,DB00945,migraine,Acetylsalicylic acid,SYM
+DOID:6364,DB00918,migraine,Almotriptan,SYM
+DOID:6364,DB01435,migraine,Antipyrine,SYM
+DOID:6364,DB00241,migraine,Butalbital,SYM
+DOID:6364,DB00201,migraine,Caffeine,SYM
+DOID:6364,DB00924,migraine,Cyclobenzaprine,SYM
+DOID:6364,DB00434,migraine,Cyproheptadine,SYM
+DOID:6364,DB00586,migraine,Diclofenac,SYM
+DOID:6364,DB00320,migraine,Dihydroergotamine,SYM
+DOID:6364,DB00216,migraine,Eletriptan,SYM
+DOID:6364,DB00696,migraine,Ergotamine,SYM
+DOID:6364,DB00998,migraine,Frovatriptan,SYM
+DOID:6364,DB00328,migraine,Indomethacin,SYM
+DOID:6364,DB00353,migraine,Methylergometrine,SYM
+DOID:6364,DB01233,migraine,Metoclopramide,SYM
+DOID:6364,DB00788,migraine,Naproxen,SYM
+DOID:6364,DB00952,migraine,Naratriptan,SYM
+DOID:6364,DB01173,migraine,Orphenadrine,SYM
+DOID:6364,DB00635,migraine,Prednisone,SYM
+DOID:6364,DB00953,migraine,Rizatriptan,SYM
+DOID:6364,DB00669,migraine,Sumatriptan,SYM
+DOID:6364,DB00697,migraine,Tizanidine,SYM
+DOID:6364,DB00315,migraine,Zolmitriptan,SYM
+DOID:2377,DB00993,multiple sclerosis,Azathioprine,DM
+DOID:2377,DB00443,multiple sclerosis,Betamethasone,DM
+DOID:2377,DB00242,multiple sclerosis,Cladribine,DM
+DOID:2377,DB01234,multiple sclerosis,Dexamethasone,DM
+DOID:2377,DB08868,multiple sclerosis,Fingolimod,DM
+DOID:2377,DB00563,multiple sclerosis,Methotrexate,DM
+DOID:2377,DB00959,multiple sclerosis,Methylprednisolone,DM
+DOID:2377,DB01204,multiple sclerosis,Mitoxantrone,DM
+DOID:2377,DB00860,multiple sclerosis,Prednisolone,DM
+DOID:2377,DB00635,multiple sclerosis,Prednisone,DM
+DOID:2377,DB00620,multiple sclerosis,Triamcinolone,DM
+DOID:2377,DB00915,multiple sclerosis,Amantadine,SYM
+DOID:2377,DB00321,multiple sclerosis,Amitriptyline,SYM
+DOID:2377,DB00181,multiple sclerosis,Baclofen,SYM
+DOID:2377,DB00564,multiple sclerosis,Carbamazepine,SYM
+DOID:2377,DB01068,multiple sclerosis,Clonazepam,SYM
+DOID:2377,DB06637,multiple sclerosis,Dalfampridine,SYM
+DOID:2377,DB01219,multiple sclerosis,Dantrolene,SYM
+DOID:2377,DB00514,multiple sclerosis,Dextromethorphan,SYM
+DOID:2377,DB00829,multiple sclerosis,Diazepam,SYM
+DOID:2377,DB00402,multiple sclerosis,Eszopiclone,SYM
+DOID:2377,DB00996,multiple sclerosis,Gabapentin,SYM
+DOID:2377,DB00745,multiple sclerosis,Modafinil,SYM
+DOID:2377,DB00540,multiple sclerosis,Nortriptyline,SYM
+DOID:2377,DB00776,multiple sclerosis,Oxcarbazepine,SYM
+DOID:2377,DB00230,multiple sclerosis,Pregabalin,SYM
+DOID:2377,DB01589,multiple sclerosis,Quazepam,SYM
+DOID:2377,DB00203,multiple sclerosis,Sildenafil,SYM
+DOID:2377,DB01591,multiple sclerosis,Solifenacin,SYM
+DOID:2377,DB00697,multiple sclerosis,Tizanidine,SYM
+DOID:2377,DB01036,multiple sclerosis,Tolterodine,SYM
+DOID:2377,DB00425,multiple sclerosis,Zolpidem,SYM
+DOID:2377,DB01198,multiple sclerosis,Zopiclone,SYM
+DOID:2377,DB00252,multiple sclerosis,Phenytoin,NOT
+DOID:2377,DB00953,multiple sclerosis,Rizatriptan,NOT
+DOID:2377,DB00268,multiple sclerosis,Ropinirole,NOT
+DOID:4045,DB00851,muscle cancer,Dacarbazine,DM
+DOID:4045,DB00970,muscle cancer,Dactinomycin,DM
+DOID:4045,DB00997,muscle cancer,Doxorubicin,DM
+DOID:4045,DB00773,muscle cancer,Etoposide,DM
+DOID:4045,DB00563,muscle cancer,Methotrexate,DM
+DOID:4045,DB00541,muscle cancer,Vincristine,DM
+DOID:4045,DB01042,muscle cancer,Melphalan,NOT
+DOID:8986,DB00182,narcolepsy,Amphetamine,SYM
+DOID:8986,DB01576,narcolepsy,Dextroamphetamine,SYM
+DOID:8986,DB01440,narcolepsy,Gamma Hydroxybutyric Acid,SYM
+DOID:8986,DB01577,narcolepsy,Methamphetamine,SYM
+DOID:8986,DB00745,narcolepsy,Modafinil,SYM
+DOID:585,DB00999,nephrolithiasis,Hydrochlorothiazide,DM
+DOID:0050742,DB01273,nicotine dependence,Varenicline,DM
+DOID:0050742,DB00184,nicotine dependence,Nicotine,SYM
+DOID:9970,DB00865,obesity,Benzphetamine,DM
+DOID:9970,DB01156,obesity,Bupropion,DM
+DOID:9970,DB00501,obesity,Cimetidine,DM
+DOID:9970,DB00937,obesity,Diethylpropion,DM
+DOID:9970,DB01577,obesity,Methamphetamine,DM
+DOID:9970,DB01083,obesity,Orlistat,DM
+DOID:9970,DB01579,obesity,Phendimetrazine,DM
+DOID:9970,DB00191,obesity,Phentermine,DM
+DOID:9970,DB00397,obesity,Phenylpropanolamine,DM
+DOID:9970,DB01105,obesity,Sibutramine,DM
+DOID:9970,DB00273,obesity,Topiramate,DM
+DOID:2174,DB00958,ocular cancer,Carboplatin,DM
+DOID:2174,DB00970,ocular cancer,Dactinomycin,DM
+DOID:8398,DB00316,osteoarthritis,Acetaminophen,SYM
+DOID:8398,DB00945,osteoarthritis,Acetylsalicylic acid,SYM
+DOID:8398,DB00482,osteoarthritis,Celecoxib,SYM
+DOID:8398,DB00122,osteoarthritis,Choline,SYM
+DOID:8398,DB00318,osteoarthritis,Codeine,SYM
+DOID:8398,DB00924,osteoarthritis,Cyclobenzaprine,SYM
+DOID:8398,DB00586,osteoarthritis,Diclofenac,SYM
+DOID:8398,DB00861,osteoarthritis,Diflunisal,SYM
+DOID:8398,DB00749,osteoarthritis,Etodolac,SYM
+DOID:8398,DB00573,osteoarthritis,Fenoprofen,SYM
+DOID:8398,DB00712,osteoarthritis,Flurbiprofen,SYM
+DOID:8398,DB01296,osteoarthritis,Glucosamine,SYM
+DOID:8398,DB01050,osteoarthritis,Ibuprofen,SYM
+DOID:8398,DB00328,osteoarthritis,Indomethacin,SYM
+DOID:8398,DB01009,osteoarthritis,Ketoprofen,SYM
+DOID:8398,DB00281,osteoarthritis,Lidocaine,SYM
+DOID:8398,DB00814,osteoarthritis,Meloxicam,SYM
+DOID:8398,DB00959,osteoarthritis,Methylprednisolone,SYM
+DOID:8398,DB00461,osteoarthritis,Nabumetone,SYM
+DOID:8398,DB00788,osteoarthritis,Naproxen,SYM
+DOID:8398,DB00991,osteoarthritis,Oxaprozin,SYM
+DOID:8398,DB00554,osteoarthritis,Piroxicam,SYM
+DOID:8398,DB00635,osteoarthritis,Prednisone,SYM
+DOID:8398,DB00605,osteoarthritis,Sulindac,SYM
+DOID:8398,DB00500,osteoarthritis,Tolmetin,SYM
+DOID:8398,DB00201,osteoarthritis,Caffeine,NOT
+DOID:8398,DB01068,osteoarthritis,Clonazepam,NOT
+DOID:8398,DB00929,osteoarthritis,Misoprostol,NOT
+DOID:11476,DB00630,osteoporosis,Alendronate,DM
+DOID:11476,DB00136,osteoporosis,Calcitriol,DM
+DOID:11476,DB00258,osteoporosis,Calcium Acetate,DM
+DOID:11476,DB00169,osteoporosis,Cholecalciferol,DM
+DOID:11476,DB00286,osteoporosis,Conjugated Estrogens,DM
+DOID:11476,DB00153,osteoporosis,Ergocalciferol,DM
+DOID:11476,DB00783,osteoporosis,Estradiol,DM
+DOID:11476,DB04574,osteoporosis,Estropipate,DM
+DOID:11476,DB00977,osteoporosis,Ethinyl Estradiol,DM
+DOID:11476,DB01077,osteoporosis,Etidronic acid,DM
+DOID:11476,DB00710,osteoporosis,Ibandronate,DM
+DOID:11476,DB00282,osteoporosis,Pamidronate,DM
+DOID:11476,DB00481,osteoporosis,Raloxifene,DM
+DOID:11476,DB00884,osteoporosis,Risedronate,DM
+DOID:11476,DB00399,osteoporosis,Zoledronate,DM
+DOID:11476,DB00621,osteoporosis,Oxandrolone,SYM
+DOID:11476,DB00999,osteoporosis,Hydrochlorothiazide,NOT
+DOID:11476,DB00603,osteoporosis,Medroxyprogesterone Acetate,NOT
+DOID:11476,DB06710,osteoporosis,Methyltestosterone,NOT
+DOID:11476,DB00717,osteoporosis,Norethindrone,NOT
+DOID:2394,DB00488,ovarian cancer,Altretamine,DM
+DOID:2394,DB00958,ovarian cancer,Carboplatin,DM
+DOID:2394,DB00291,ovarian cancer,Chlorambucil,DM
+DOID:2394,DB01248,ovarian cancer,Docetaxel,DM
+DOID:2394,DB00997,ovarian cancer,Doxorubicin,DM
+DOID:2394,DB00445,ovarian cancer,Epirubicin,DM
+DOID:2394,DB01042,ovarian cancer,Melphalan,DM
+DOID:2394,DB01229,ovarian cancer,Paclitaxel,DM
+DOID:2394,DB01030,ovarian cancer,Topotecan,DM
+DOID:2394,DB00361,ovarian cancer,Vinorelbine,DM
+DOID:2394,DB01005,ovarian cancer,Hydroxyurea,NOT
+DOID:2394,DB01357,ovarian cancer,Mestranol,NOT
+DOID:1793,DB00851,pancreatic cancer,Dacarbazine,DM
+DOID:1793,DB01248,pancreatic cancer,Docetaxel,DM
+DOID:1793,DB00997,pancreatic cancer,Doxorubicin,DM
+DOID:1793,DB00445,pancreatic cancer,Epirubicin,DM
+DOID:1793,DB00530,pancreatic cancer,Erlotinib,DM
+DOID:1793,DB00544,pancreatic cancer,Fluorouracil,DM
+DOID:1793,DB00441,pancreatic cancer,Gemcitabine,DM
+DOID:1793,DB00762,pancreatic cancer,Irinotecan,DM
+DOID:1793,DB01268,pancreatic cancer,Sunitinib,DM
+DOID:1793,DB00675,pancreatic cancer,Tamoxifen,DM
+DOID:1793,DB00104,pancreatic cancer,Octreotide,SYM
+DOID:4989,DB00424,pancreatitis,Hyoscyamine,DM
+DOID:4989,DB00782,pancreatitis,Propantheline,DM
+DOID:4989,DB00104,pancreatitis,Octreotide,SYM
+DOID:4989,DB00572,pancreatitis,Atropine,NOT
+DOID:4989,DB01241,pancreatitis,Gemfibrozil,NOT
+DOID:4989,DB00627,pancreatitis,Niacin,NOT
+DOID:594,DB00404,panic disorder,Alprazolam,SYM
+DOID:594,DB01156,panic disorder,Bupropion,SYM
+DOID:594,DB00490,panic disorder,Buspirone,SYM
+DOID:594,DB00215,panic disorder,Citalopram,SYM
+DOID:594,DB01242,panic disorder,Clomipramine,SYM
+DOID:594,DB01068,panic disorder,Clonazepam,SYM
+DOID:594,DB00829,panic disorder,Diazepam,SYM
+DOID:594,DB00472,panic disorder,Fluoxetine,SYM
+DOID:594,DB00176,panic disorder,Fluvoxamine,SYM
+DOID:594,DB00458,panic disorder,Imipramine,SYM
+DOID:594,DB01247,panic disorder,Isocarboxazid,SYM
+DOID:594,DB00186,panic disorder,Lorazepam,SYM
+DOID:594,DB00934,panic disorder,Maprotiline,SYM
+DOID:594,DB00540,panic disorder,Nortriptyline,SYM
+DOID:594,DB00334,panic disorder,Olanzapine,SYM
+DOID:594,DB00715,panic disorder,Paroxetine,SYM
+DOID:594,DB01104,panic disorder,Sertraline,SYM
+DOID:594,DB00285,panic disorder,Venlafaxine,SYM
+DOID:824,DB00417,periodontitis,Penicillin V,NOT
+DOID:1192,DB00523,peripheral nervous system neoplasm,Alitretinoin,DM
+DOID:1192,DB00515,peripheral nervous system neoplasm,Cisplatin,DM
+DOID:1192,DB00851,peripheral nervous system neoplasm,Dacarbazine,DM
+DOID:1192,DB00970,peripheral nervous system neoplasm,Dactinomycin,DM
+DOID:1192,DB00997,peripheral nervous system neoplasm,Doxorubicin,DM
+DOID:1192,DB00445,peripheral nervous system neoplasm,Epirubicin,DM
+DOID:1192,DB00773,peripheral nervous system neoplasm,Etoposide,DM
+DOID:1192,DB00982,peripheral nervous system neoplasm,Isotretinoin,DM
+DOID:1192,DB01042,peripheral nervous system neoplasm,Melphalan,DM
+DOID:1192,DB01030,peripheral nervous system neoplasm,Topotecan,DM
+DOID:1192,DB00755,peripheral nervous system neoplasm,Tretinoin,DM
+DOID:1192,DB00541,peripheral nervous system neoplasm,Vincristine,DM
+DOID:11612,DB00331,polycystic ovary syndrome,Metformin,DM
+DOID:11612,DB00304,polycystic ovary syndrome,Desogestrel,SYM
+DOID:11612,DB01395,polycystic ovary syndrome,Drospirenone,SYM
+DOID:11612,DB00977,polycystic ovary syndrome,Ethinyl Estradiol,SYM
+DOID:11612,DB00367,polycystic ovary syndrome,Levonorgestrel,SYM
+DOID:11612,DB00717,polycystic ovary syndrome,Norethindrone,SYM
+DOID:12236,DB06777,primary biliary cirrhosis,Chenodeoxycholic acid,DM
+DOID:12236,DB01394,primary biliary cirrhosis,Colchicine,DM
+DOID:12236,DB01586,primary biliary cirrhosis,Ursodeoxycholic acid,DM
+DOID:12236,DB00859,primary biliary cirrhosis,Penicillamine,NOT
+DOID:10283,DB05812,prostate cancer,Abiraterone,DM
+DOID:10283,DB01128,prostate cancer,Bicalutamide,DM
+DOID:10283,DB06772,prostate cancer,Cabazitaxel,DM
+DOID:10283,DB01101,prostate cancer,Capecitabine,DM
+DOID:10283,DB00286,prostate cancer,Conjugated Estrogens,DM
+DOID:10283,DB06699,prostate cancer,Degarelix,DM
+DOID:10283,DB01248,prostate cancer,Docetaxel,DM
+DOID:10283,DB00997,prostate cancer,Doxorubicin,DM
+DOID:10283,DB00445,prostate cancer,Epirubicin,DM
+DOID:10283,DB00783,prostate cancer,Estradiol,DM
+DOID:10283,DB08866,prostate cancer,Estradiol valerate/Dienogest,DM
+DOID:10283,DB01196,prostate cancer,Estramustine,DM
+DOID:10283,DB00655,prostate cancer,Estrone,DM
+DOID:10283,DB00977,prostate cancer,Ethinyl Estradiol,DM
+DOID:10283,DB00773,prostate cancer,Etoposide,DM
+DOID:10283,DB00499,prostate cancer,Flutamide,DM
+DOID:10283,DB00014,prostate cancer,Goserelin,DM
+DOID:10283,DB01204,prostate cancer,Mitoxantrone,DM
+DOID:10283,DB00665,prostate cancer,Nilutamide,DM
+DOID:10283,DB00635,prostate cancer,Prednisone,DM
+DOID:10283,DB00126,prostate cancer,Vitamin C,DM
+DOID:10283,DB00443,prostate cancer,Betamethasone,SYM
+DOID:10283,DB00482,prostate cancer,Celecoxib,SYM
+DOID:10283,DB01234,prostate cancer,Dexamethasone,SYM
+DOID:10283,DB00736,prostate cancer,Esomeprazole,SYM
+DOID:10283,DB00813,prostate cancer,Fentanyl,SYM
+DOID:10283,DB00741,prostate cancer,Hydrocortisone,SYM
+DOID:10283,DB01233,prostate cancer,Metoclopramide,SYM
+DOID:10283,DB00338,prostate cancer,Omeprazole,SYM
+DOID:10283,DB00706,prostate cancer,Tamsulosin,SYM
+DOID:10283,DB00513,prostate cancer,Aminocaproic Acid,NOT
+DOID:10283,DB00537,prostate cancer,Ciprofloxacin,NOT
+DOID:10283,DB01216,prostate cancer,Finasteride,NOT
+DOID:10283,DB01005,prostate cancer,Hydroxyurea,NOT
+DOID:10283,DB01065,prostate cancer,Melatonin,NOT
+DOID:10283,DB00331,prostate cancer,Metformin,NOT
+DOID:10283,DB00175,prostate cancer,Pravastatin,NOT
+DOID:10283,DB00230,prostate cancer,Pregabalin,NOT
+DOID:10283,DB00877,prostate cancer,Sirolimus,NOT
+DOID:10283,DB00399,prostate cancer,Zoledronate,NOT
+DOID:8893,DB00459,psoriasis,Acitretin,DM
+DOID:8893,DB00394,psoriasis,Beclomethasone,DM
+DOID:8893,DB00443,psoriasis,Betamethasone,DM
+DOID:8893,DB02300,psoriasis,Calcipotriol,DM
+DOID:8893,DB00136,psoriasis,Calcitriol,DM
+DOID:8893,DB00169,psoriasis,Cholecalciferol,DM
+DOID:8893,DB01013,psoriasis,Clobetasol propionate,DM
+DOID:8893,DB00091,psoriasis,Cyclosporine,DM
+DOID:8893,DB01234,psoriasis,Dexamethasone,DM
+DOID:8893,DB00591,psoriasis,Fluocinolone Acetonide,DM
+DOID:8893,DB01047,psoriasis,Fluocinonide,DM
+DOID:8893,DB00741,psoriasis,Hydrocortisone,DM
+DOID:8893,DB01005,psoriasis,Hydroxyurea,DM
+DOID:8893,DB00563,psoriasis,Methotrexate,DM
+DOID:8893,DB00553,psoriasis,Methoxsalen,DM
+DOID:8893,DB00688,psoriasis,Mycophenolate mofetil,DM
+DOID:8893,DB01024,psoriasis,Mycophenolic acid,DM
+DOID:8893,DB00860,psoriasis,Prednisolone,DM
+DOID:8893,DB00635,psoriasis,Prednisone,DM
+DOID:8893,DB00799,psoriasis,Tazarotene,DM
+DOID:8893,DB00620,psoriasis,Triamcinolone,DM
+DOID:8893,DB01397,psoriasis,Magnesium salicylate,SYM
+DOID:8893,DB01398,psoriasis,Salicylate-sodium,SYM
+DOID:8893,DB00936,psoriasis,Salicylic acid,SYM
+DOID:8893,DB01401,psoriasis,Trisalicylate-choline,SYM
+DOID:8893,DB01294,psoriasis,Bismuth Subsalicylate,NOT
+DOID:8893,DB01091,psoriasis,Butenafine,NOT
+DOID:9008,DB00995,psoriatic arthritis,Auranofin,DM
+DOID:9008,DB00443,psoriatic arthritis,Betamethasone,DM
+DOID:9008,DB01234,psoriatic arthritis,Dexamethasone,DM
+DOID:9008,DB00563,psoriatic arthritis,Methotrexate,DM
+DOID:9008,DB00959,psoriatic arthritis,Methylprednisolone,DM
+DOID:9008,DB00860,psoriatic arthritis,Prednisolone,DM
+DOID:9008,DB00635,psoriatic arthritis,Prednisone,DM
+DOID:9008,DB00620,psoriatic arthritis,Triamcinolone,DM
+DOID:9835,DB01057,refractive error,Echothiophate,NOT
+DOID:0050425,DB00564,restless legs syndrome,Carbamazepine,SYM
+DOID:0050425,DB00190,restless legs syndrome,Carbidopa,SYM
+DOID:0050425,DB01068,restless legs syndrome,Clonazepam,SYM
+DOID:0050425,DB00575,restless legs syndrome,Clonidine,SYM
+DOID:0050425,DB00996,restless legs syndrome,Gabapentin,SYM
+DOID:0050425,DB01235,restless legs syndrome,L-DOPA,SYM
+DOID:0050425,DB00413,restless legs syndrome,Pramipexole,SYM
+DOID:0050425,DB00230,restless legs syndrome,Pregabalin,SYM
+DOID:0050425,DB00268,restless legs syndrome,Ropinirole,SYM
+DOID:0050425,DB00193,restless legs syndrome,Tramadol,SYM
+DOID:7148,DB00995,rheumatoid arthritis,Auranofin,DM
+DOID:7148,DB00993,rheumatoid arthritis,Azathioprine,DM
+DOID:7148,DB00443,rheumatoid arthritis,Betamethasone,DM
+DOID:7148,DB00091,rheumatoid arthritis,Cyclosporine,DM
+DOID:7148,DB01234,rheumatoid arthritis,Dexamethasone,DM
+DOID:7148,DB00153,rheumatoid arthritis,Ergocalciferol,DM
+DOID:7148,DB00741,rheumatoid arthritis,Hydrocortisone,DM
+DOID:7148,DB01097,rheumatoid arthritis,Leflunomide,DM
+DOID:7148,DB00563,rheumatoid arthritis,Methotrexate,DM
+DOID:7148,DB00959,rheumatoid arthritis,Methylprednisolone,DM

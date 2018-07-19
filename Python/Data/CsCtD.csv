@@ -1,0 +1,766 @@
+compound_id,drug,disease_id,disease,metapath,treatment,path_count,DWPC
+DB01175,Escitalopram,DOID:14330,Parkinson's disease,CsCtD,1,6495,0.110667726
+DB00215,Citalopram,DOID:14330,Parkinson's disease,CsCtD,1,6495,0.110667726
+DB00268,Ropinirole,DOID:14330,Parkinson's disease,CsCtD,1,5929,0.09687677
+DB00413,Pramipexole,DOID:14330,Parkinson's disease,CsCtD,1,5676,0.095309271
+DB00734,Risperidone,DOID:14330,Parkinson's disease,CsCtD,0,5980,0.091895188
+DB01037,Selegiline,DOID:14330,Parkinson's disease,CsCtD,1,4952,0.085262128
+DB00989,Rivastigmine,DOID:14330,Parkinson's disease,CsCtD,1,5103,0.083709467
+DB00996,Gabapentin,DOID:14330,Parkinson's disease,CsCtD,1,5200,0.083332118
+DB01043,Memantine,DOID:14330,Parkinson's disease,CsCtD,1,4891,0.080895525
+DB01104,Sertraline,DOID:14330,Parkinson's disease,CsCtD,1,4754,0.079760336
+DB00709,Lamivudine,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1323,0.077798411
+DB01224,Quetiapine,DOID:14330,Parkinson's disease,CsCtD,1,4783,0.076720806
+DB00425,Zolpidem,DOID:14330,Parkinson's disease,CsCtD,1,4091,0.076044783
+DB00843,Donepezil,DOID:14330,Parkinson's disease,CsCtD,0,4243,0.074990302
+DB00494,Entacapone,DOID:14330,Parkinson's disease,CsCtD,1,3616,0.073122622
+DB00246,Ziprasidone,DOID:14330,Parkinson's disease,CsCtD,0,4149,0.073077005
+DB01186,Pergolide,DOID:14330,Parkinson's disease,CsCtD,1,4022,0.072816661
+DB00338,Omeprazole,DOID:9206,Barrett's esophagus,CsCtD,1,302,0.071421539
+DB00736,Esomeprazole,DOID:9206,Barrett's esophagus,CsCtD,1,302,0.071421539
+DB01048,Abacavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1000,0.070050247
+DB00323,Tolcapone,DOID:14330,Parkinson's disease,CsCtD,1,3745,0.06899299
+DB00503,Ritonavir,DOID:14330,Parkinson's disease,CsCtD,0,4216,0.068982971
+DB01367,Rasagiline,DOID:14330,Parkinson's disease,CsCtD,1,3608,0.067985311
+DB00424,Hyoscyamine,DOID:14330,Parkinson's disease,CsCtD,1,2397,0.067143503
+DB00572,Atropine,DOID:14330,Parkinson's disease,CsCtD,1,2397,0.067143503
+DB01068,Clonazepam,DOID:14330,Parkinson's disease,CsCtD,1,3530,0.066884884
+DB00313,Valproic Acid,DOID:14330,Parkinson's disease,CsCtD,0,3896,0.065346899
+DB01232,Saquinavir,DOID:14330,Parkinson's disease,CsCtD,0,3872,0.064009621
+DB00190,Carbidopa,DOID:14330,Parkinson's disease,CsCtD,1,2621,0.063023796
+DB00649,Stavudine,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,941,0.062475674
+DB00244,Mesalazine,DOID:14330,Parkinson's disease,CsCtD,0,3867,0.062386816
+DB01232,Saquinavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1471,0.061450961
+DB00705,Delavirdine,DOID:14330,Parkinson's disease,CsCtD,0,3463,0.061219882
+DB01235,L-DOPA,DOID:14330,Parkinson's disease,CsCtD,1,2641,0.060945853
+DB00674,Galantamine,DOID:14330,Parkinson's disease,CsCtD,0,3011,0.06039439
+DB00635,Prednisone,DOID:14330,Parkinson's disease,CsCtD,0,2526,0.060243329
+DB00625,Efavirenz,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1266,0.059909744
+DB00734,Risperidone,DOID:10652,Alzheimer's disease,CsCtD,0,2902,0.059371163
+DB00338,Omeprazole,DOID:14330,Parkinson's disease,CsCtD,0,3579,0.058826089
+DB00736,Esomeprazole,DOID:14330,Parkinson's disease,CsCtD,0,3579,0.058826089
+DB00701,Amprenavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,609,0.058691345
+DB01175,Escitalopram,DOID:10652,Alzheimer's disease,CsCtD,0,3178,0.058672372
+DB00215,Citalopram,DOID:10652,Alzheimer's disease,CsCtD,0,3178,0.058672372
+DB00745,Modafinil,DOID:14330,Parkinson's disease,CsCtD,1,3187,0.057763247
+DB00495,Zidovudine,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1082,0.056838095
+DB00220,Nelfinavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,967,0.056660176
+DB00625,Efavirenz,DOID:14330,Parkinson's disease,CsCtD,0,3226,0.056525932
+DB00238,Nevirapine,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,815,0.055786765
+DB00916,Metronidazole,DOID:14330,Parkinson's disease,CsCtD,0,2872,0.055729234
+DB01200,Bromocriptine,DOID:14330,Parkinson's disease,CsCtD,1,2181,0.054651964
+DB01224,Quetiapine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1192,0.05384561
+DB00996,Gabapentin,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1750,0.053463374
+DB00244,Mesalazine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1519,0.05341769
+DB00224,Indinavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1142,0.053342785
+DB00705,Delavirdine,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1270,0.053332971
+DB00502,Haloperidol,DOID:14330,Parkinson's disease,CsCtD,0,2307,0.053230748
+DB00248,Cabergoline,DOID:14330,Parkinson's disease,CsCtD,1,2063,0.052850068
+DB00915,Amantadine,DOID:14330,Parkinson's disease,CsCtD,1,2209,0.052492988
+DB00413,Pramipexole,DOID:10652,Alzheimer's disease,CsCtD,1,2502,0.052301483
+DB00268,Ropinirole,DOID:10652,Alzheimer's disease,CsCtD,1,2598,0.052197762
+DB00575,Clonidine,DOID:14330,Parkinson's disease,CsCtD,0,2474,0.051898745
+DB00503,Ritonavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,1387,0.05188727
+DB00996,Gabapentin,DOID:10652,Alzheimer's disease,CsCtD,0,2609,0.051422212
+DB01043,Memantine,DOID:10652,Alzheimer's disease,CsCtD,1,2257,0.051303856
+DB00989,Rivastigmine,DOID:10652,Alzheimer's disease,CsCtD,1,2329,0.050836442
+DB00451,Levothyroxine,DOID:12361,Graves' disease,CsCtD,1,171,0.050831128
+DB00509,Dextrothyroxine,DOID:12361,Graves' disease,CsCtD,1,171,0.050831128
+DB00900,Didanosine,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,616,0.050727764
+DB00224,Indinavir,DOID:14330,Parkinson's disease,CsCtD,0,2628,0.049682802
+DB00734,Risperidone,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1803,0.049254676
+DB01104,Sertraline,DOID:10652,Alzheimer's disease,CsCtD,0,2343,0.048640931
+DB00399,Zoledronate,DOID:5408,Paget's disease of bone,CsCtD,1,338,0.048466788
+DB05271,Rotigotine,DOID:14330,Parkinson's disease,CsCtD,1,1960,0.048420582
+DB00313,Valproic Acid,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1386,0.04797575
+DB00399,Zoledronate,DOID:14330,Parkinson's disease,CsCtD,0,2725,0.047755904
+DB00246,Ziprasidone,DOID:10652,Alzheimer's disease,CsCtD,0,2003,0.047182482
+DB00884,Risedronate,DOID:14330,Parkinson's disease,CsCtD,0,2253,0.04699484
+DB00989,Rivastigmine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1590,0.04682132
+DB01186,Pergolide,DOID:10652,Alzheimer's disease,CsCtD,0,2017,0.046770175
+DB00787,Aciclovir,DOID:14330,Parkinson's disease,CsCtD,0,2314,0.04660262
+DB01037,Selegiline,DOID:10652,Alzheimer's disease,CsCtD,1,2187,0.046129965
+DB00268,Ropinirole,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1762,0.04603914
+DB00282,Pamidronate,DOID:14330,Parkinson's disease,CsCtD,0,2336,0.045996723
+DB00495,Zidovudine,DOID:14330,Parkinson's disease,CsCtD,0,2452,0.045995455
+DB01104,Sertraline,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1553,0.045934511
+DB00736,Esomeprazole,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1368,0.045917927
+DB00338,Omeprazole,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1368,0.045917927
+DB01175,Escitalopram,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1884,0.045584318
+DB00215,Citalopram,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1884,0.045584318
+DB01583,Liotrix,DOID:12361,Graves' disease,CsCtD,1,182,0.045520079
+DB01037,Selegiline,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1532,0.045456161
+DB01224,Quetiapine,DOID:10652,Alzheimer's disease,CsCtD,1,2160,0.045415186
+DB00709,Lamivudine,DOID:14330,Parkinson's disease,CsCtD,0,2635,0.044997836
+DB01224,Quetiapine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1560,0.044885706
+DB01175,Escitalopram,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1389,0.044732314
+DB00215,Citalopram,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1389,0.044732314
+DB01043,Memantine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1552,0.044529661
+DB00413,Pramipexole,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1669,0.044458053
+DB00572,Atropine,DOID:8778,Crohn's disease,CsCtD,1,443,0.044170546
+DB00424,Hyoscyamine,DOID:8778,Crohn's disease,CsCtD,1,443,0.044170546
+DB00413,Pramipexole,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1243,0.04416015
+DB01100,Pimozide,DOID:14330,Parkinson's disease,CsCtD,0,1757,0.044152994
+DB00502,Haloperidol,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,554,0.043787581
+DB00425,Zolpidem,DOID:10652,Alzheimer's disease,CsCtD,0,1975,0.043547908
+DB00246,Ziprasidone,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1332,0.043521949
+DB00494,Entacapone,DOID:10652,Alzheimer's disease,CsCtD,0,1753,0.043473097
+DB00282,Pamidronate,DOID:5408,Paget's disease of bone,CsCtD,1,303,0.043414242
+DB00916,Metronidazole,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1116,0.042900347
+DB00850,Perphenazine,DOID:14330,Parkinson's disease,CsCtD,0,1535,0.042686059
+DB01583,Liotrix,DOID:14330,Parkinson's disease,CsCtD,0,1918,0.042572701
+DB00323,Tolcapone,DOID:10652,Alzheimer's disease,CsCtD,0,1823,0.042279333
+DB00503,Ritonavir,DOID:10652,Alzheimer's disease,CsCtD,0,2010,0.042216517
+DB00843,Donepezil,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1329,0.041944939
+DB01104,Sertraline,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1096,0.041896549
+DB01367,Rasagiline,DOID:10652,Alzheimer's disease,CsCtD,0,1752,0.041851781
+DB00843,Donepezil,DOID:10652,Alzheimer's disease,CsCtD,1,1867,0.041466266
+DB00268,Ropinirole,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1257,0.041226379
+DB00734,Risperidone,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,963,0.040998753
+DB00747,Scopolamine,DOID:14330,Parkinson's disease,CsCtD,1,1376,0.04098127
+DB00745,Modafinil,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1170,0.0407855
+DB00494,Entacapone,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1205,0.040614632
+DB01186,Pergolide,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1234,0.0402723
+DB00246,Ziprasidone,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,812,0.040189549
+DB01037,Selegiline,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1073,0.040180235
+DB00989,Rivastigmine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1097,0.039883312
+DB00630,Alendronate,DOID:5408,Paget's disease of bone,CsCtD,1,200,0.039816544
+DB01068,Clonazepam,DOID:10652,Alzheimer's disease,CsCtD,0,1701,0.038905299
+DB00985,Dimenhydrinate,DOID:14330,Parkinson's disease,CsCtD,1,1156,0.038856897
+DB01075,Diphenhydramine,DOID:14330,Parkinson's disease,CsCtD,1,1156,0.038856897
+DB00996,Gabapentin,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1144,0.03853294
+DB00425,Zolpidem,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1309,0.038390719
+DB00282,Pamidronate,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,952,0.038144319
+DB00220,Nelfinavir,DOID:14330,Parkinson's disease,CsCtD,0,1851,0.038124353
+DB00399,Zoledronate,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1089,0.037976257
+DB01367,Rasagiline,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1155,0.03780474
+DB01043,Memantine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,1066,0.037718602
+DB01232,Saquinavir,DOID:10652,Alzheimer's disease,CsCtD,0,1847,0.037561952
+DB00244,Mesalazine,DOID:10652,Alzheimer's disease,CsCtD,0,1845,0.03722074
+DB01100,Pimozide,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,455,0.037083905
+DB00745,Modafinil,DOID:10652,Alzheimer's disease,CsCtD,0,1564,0.037023632
+DB00635,Prednisone,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,950,0.036968672
+DB00705,Delavirdine,DOID:10652,Alzheimer's disease,CsCtD,0,1627,0.036929238
+DB00787,Aciclovir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,903,0.036815994
+DB00323,Tolcapone,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1192,0.036709767
+DB00687,Fludrocortisone,DOID:8778,Crohn's disease,CsCtD,0,173,0.036578955
+DB01235,L-DOPA,DOID:10652,Alzheimer's disease,CsCtD,0,1244,0.036202485
+DB00649,Stavudine,DOID:14330,Parkinson's disease,CsCtD,0,1743,0.036043844
+DB01068,Clonazepam,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,1154,0.03586885
+DB00884,Risedronate,DOID:5408,Paget's disease of bone,CsCtD,1,268,0.035525302
+DB00714,Apomorphine,DOID:14330,Parkinson's disease,CsCtD,1,1054,0.035035385
+DB00313,Valproic Acid,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,858,0.034826449
+DB00736,Esomeprazole,DOID:10652,Alzheimer's disease,CsCtD,0,1706,0.034823289
+DB00338,Omeprazole,DOID:10652,Alzheimer's disease,CsCtD,0,1706,0.034823289
+DB00945,Acetylsalicylic acid,DOID:14330,Parkinson's disease,CsCtD,0,1156,0.034667935
+DB00451,Levothyroxine,DOID:14330,Parkinson's disease,CsCtD,0,1231,0.034537256
+DB00509,Dextrothyroxine,DOID:14330,Parkinson's disease,CsCtD,0,1231,0.034537256
+DB00843,Donepezil,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,885,0.034276113
+DB00313,Valproic Acid,DOID:10652,Alzheimer's disease,CsCtD,1,1669,0.033996348
+DB00376,Trihexyphenidyl,DOID:14330,Parkinson's disease,CsCtD,1,734,0.033725322
+DB01048,Abacavir,DOID:14330,Parkinson's disease,CsCtD,0,1691,0.033691589
+DB00575,Clonidine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,873,0.033387108
+DB00884,Risedronate,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,852,0.033375444
+DB00850,Perphenazine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,393,0.033267193
+DB00625,Efavirenz,DOID:10652,Alzheimer's disease,CsCtD,0,1486,0.033221441
+DB00674,Galantamine,DOID:10652,Alzheimer's disease,CsCtD,1,1327,0.032664539
+DB00674,Galantamine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,970,0.032331842
+DB01367,Rasagiline,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,796,0.032252461
+DB00503,Ritonavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,894,0.03219701
+DB01100,Pimozide,DOID:10652,Alzheimer's disease,CsCtD,0,848,0.032090817
+DB00268,Ropinirole,DOID:9206,Barrett's esophagus,CsCtD,0,422,0.031396013
+DB00916,Metronidazole,DOID:10652,Alzheimer's disease,CsCtD,0,1319,0.031353766
+DB00244,Mesalazine,DOID:5408,Paget's disease of bone,CsCtD,0,462,0.031009442
+DB01068,Clonazepam,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,766,0.030477723
+DB00575,Clonidine,DOID:10652,Alzheimer's disease,CsCtD,0,1131,0.030156159
+DB00993,Azathioprine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,503,0.030086366
+DB00424,Hyoscyamine,DOID:10652,Alzheimer's disease,CsCtD,0,1058,0.029965977
+DB00572,Atropine,DOID:10652,Alzheimer's disease,CsCtD,0,1058,0.029965977
+DB00915,Amantadine,DOID:10652,Alzheimer's disease,CsCtD,0,1029,0.029583826
+DB00244,Mesalazine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,826,0.029399428
+DB00244,Mesalazine,DOID:9206,Barrett's esophagus,CsCtD,0,342,0.029389644
+DB00425,Zolpidem,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,828,0.029280855
+DB00494,Entacapone,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,752,0.02923541
+DB00190,Carbidopa,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,839,0.029219188
+DB01235,L-DOPA,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,831,0.029195149
+DB01186,Pergolide,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,683,0.029119478
+DB00996,Gabapentin,DOID:8778,Crohn's disease,CsCtD,0,788,0.02911129
+DB00884,Risedronate,DOID:10652,Alzheimer's disease,CsCtD,0,1079,0.029097575
+DB00238,Nevirapine,DOID:14330,Parkinson's disease,CsCtD,0,1273,0.029066833
+DB00657,Mecamylamine,DOID:14330,Parkinson's disease,CsCtD,0,567,0.029038258
+DB00630,Alendronate,DOID:14330,Parkinson's disease,CsCtD,0,1150,0.028647357
+DB00550,Propylthiouracil,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,353,0.02859245
+DB01077,Etidronic acid,DOID:14330,Parkinson's disease,CsCtD,0,945,0.028453603
+DB00745,Modafinil,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,705,0.02837846
+DB00413,Pramipexole,DOID:8778,Crohn's disease,CsCtD,0,833,0.028339923
+DB00399,Zoledronate,DOID:10652,Alzheimer's disease,CsCtD,0,1279,0.028242778
+DB00916,Metronidazole,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,627,0.028125828
+DB00245,Benzatropine,DOID:14330,Parkinson's disease,CsCtD,1,621,0.02805349
+DB00224,Indinavir,DOID:10652,Alzheimer's disease,CsCtD,0,1219,0.027981413
+DB01583,Liotrix,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,683,0.027922466
+DB05271,Rotigotine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,694,0.02787949
+DB00323,Tolcapone,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,769,0.027728596
+DB01232,Saquinavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,819,0.027716187
+DB00502,Haloperidol,DOID:10652,Alzheimer's disease,CsCtD,1,981,0.027699914
+DB01175,Escitalopram,DOID:9206,Barrett's esophagus,CsCtD,0,434,0.027677374
+DB00215,Citalopram,DOID:9206,Barrett's esophagus,CsCtD,0,434,0.027677374
+DB01175,Escitalopram,DOID:8778,Crohn's disease,CsCtD,0,907,0.027612959
+DB00215,Citalopram,DOID:8778,Crohn's disease,CsCtD,0,907,0.027612959
+DB00503,Ritonavir,DOID:8778,Crohn's disease,CsCtD,0,659,0.027599577
+DB00248,Cabergoline,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,692,0.027570808
+DB00736,Esomeprazole,DOID:8778,Crohn's disease,CsCtD,0,625,0.027407154
+DB00338,Omeprazole,DOID:8778,Crohn's disease,CsCtD,0,625,0.027407154
+DB00338,Omeprazole,DOID:5408,Paget's disease of bone,CsCtD,0,422,0.027344718
+DB00736,Esomeprazole,DOID:5408,Paget's disease of bone,CsCtD,0,422,0.027344718
+DB00900,Didanosine,DOID:14330,Parkinson's disease,CsCtD,0,1025,0.027326298
+DB00268,Ropinirole,DOID:8778,Crohn's disease,CsCtD,0,857,0.027314574
+DB00313,Valproic Acid,DOID:8778,Crohn's disease,CsCtD,0,639,0.027000584
+DB01200,Bromocriptine,DOID:10652,Alzheimer's disease,CsCtD,0,1002,0.026990619
+DB00248,Cabergoline,DOID:10652,Alzheimer's disease,CsCtD,0,951,0.026925075
+DB00787,Aciclovir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,511,0.026915216
+DB00190,Carbidopa,DOID:10652,Alzheimer's disease,CsCtD,1,1091,0.026803209
+DB00850,Perphenazine,DOID:10652,Alzheimer's disease,CsCtD,0,706,0.02672685
+DB01033,Mercaptopurine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,353,0.026649643
+DB00945,Acetylsalicylic acid,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,431,0.026639217
+DB00630,Alendronate,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,527,0.02651059
+DB00734,Risperidone,DOID:8778,Crohn's disease,CsCtD,0,840,0.026377311
+DB00268,Ropinirole,DOID:5408,Paget's disease of bone,CsCtD,0,507,0.026375405
+DB00495,Zidovudine,DOID:10652,Alzheimer's disease,CsCtD,0,1119,0.026373266
+DB00635,Prednisone,DOID:10652,Alzheimer's disease,CsCtD,0,1144,0.026360501
+DB00915,Amantadine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,502,0.026320032
+DB00709,Lamivudine,DOID:10652,Alzheimer's disease,CsCtD,0,1216,0.026300871
+DB00705,Delavirdine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,719,0.026184349
+DB00502,Haloperidol,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,715,0.02612748
+DB00996,Gabapentin,DOID:9206,Barrett's esophagus,CsCtD,0,370,0.026092719
+DB01104,Sertraline,DOID:8778,Crohn's disease,CsCtD,0,719,0.026060162
+DB01232,Saquinavir,DOID:5408,Paget's disease of bone,CsCtD,0,440,0.026042365
+DB01200,Bromocriptine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,678,0.025961991
+DB00572,Atropine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,516,0.025914192
+DB00424,Hyoscyamine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,516,0.025914192
+DB00993,Azathioprine,DOID:14330,Parkinson's disease,CsCtD,0,987,0.025914168
+DB00625,Efavirenz,DOID:5408,Paget's disease of bone,CsCtD,0,365,0.025901741
+DB00313,Valproic Acid,DOID:5408,Paget's disease of bone,CsCtD,0,401,0.02585062
+DB01232,Saquinavir,DOID:8778,Crohn's disease,CsCtD,0,640,0.025807195
+DB00674,Galantamine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,624,0.025725485
+DB00787,Aciclovir,DOID:10652,Alzheimer's disease,CsCtD,0,1057,0.025609335
+DB00734,Risperidone,DOID:9206,Barrett's esophagus,CsCtD,0,392,0.025440598
+DB01200,Bromocriptine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,495,0.025407177
+DB01037,Selegiline,DOID:8778,Crohn's disease,CsCtD,0,722,0.025394975
+DB00850,Perphenazine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,478,0.0253915
+DB01043,Memantine,DOID:8778,Crohn's disease,CsCtD,0,723,0.025339451
+DB00736,Esomeprazole,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,738,0.025291903
+DB00338,Omeprazole,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,738,0.025291903
+DB00282,Pamidronate,DOID:10652,Alzheimer's disease,CsCtD,0,1063,0.025260568
+DB01235,L-DOPA,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,552,0.025174062
+DB00989,Rivastigmine,DOID:5408,Paget's disease of bone,CsCtD,0,468,0.025126489
+DB05271,Rotigotine,DOID:10652,Alzheimer's disease,CsCtD,0,898,0.025101817
+DB00915,Amantadine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,651,0.025090149
+DB00687,Fludrocortisone,DOID:14330,Parkinson's disease,CsCtD,1,727,0.024835087
+DB00705,Delavirdine,DOID:9206,Barrett's esophagus,CsCtD,0,284,0.024724707
+DB00399,Zoledronate,DOID:8778,Crohn's disease,CsCtD,0,515,0.024685221
+DB01232,Saquinavir,DOID:9206,Barrett's esophagus,CsCtD,0,308,0.024648519
+DB01583,Liotrix,DOID:10652,Alzheimer's disease,CsCtD,0,850,0.024604165
+DB00884,Risedronate,DOID:8778,Crohn's disease,CsCtD,0,391,0.024570626
+DB01043,Memantine,DOID:9206,Barrett's esophagus,CsCtD,0,352,0.024534233
+DB00625,Efavirenz,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,674,0.024372052
+DB01224,Quetiapine,DOID:8778,Crohn's disease,CsCtD,0,721,0.024316544
+DB01186,Pergolide,DOID:8778,Crohn's disease,CsCtD,0,587,0.024172592
+DB00313,Valproic Acid,DOID:9206,Barrett's esophagus,CsCtD,0,306,0.024143536
+DB00244,Mesalazine,DOID:8778,Crohn's disease,CsCtD,1,473,0.024136118
+DB00635,Prednisone,DOID:12361,Graves' disease,CsCtD,0,205,0.024040923
+DB00238,Nevirapine,DOID:8778,Crohn's disease,CsCtD,0,315,0.024027013
+DB00190,Carbidopa,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,544,0.023883629
+DB00709,Lamivudine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,592,0.023869652
+DB00989,Rivastigmine,DOID:9206,Barrett's esophagus,CsCtD,0,354,0.023842858
+DB00248,Cabergoline,DOID:5408,Paget's disease of bone,CsCtD,0,255,0.023672378
+DB00989,Rivastigmine,DOID:8778,Crohn's disease,CsCtD,0,733,0.023632194
+DB00224,Indinavir,DOID:9206,Barrett's esophagus,CsCtD,0,228,0.023596023
+DB00246,Ziprasidone,DOID:8778,Crohn's disease,CsCtD,0,604,0.023539486
+DB01367,Rasagiline,DOID:8778,Crohn's disease,CsCtD,0,555,0.023531778
+DB00705,Delavirdine,DOID:5408,Paget's disease of bone,CsCtD,0,375,0.023495988
+DB01077,Etidronic acid,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,409,0.023408934
+DB00572,Atropine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,670,0.023361775
+DB00424,Hyoscyamine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,670,0.023361775
+DB00787,Aciclovir,DOID:8778,Crohn's disease,CsCtD,0,452,0.023209725
+DB00996,Gabapentin,DOID:5408,Paget's disease of bone,CsCtD,0,466,0.023203521
+DB01077,Etidronic acid,DOID:5408,Paget's disease of bone,CsCtD,1,147,0.023174928
+DB00413,Pramipexole,DOID:5408,Paget's disease of bone,CsCtD,0,474,0.023134538
+DB01104,Sertraline,DOID:9206,Barrett's esophagus,CsCtD,0,340,0.02312331
+DB00399,Zoledronate,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,601,0.023063113
+DB00413,Pramipexole,DOID:9206,Barrett's esophagus,CsCtD,0,356,0.02299662
+DB01037,Selegiline,DOID:5408,Paget's disease of bone,CsCtD,0,420,0.022989908
+DB00495,Zidovudine,DOID:5408,Paget's disease of bone,CsCtD,0,297,0.022986486
+DB00625,Efavirenz,DOID:8778,Crohn's disease,CsCtD,0,536,0.02295247
+DB00220,Nelfinavir,DOID:10652,Alzheimer's disease,CsCtD,0,873,0.022921858
+DB01186,Pergolide,DOID:5408,Paget's disease of bone,CsCtD,0,341,0.022913313
+DB00224,Indinavir,DOID:5408,Paget's disease of bone,CsCtD,0,330,0.022906982
+DB00843,Donepezil,DOID:8778,Crohn's disease,CsCtD,0,605,0.022820743
+DB00993,Azathioprine,DOID:8778,Crohn's disease,CsCtD,1,195,0.022786729
+DB00843,Donepezil,DOID:9206,Barrett's esophagus,CsCtD,0,300,0.022778016
+DB00705,Delavirdine,DOID:8778,Crohn's disease,CsCtD,0,566,0.022697148
+DB01033,Mercaptopurine,DOID:8778,Crohn's disease,CsCtD,1,143,0.022646406
+DB01043,Memantine,DOID:5408,Paget's disease of bone,CsCtD,0,455,0.022625528
+DB00701,Amprenavir,DOID:14330,Parkinson's disease,CsCtD,0,907,0.022621339
+DB01100,Pimozide,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,555,0.022577294
+DB00323,Tolcapone,DOID:5408,Paget's disease of bone,CsCtD,0,364,0.022565245
+DB00550,Propylthiouracil,DOID:14330,Parkinson's disease,CsCtD,0,669,0.022563843
+DB00282,Pamidronate,DOID:8778,Crohn's disease,CsCtD,0,440,0.022559854
+DB00709,Lamivudine,DOID:8778,Crohn's disease,CsCtD,0,493,0.022553758
+DB00734,Risperidone,DOID:5408,Paget's disease of bone,CsCtD,0,490,0.02251686
+DB00625,Efavirenz,DOID:9206,Barrett's esophagus,CsCtD,0,248,0.022445536
+DB00503,Ritonavir,DOID:5408,Paget's disease of bone,CsCtD,0,405,0.022267563
+DB00495,Zidovudine,DOID:8778,Crohn's disease,CsCtD,0,453,0.022250039
+DB00916,Metronidazole,DOID:5408,Paget's disease of bone,CsCtD,0,334,0.02219159
+DB00763,Methimazole,DOID:12361,Graves' disease,CsCtD,1,70,0.022167674
+DB00916,Metronidazole,DOID:9206,Barrett's esophagus,CsCtD,0,242,0.021999025
+DB00425,Zolpidem,DOID:8778,Crohn's disease,CsCtD,0,598,0.02194482
+DB00503,Ritonavir,DOID:9206,Barrett's esophagus,CsCtD,0,304,0.021934991
+DB00745,Modafinil,DOID:5408,Paget's disease of bone,CsCtD,0,353,0.021826601
+DB01583,Liotrix,DOID:8778,Crohn's disease,CsCtD,0,363,0.021823822
+DB00763,Methimazole,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,297,0.021712603
+DB00550,Propylthiouracil,DOID:12361,Graves' disease,CsCtD,1,72,0.021664342
+DB00635,Prednisone,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,524,0.02165554
+DB00425,Zolpidem,DOID:5408,Paget's disease of bone,CsCtD,0,391,0.021629028
+DB00763,Methimazole,DOID:14330,Parkinson's disease,CsCtD,0,579,0.021568536
+DB01037,Selegiline,DOID:9206,Barrett's esophagus,CsCtD,0,328,0.021338399
+DB00745,Modafinil,DOID:8778,Crohn's disease,CsCtD,0,539,0.021296272
+DB00745,Modafinil,DOID:9206,Barrett's esophagus,CsCtD,0,252,0.021264306
+DB01224,Quetiapine,DOID:9206,Barrett's esophagus,CsCtD,0,338,0.021234112
+DB00215,Citalopram,DOID:5408,Paget's disease of bone,CsCtD,0,518,0.021229654
+DB01175,Escitalopram,DOID:5408,Paget's disease of bone,CsCtD,0,518,0.021229654
+DB00495,Zidovudine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,521,0.021172065
+DB01583,Liotrix,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,409,0.021073353
+DB00575,Clonidine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,468,0.02106948
+DB00323,Tolcapone,DOID:8778,Crohn's disease,CsCtD,0,552,0.020993135
+DB00509,Dextrothyroxine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,427,0.020974968
+DB00451,Levothyroxine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,427,0.020974968
+DB00399,Zoledronate,DOID:9206,Barrett's esophagus,CsCtD,0,240,0.02094629
+DB00575,Clonidine,DOID:8778,Crohn's disease,CsCtD,0,429,0.020944689
+DB00248,Cabergoline,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,417,0.020928098
+DB01068,Clonazepam,DOID:8778,Crohn's disease,CsCtD,0,543,0.020871322
+DB00244,Mesalazine,DOID:12361,Graves' disease,CsCtD,0,221,0.020861734
+DB00495,Zidovudine,DOID:12361,Graves' disease,CsCtD,0,186,0.020853283
+DB01367,Rasagiline,DOID:5408,Paget's disease of bone,CsCtD,0,357,0.02076493
+DB00224,Indinavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,530,0.020740638
+DB05271,Rotigotine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,424,0.020585394
+DB00425,Zolpidem,DOID:9206,Barrett's esophagus,CsCtD,0,290,0.020584057
+DB00190,Carbidopa,DOID:5408,Paget's disease of bone,CsCtD,0,283,0.020535101
+DB00884,Risedronate,DOID:9206,Barrett's esophagus,CsCtD,0,194,0.020495208
+DB00494,Entacapone,DOID:5408,Paget's disease of bone,CsCtD,0,345,0.020492022
+DB01186,Pergolide,DOID:9206,Barrett's esophagus,CsCtD,0,256,0.020441894
+DB00158,Folic Acid,DOID:14330,Parkinson's disease,CsCtD,0,552,0.020430877
+DB00843,Donepezil,DOID:5408,Paget's disease of bone,CsCtD,0,388,0.020418101
+DB00787,Aciclovir,DOID:5408,Paget's disease of bone,CsCtD,0,302,0.020359353
+DB00224,Indinavir,DOID:8778,Crohn's disease,CsCtD,0,460,0.020335749
+DB00993,Azathioprine,DOID:5408,Paget's disease of bone,CsCtD,0,177,0.020335524
+DB00494,Entacapone,DOID:9206,Barrett's esophagus,CsCtD,0,248,0.020301663
+DB00635,Prednisone,DOID:5408,Paget's disease of bone,CsCtD,0,290,0.02025128
+DB00747,Scopolamine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,300,0.020242043
+DB00985,Dimenhydrinate,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,403,0.02019596
+DB01075,Diphenhydramine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,403,0.02019596
+DB00747,Scopolamine,DOID:8778,Crohn's disease,CsCtD,0,272,0.020177878
+DB00747,Scopolamine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,442,0.020116307
+DB01048,Abacavir,DOID:10652,Alzheimer's disease,CsCtD,0,783,0.019982439
+DB00649,Stavudine,DOID:10652,Alzheimer's disease,CsCtD,0,806,0.019959478
+DB01235,L-DOPA,DOID:5408,Paget's disease of bone,CsCtD,0,278,0.019867106
+DB00916,Metronidazole,DOID:8778,Crohn's disease,CsCtD,1,419,0.019831959
+DB00980,Ramelteon,DOID:14330,Parkinson's disease,CsCtD,1,418,0.019822229
+DB00158,Folic Acid,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,247,0.019714971
+DB00747,Scopolamine,DOID:10652,Alzheimer's disease,CsCtD,1,579,0.019629561
+DB01048,Abacavir,DOID:5408,Paget's disease of bone,CsCtD,0,245,0.0195219
+DB01224,Quetiapine,DOID:5408,Paget's disease of bone,CsCtD,0,425,0.019519323
+DB00850,Perphenazine,DOID:8778,Crohn's disease,CsCtD,0,269,0.019487018
+DB00649,Stavudine,DOID:8778,Crohn's disease,CsCtD,0,338,0.019379204
+DB00674,Galantamine,DOID:5408,Paget's disease of bone,CsCtD,0,314,0.019272711
+DB00282,Pamidronate,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,483,0.019243298
+DB00787,Aciclovir,DOID:9206,Barrett's esophagus,CsCtD,0,202,0.019237144
+DB01367,Rasagiline,DOID:9206,Barrett's esophagus,CsCtD,0,244,0.019102859
+DB00376,Trihexyphenidyl,DOID:10652,Alzheimer's disease,CsCtD,0,319,0.019102178
+DB00246,Ziprasidone,DOID:9206,Barrett's esophagus,CsCtD,0,274,0.01901012
+DB00630,Alendronate,DOID:9206,Barrett's esophagus,CsCtD,0,110,0.018973504
+DB00495,Zidovudine,DOID:9206,Barrett's esophagus,CsCtD,0,212,0.018892206
+DB01133,Tiludronate,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,197,0.018840513
+DB00884,Risedronate,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,452,0.018810931
+DB01048,Abacavir,DOID:8778,Crohn's disease,CsCtD,0,351,0.01875361
+DB00238,Nevirapine,DOID:5408,Paget's disease of bone,CsCtD,0,188,0.018750366
+DB00323,Tolcapone,DOID:9206,Barrett's esophagus,CsCtD,0,250,0.018635998
+DB00494,Entacapone,DOID:8778,Crohn's disease,CsCtD,0,513,0.018592934
+DB00709,Lamivudine,DOID:5408,Paget's disease of bone,CsCtD,0,325,0.018583579
+DB00550,Propylthiouracil,DOID:8778,Crohn's disease,CsCtD,0,160,0.018580137
+DB01033,Mercaptopurine,DOID:14330,Parkinson's disease,CsCtD,0,606,0.018558913
+DB00687,Fludrocortisone,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,285,0.018474503
+DB00220,Nelfinavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,406,0.018398563
+DB01048,Abacavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,379,0.018372272
+DB00945,Acetylsalicylic acid,DOID:10652,Alzheimer's disease,CsCtD,0,508,0.018322105
+DB01104,Sertraline,DOID:5408,Paget's disease of bone,CsCtD,0,395,0.018210731
+DB01133,Tiludronate,DOID:14330,Parkinson's disease,CsCtD,0,407,0.01817029
+DB00714,Apomorphine,DOID:10652,Alzheimer's disease,CsCtD,0,463,0.018116615
+DB01068,Clonazepam,DOID:5408,Paget's disease of bone,CsCtD,0,345,0.018105232
+DB00220,Nelfinavir,DOID:5408,Paget's disease of bone,CsCtD,0,244,0.018051317
+DB00900,Didanosine,DOID:8778,Crohn's disease,CsCtD,0,233,0.018035859
+DB00246,Ziprasidone,DOID:5408,Paget's disease of bone,CsCtD,0,370,0.017979047
+DB00502,Haloperidol,DOID:8778,Crohn's disease,CsCtD,0,375,0.017898367
+DB01068,Clonazepam,DOID:9206,Barrett's esophagus,CsCtD,0,250,0.017813627
+DB00985,Dimenhydrinate,DOID:12361,Graves' disease,CsCtD,0,110,0.017727534
+DB01075,Diphenhydramine,DOID:12361,Graves' disease,CsCtD,0,110,0.017727534
+DB00915,Amantadine,DOID:8778,Crohn's disease,CsCtD,0,360,0.017705994
+DB00509,Dextrothyroxine,DOID:10652,Alzheimer's disease,CsCtD,0,529,0.017691984
+DB00451,Levothyroxine,DOID:10652,Alzheimer's disease,CsCtD,0,529,0.017691984
+DB00575,Clonidine,DOID:5408,Paget's disease of bone,CsCtD,0,274,0.017661376
+DB00282,Pamidronate,DOID:9206,Barrett's esophagus,CsCtD,0,186,0.017609376
+DB00734,Risperidone,DOID:12361,Graves' disease,CsCtD,0,270,0.017608455
+DB00674,Galantamine,DOID:8778,Crohn's disease,CsCtD,0,441,0.017574579
+DB00424,Hyoscyamine,DOID:12361,Graves' disease,CsCtD,0,184,0.01744903
+DB00572,Atropine,DOID:12361,Graves' disease,CsCtD,0,184,0.01744903
+DB00220,Nelfinavir,DOID:8778,Crohn's disease,CsCtD,0,346,0.017290093
+DB00190,Carbidopa,DOID:12361,Graves' disease,CsCtD,0,177,0.017175293
+DB00945,Acetylsalicylic acid,DOID:8778,Crohn's disease,CsCtD,0,230,0.017160298
+DB00238,Nevirapine,DOID:9206,Barrett's esophagus,CsCtD,0,130,0.017128305
+DB00985,Dimenhydrinate,DOID:10652,Alzheimer's disease,CsCtD,0,499,0.017076136
+DB01075,Diphenhydramine,DOID:10652,Alzheimer's disease,CsCtD,0,499,0.017076136
+DB00224,Indinavir,DOID:12361,Graves' disease,CsCtD,0,188,0.017063871
+DB00709,Lamivudine,DOID:12361,Graves' disease,CsCtD,0,198,0.017042991
+DB00220,Nelfinavir,DOID:9206,Barrett's esophagus,CsCtD,0,158,0.016928029
+DB01033,Mercaptopurine,DOID:5408,Paget's disease of bone,CsCtD,0,102,0.016882048
+DB01104,Sertraline,DOID:12361,Graves' disease,CsCtD,0,241,0.016876101
+DB00674,Galantamine,DOID:9206,Barrett's esophagus,CsCtD,0,206,0.016844242
+DB05271,Rotigotine,DOID:8778,Crohn's disease,CsCtD,0,339,0.016784686
+DB00238,Nevirapine,DOID:10652,Alzheimer's disease,CsCtD,0,585,0.016740509
+DB00649,Stavudine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,380,0.016724464
+DB00190,Carbidopa,DOID:8778,Crohn's disease,CsCtD,0,399,0.016530582
+DB01235,L-DOPA,DOID:8778,Crohn's disease,CsCtD,0,399,0.016522616
+DB00985,Dimenhydrinate,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,259,0.016457045
+DB01075,Diphenhydramine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,259,0.016457045
+DB00714,Apomorphine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,231,0.016406138
+DB00945,Acetylsalicylic acid,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,260,0.016395645
+DB01200,Bromocriptine,DOID:8778,Crohn's disease,CsCtD,0,357,0.016286986
+DB00747,Scopolamine,DOID:12361,Graves' disease,CsCtD,0,109,0.016276464
+DB00900,Didanosine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,243,0.016269577
+DB00705,Delavirdine,DOID:12361,Graves' disease,CsCtD,0,206,0.016247752
+DB00714,Apomorphine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,329,0.016237272
+DB00625,Efavirenz,DOID:12361,Graves' disease,CsCtD,0,199,0.016228131
+DB00413,Pramipexole,DOID:12361,Graves' disease,CsCtD,0,256,0.016215972
+DB00630,Alendronate,DOID:8778,Crohn's disease,CsCtD,0,248,0.016188119
+DB00268,Ropinirole,DOID:12361,Graves' disease,CsCtD,0,265,0.016092521
+DB01175,Escitalopram,DOID:12361,Graves' disease,CsCtD,0,286,0.016088235
+DB00215,Citalopram,DOID:12361,Graves' disease,CsCtD,0,286,0.016088235
+DB01583,Liotrix,DOID:5408,Paget's disease of bone,CsCtD,0,220,0.015982728
+DB00376,Trihexyphenidyl,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,150,0.015957088
+DB00649,Stavudine,DOID:5408,Paget's disease of bone,CsCtD,0,220,0.015936236
+DB01100,Pimozide,DOID:8778,Crohn's disease,CsCtD,0,289,0.015841324
+DB00916,Metronidazole,DOID:12361,Graves' disease,CsCtD,0,167,0.015802972
+DB00279,Liothyronine,DOID:14330,Parkinson's disease,CsCtD,0,213,0.01574658
+DB00630,Alendronate,DOID:10652,Alzheimer's disease,CsCtD,0,517,0.015611885
+DB01043,Memantine,DOID:12361,Graves' disease,CsCtD,0,251,0.015580953
+DB00282,Pamidronate,DOID:12361,Graves' disease,CsCtD,0,171,0.015555811
+DB00248,Cabergoline,DOID:9206,Barrett's esophagus,CsCtD,0,142,0.01551723
+DB05271,Rotigotine,DOID:5408,Paget's disease of bone,CsCtD,0,231,0.015498334
+DB01186,Pergolide,DOID:12361,Graves' disease,CsCtD,0,218,0.015442261
+DB00245,Benzatropine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,136,0.015371642
+DB01068,Clonazepam,DOID:12361,Graves' disease,CsCtD,0,201,0.015350285
+DB00502,Haloperidol,DOID:9206,Barrett's esophagus,CsCtD,0,156,0.015327115
+DB00245,Benzatropine,DOID:10652,Alzheimer's disease,CsCtD,1,273,0.015309329
+DB00313,Valproic Acid,DOID:12361,Graves' disease,CsCtD,0,206,0.015283258
+DB00900,Didanosine,DOID:10652,Alzheimer's disease,CsCtD,0,476,0.015270764
+DB01037,Selegiline,DOID:12361,Graves' disease,CsCtD,0,244,0.015251687
+DB00246,Ziprasidone,DOID:12361,Graves' disease,CsCtD,0,204,0.015196993
+DB00238,Nevirapine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,293,0.015154698
+DB00993,Azathioprine,DOID:10652,Alzheimer's disease,CsCtD,0,470,0.015128521
+DB00843,Donepezil,DOID:12361,Graves' disease,CsCtD,0,221,0.015117342
+DB01200,Bromocriptine,DOID:12361,Graves' disease,CsCtD,0,149,0.014968075
+DB00980,Ramelteon,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,185,0.014926813
+DB01235,L-DOPA,DOID:12361,Graves' disease,CsCtD,0,175,0.014889779
+DB00687,Fludrocortisone,DOID:10652,Alzheimer's disease,CsCtD,0,351,0.014864271
+DB00787,Aciclovir,DOID:12361,Graves' disease,CsCtD,0,171,0.014829038
+DB00635,Prednisone,DOID:9206,Barrett's esophagus,CsCtD,0,172,0.014813648
+DB01048,Abacavir,DOID:12361,Graves' disease,CsCtD,0,139,0.01472919
+DB00248,Cabergoline,DOID:8778,Crohn's disease,CsCtD,0,320,0.014708467
+DB00709,Lamivudine,DOID:9206,Barrett's esophagus,CsCtD,0,208,0.01470131
+DB00996,Gabapentin,DOID:12361,Graves' disease,CsCtD,0,254,0.01469477
+DB00649,Stavudine,DOID:9206,Barrett's esophagus,CsCtD,0,148,0.014689324
+DB01077,Etidronic acid,DOID:10652,Alzheimer's disease,CsCtD,0,419,0.014614639
+DB01200,Bromocriptine,DOID:5408,Paget's disease of bone,CsCtD,0,226,0.01457071
+DB00687,Fludrocortisone,DOID:5408,Paget's disease of bone,CsCtD,0,101,0.014561877
+DB00376,Trihexyphenidyl,DOID:8778,Crohn's disease,CsCtD,0,133,0.014502058
+DB00945,Acetylsalicylic acid,DOID:12361,Graves' disease,CsCtD,0,109,0.014494744
+DB00451,Levothyroxine,DOID:8778,Crohn's disease,CsCtD,0,232,0.014482678
+DB00509,Dextrothyroxine,DOID:8778,Crohn's disease,CsCtD,0,232,0.014482678
+DB00572,Atropine,DOID:9206,Barrett's esophagus,CsCtD,0,144,0.014473814
+DB00424,Hyoscyamine,DOID:9206,Barrett's esophagus,CsCtD,0,144,0.014473814
+DB00494,Entacapone,DOID:12361,Graves' disease,CsCtD,0,203,0.014460891
+DB01583,Liotrix,DOID:13378,Kawasaki disease,CsCtD,0,37,0.0144228
+DB00900,Didanosine,DOID:5408,Paget's disease of bone,CsCtD,0,157,0.014390529
+DB00763,Methimazole,DOID:8778,Crohn's disease,CsCtD,0,132,0.014321715
+DB00915,Amantadine,DOID:12361,Graves' disease,CsCtD,0,150,0.014312858
+DB01077,Etidronic acid,DOID:8778,Crohn's disease,CsCtD,0,197,0.014277824
+DB00572,Atropine,DOID:5408,Paget's disease of bone,CsCtD,0,214,0.014272847
+DB00424,Hyoscyamine,DOID:5408,Paget's disease of bone,CsCtD,0,214,0.014272847
+DB01033,Mercaptopurine,DOID:9206,Barrett's esophagus,CsCtD,0,70,0.014261673
+DB01367,Rasagiline,DOID:12361,Graves' disease,CsCtD,0,184,0.014229262
+DB05271,Rotigotine,DOID:9206,Barrett's esophagus,CsCtD,0,146,0.014025083
+DB00657,Mecamylamine,DOID:10652,Alzheimer's disease,CsCtD,0,241,0.014012757
+DB00503,Ritonavir,DOID:12361,Graves' disease,CsCtD,0,210,0.013935632
+DB01232,Saquinavir,DOID:12361,Graves' disease,CsCtD,0,201,0.013848539
+DB00323,Tolcapone,DOID:12361,Graves' disease,CsCtD,0,203,0.01377349
+DB00989,Rivastigmine,DOID:12361,Graves' disease,CsCtD,0,240,0.013674605
+DB00993,Azathioprine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,209,0.013559737
+DB00238,Nevirapine,DOID:12361,Graves' disease,CsCtD,0,109,0.013520006
+DB00674,Galantamine,DOID:12361,Graves' disease,CsCtD,0,166,0.0134699
+DB00945,Acetylsalicylic acid,DOID:9206,Barrett's esophagus,CsCtD,0,90,0.013465084
+DB00425,Zolpidem,DOID:12361,Graves' disease,CsCtD,0,209,0.013439682
+DB00736,Esomeprazole,DOID:12361,Graves' disease,CsCtD,0,197,0.013409423
+DB00338,Omeprazole,DOID:12361,Graves' disease,CsCtD,0,197,0.013409423
+DB00190,Carbidopa,DOID:9206,Barrett's esophagus,CsCtD,0,168,0.013335455
+DB00575,Clonidine,DOID:9206,Barrett's esophagus,CsCtD,0,168,0.013244297
+DB00701,Amprenavir,DOID:10652,Alzheimer's disease,CsCtD,0,420,0.013195419
+DB00635,Prednisone,DOID:8778,Crohn's disease,CsCtD,1,336,0.013134048
+DB00279,Liothyronine,DOID:12361,Graves' disease,CsCtD,1,28,0.013128958
+DB00399,Zoledronate,DOID:12361,Graves' disease,CsCtD,0,186,0.012967797
+DB00502,Haloperidol,DOID:12361,Graves' disease,CsCtD,0,139,0.012957705
+DB00714,Apomorphine,DOID:12361,Graves' disease,CsCtD,0,92,0.012944011
+DB01235,L-DOPA,DOID:9206,Barrett's esophagus,CsCtD,0,164,0.012857469
+DB01224,Quetiapine,DOID:12361,Graves' disease,CsCtD,0,216,0.012833611
+DB00714,Apomorphine,DOID:5408,Paget's disease of bone,CsCtD,0,124,0.012808889
+DB00945,Acetylsalicylic acid,DOID:5408,Paget's disease of bone,CsCtD,0,142,0.012742444
+DB00701,Amprenavir,DOID:5408,Paget's disease of bone,CsCtD,0,133,0.012653168
+DB01133,Tiludronate,DOID:5408,Paget's disease of bone,CsCtD,1,74,0.012597135
+DB01048,Abacavir,DOID:9206,Barrett's esophagus,CsCtD,0,140,0.012525425
+DB00915,Amantadine,DOID:9206,Barrett's esophagus,CsCtD,0,128,0.012523043
+DB00745,Modafinil,DOID:12361,Graves' disease,CsCtD,0,181,0.012503909
+DB00451,Levothyroxine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,243,0.012479926
+DB00509,Dextrothyroxine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,243,0.012479926
+DB00701,Amprenavir,DOID:8778,Crohn's disease,CsCtD,0,186,0.0124475
+DB01033,Mercaptopurine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,153,0.012334167
+DB00747,Scopolamine,DOID:5408,Paget's disease of bone,CsCtD,0,138,0.0122581
+DB00900,Didanosine,DOID:9206,Barrett's esophagus,CsCtD,0,94,0.012206743
+DB00701,Amprenavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,203,0.012206401
+DB00915,Amantadine,DOID:5408,Paget's disease of bone,CsCtD,0,194,0.01215673
+DB00502,Haloperidol,DOID:5408,Paget's disease of bone,CsCtD,0,206,0.012120776
+DB00985,Dimenhydrinate,DOID:8778,Crohn's disease,CsCtD,0,203,0.012116089
+DB01075,Diphenhydramine,DOID:8778,Crohn's disease,CsCtD,0,203,0.012116089
+DB00687,Fludrocortisone,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,157,0.01206678
+DB01077,Etidronic acid,DOID:9206,Barrett's esophagus,CsCtD,0,84,0.011893446
+DB00550,Propylthiouracil,DOID:10652,Alzheimer's disease,CsCtD,0,296,0.011885811
+DB00649,Stavudine,DOID:12361,Graves' disease,CsCtD,0,123,0.0118649
+DB00993,Azathioprine,DOID:12361,Graves' disease,CsCtD,0,85,0.011853501
+DB01104,Sertraline,DOID:13378,Kawasaki disease,CsCtD,0,52,0.011644462
+DB01583,Liotrix,DOID:9206,Barrett's esophagus,CsCtD,0,130,0.011601836
+DB00657,Mecamylamine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,124,0.011555153
+DB00657,Mecamylamine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,174,0.011521806
+DB00575,Clonidine,DOID:12361,Graves' disease,CsCtD,0,157,0.011505775
+DB00245,Benzatropine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,178,0.011498157
+DB00158,Folic Acid,DOID:10652,Alzheimer's disease,CsCtD,0,240,0.01145498
+DB00630,Alendronate,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,231,0.011398462
+DB00734,Risperidone,DOID:13378,Kawasaki disease,CsCtD,0,61,0.011396645
+DB00900,Didanosine,DOID:12361,Graves' disease,CsCtD,0,98,0.011321226
+DB00687,Fludrocortisone,DOID:12361,Graves' disease,CsCtD,0,66,0.011308266
+DB00550,Propylthiouracil,DOID:5408,Paget's disease of bone,CsCtD,0,101,0.011303989
+DB00850,Perphenazine,DOID:12361,Graves' disease,CsCtD,0,94,0.01125136
+DB00220,Nelfinavir,DOID:12361,Graves' disease,CsCtD,0,134,0.011241572
+DB01033,Mercaptopurine,DOID:10652,Alzheimer's disease,CsCtD,0,295,0.011162807
+DB00376,Trihexyphenidyl,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,191,0.011069856
+DB00550,Propylthiouracil,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,153,0.010985008
+DB00993,Azathioprine,DOID:9206,Barrett's esophagus,CsCtD,0,90,0.01096123
+DB01077,Etidronic acid,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,188,0.010817916
+DB00220,Nelfinavir,DOID:13378,Kawasaki disease,CsCtD,0,28,0.010807624
+DB00625,Efavirenz,DOID:13378,Kawasaki disease,CsCtD,0,42,0.010688815
+DB00158,Folic Acid,DOID:9206,Barrett's esophagus,CsCtD,0,46,0.010674237
+DB00550,Propylthiouracil,DOID:9206,Barrett's esophagus,CsCtD,0,54,0.010638252
+DB00451,Levothyroxine,DOID:5408,Paget's disease of bone,CsCtD,0,132,0.010487064
+DB00509,Dextrothyroxine,DOID:5408,Paget's disease of bone,CsCtD,0,132,0.010487064
+DB00248,Cabergoline,DOID:12361,Graves' disease,CsCtD,0,130,0.010374908
+DB01100,Pimozide,DOID:5408,Paget's disease of bone,CsCtD,0,164,0.010350982
+DB01175,Escitalopram,DOID:13378,Kawasaki disease,CsCtD,0,60,0.010344695
+DB00215,Citalopram,DOID:13378,Kawasaki disease,CsCtD,0,60,0.010344695
+DB00980,Ramelteon,DOID:5408,Paget's disease of bone,CsCtD,0,66,0.01030799
+DB00246,Ziprasidone,DOID:13378,Kawasaki disease,CsCtD,0,46,0.01027203
+DB01200,Bromocriptine,DOID:9206,Barrett's esophagus,CsCtD,0,128,0.010215658
+DB00244,Mesalazine,DOID:13378,Kawasaki disease,CsCtD,0,47,0.010162954
+DB00985,Dimenhydrinate,DOID:5408,Paget's disease of bone,CsCtD,0,116,0.010147046
+DB01075,Diphenhydramine,DOID:5408,Paget's disease of bone,CsCtD,0,116,0.010147046
+DB01100,Pimozide,DOID:9206,Barrett's esophagus,CsCtD,0,110,0.010086171
+DB00714,Apomorphine,DOID:8778,Crohn's disease,CsCtD,0,174,0.01005638
+DB00763,Methimazole,DOID:5408,Paget's disease of bone,CsCtD,0,87,0.009980016
+DB01133,Tiludronate,DOID:10652,Alzheimer's disease,CsCtD,0,178,0.00995297
+DB00985,Dimenhydrinate,DOID:9206,Barrett's esophagus,CsCtD,0,82,0.009897974
+DB01075,Diphenhydramine,DOID:9206,Barrett's esophagus,CsCtD,0,82,0.009897974
+DB01100,Pimozide,DOID:12361,Graves' disease,CsCtD,0,110,0.009891862
+DB00158,Folic Acid,DOID:5408,Paget's disease of bone,CsCtD,0,77,0.009782894
+DB00850,Perphenazine,DOID:5408,Paget's disease of bone,CsCtD,0,137,0.009727664
+DB00687,Fludrocortisone,DOID:9206,Barrett's esophagus,CsCtD,0,56,0.009705435
+DB00850,Perphenazine,DOID:9206,Barrett's esophagus,CsCtD,0,92,0.009673894
+DB01033,Mercaptopurine,DOID:12361,Graves' disease,CsCtD,0,59,0.009644358
+DB00503,Ritonavir,DOID:13378,Kawasaki disease,CsCtD,0,49,0.009640474
+DB00763,Methimazole,DOID:10652,Alzheimer's disease,CsCtD,0,247,0.009628445
+DB00158,Folic Acid,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,114,0.009570564
+DB00763,Methimazole,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,133,0.009567291
+DB00736,Esomeprazole,DOID:13378,Kawasaki disease,CsCtD,0,45,0.009521252
+DB00338,Omeprazole,DOID:13378,Kawasaki disease,CsCtD,0,45,0.009521252
+DB01037,Selegiline,DOID:13378,Kawasaki disease,CsCtD,0,50,0.009487566
+DB00635,Prednisone,DOID:13378,Kawasaki disease,CsCtD,0,37,0.009425446
+DB00268,Ropinirole,DOID:13378,Kawasaki disease,CsCtD,0,57,0.009165445
+DB00495,Zidovudine,DOID:13378,Kawasaki disease,CsCtD,0,35,0.009140743
+DB00843,Donepezil,DOID:13378,Kawasaki disease,CsCtD,0,42,0.009133439
+DB00884,Risedronate,DOID:12361,Graves' disease,CsCtD,0,118,0.00911534
+DB01232,Saquinavir,DOID:13378,Kawasaki disease,CsCtD,0,47,0.008974057
+DB00245,Benzatropine,DOID:8778,Crohn's disease,CsCtD,0,109,0.008899451
+DB01077,Etidronic acid,DOID:12361,Graves' disease,CsCtD,0,83,0.00889674
+DB05271,Rotigotine,DOID:12361,Graves' disease,CsCtD,0,113,0.008848403
+DB00989,Rivastigmine,DOID:13378,Kawasaki disease,CsCtD,0,51,0.008823372
+DB00245,Benzatropine,DOID:12361,Graves' disease,CsCtD,0,54,0.008576322
+DB01043,Memantine,DOID:13378,Kawasaki disease,CsCtD,0,50,0.008538665
+DB01186,Pergolide,DOID:13378,Kawasaki disease,CsCtD,0,44,0.008323186
+DB00747,Scopolamine,DOID:9206,Barrett's esophagus,CsCtD,0,86,0.008262896
+DB00996,Gabapentin,DOID:13378,Kawasaki disease,CsCtD,0,53,0.008241727
+DB00630,Alendronate,DOID:12361,Graves' disease,CsCtD,0,91,0.008234095
+DB01224,Quetiapine,DOID:13378,Kawasaki disease,CsCtD,0,47,0.008203947
+DB00376,Trihexyphenidyl,DOID:12361,Graves' disease,CsCtD,0,60,0.008202492
+DB00714,Apomorphine,DOID:9206,Barrett's esophagus,CsCtD,0,60,0.008129393
+DB00687,Fludrocortisone,DOID:13378,Kawasaki disease,CsCtD,0,15,0.008110365
+DB00279,Liothyronine,DOID:10652,Alzheimer's disease,CsCtD,0,93,0.007991545
+DB00158,Folic Acid,DOID:8778,Crohn's disease,CsCtD,1,106,0.007903408
+DB00980,Ramelteon,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,88,0.007900347
+DB00494,Entacapone,DOID:13378,Kawasaki disease,CsCtD,0,39,0.007848699
+DB00701,Amprenavir,DOID:9206,Barrett's esophagus,CsCtD,0,72,0.007844579
+DB00980,Ramelteon,DOID:10652,Alzheimer's disease,CsCtD,0,169,0.007728453
+DB00413,Pramipexole,DOID:13378,Kawasaki disease,CsCtD,0,50,0.007723226
+DB01200,Bromocriptine,DOID:13378,Kawasaki disease,CsCtD,0,29,0.007690374
+DB00701,Amprenavir,DOID:12361,Graves' disease,CsCtD,0,72,0.007658793
+DB00451,Levothyroxine,DOID:9206,Barrett's esophagus,CsCtD,0,78,0.007648191
+DB00509,Dextrothyroxine,DOID:9206,Barrett's esophagus,CsCtD,0,78,0.007648191
+DB00649,Stavudine,DOID:13378,Kawasaki disease,CsCtD,0,24,0.00764763
+DB00657,Mecamylamine,DOID:8778,Crohn's disease,CsCtD,0,92,0.007591094
+DB00313,Valproic Acid,DOID:13378,Kawasaki disease,CsCtD,0,41,0.007570576
+DB00709,Lamivudine,DOID:13378,Kawasaki disease,CsCtD,0,36,0.007345299
+DB00279,Liothyronine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,46,0.007345146
+DB00158,Folic Acid,DOID:12361,Graves' disease,CsCtD,0,48,0.007250981
+DB00238,Nevirapine,DOID:13378,Kawasaki disease,CsCtD,0,20,0.007222408
+DB00900,Didanosine,DOID:13378,Kawasaki disease,CsCtD,0,19,0.007175855
+DB00993,Azathioprine,DOID:13378,Kawasaki disease,CsCtD,0,17,0.007127056
+DB00190,Carbidopa,DOID:13378,Kawasaki disease,CsCtD,0,34,0.007049799
+DB00424,Hyoscyamine,DOID:13378,Kawasaki disease,CsCtD,0,35,0.007023714
+DB00572,Atropine,DOID:13378,Kawasaki disease,CsCtD,0,35,0.007023714
+DB01133,Tiludronate,DOID:12361,Graves' disease,CsCtD,0,39,0.006970664
+DB01235,L-DOPA,DOID:13378,Kawasaki disease,CsCtD,0,34,0.006964344
+DB00657,Mecamylamine,DOID:5408,Paget's disease of bone,CsCtD,0,53,0.006940738
+DB01068,Clonazepam,DOID:13378,Kawasaki disease,CsCtD,0,38,0.006872569
+DB00980,Ramelteon,DOID:8778,Crohn's disease,CsCtD,0,80,0.006801031
+DB00980,Ramelteon,DOID:12361,Graves' disease,CsCtD,0,40,0.006760354
+DB00763,Methimazole,DOID:9206,Barrett's esophagus,CsCtD,0,46,0.0067535
+DB01133,Tiludronate,DOID:8778,Crohn's disease,CsCtD,0,79,0.006655797
+DB00674,Galantamine,DOID:13378,Kawasaki disease,CsCtD,0,34,0.006648139
+DB00705,Delavirdine,DOID:13378,Kawasaki disease,CsCtD,0,38,0.00663767
+DB00224,Indinavir,DOID:13378,Kawasaki disease,CsCtD,0,34,0.006629648
+DB00279,Liothyronine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,47,0.006557098
+DB00425,Zolpidem,DOID:13378,Kawasaki disease,CsCtD,0,40,0.006537469
+DB00985,Dimenhydrinate,DOID:13378,Kawasaki disease,CsCtD,0,20,0.006483415
+DB01075,Diphenhydramine,DOID:13378,Kawasaki disease,CsCtD,0,20,0.006483415
+DB01133,Tiludronate,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,80,0.006439679
+DB00630,Alendronate,DOID:13378,Kawasaki disease,CsCtD,0,21,0.00624945
+DB00323,Tolcapone,DOID:13378,Kawasaki disease,CsCtD,0,38,0.006201054
+DB00916,Metronidazole,DOID:13378,Kawasaki disease,CsCtD,0,34,0.006182978
+DB00245,Benzatropine,DOID:5408,Paget's disease of bone,CsCtD,0,56,0.00617447
+DB00245,Benzatropine,DOID:9206,Barrett's esophagus,CsCtD,0,40,0.006140162
+DB00850,Perphenazine,DOID:13378,Kawasaki disease,CsCtD,0,24,0.006053645
+DB01367,Rasagiline,DOID:13378,Kawasaki disease,CsCtD,0,38,0.006044402
+DB00282,Pamidronate,DOID:13378,Kawasaki disease,CsCtD,0,34,0.005993492
+DB00376,Trihexyphenidyl,DOID:5408,Paget's disease of bone,CsCtD,0,62,0.005965568
+DB01033,Mercaptopurine,DOID:13378,Kawasaki disease,CsCtD,0,13,0.005896521
+DB00787,Aciclovir,DOID:13378,Kawasaki disease,CsCtD,0,32,0.005870192
+DB00399,Zoledronate,DOID:13378,Kawasaki disease,CsCtD,0,37,0.005864117
+DB00745,Modafinil,DOID:13378,Kawasaki disease,CsCtD,0,35,0.005853057
+DB00714,Apomorphine,DOID:13378,Kawasaki disease,CsCtD,0,18,0.005813582
+DB00884,Risedronate,DOID:13378,Kawasaki disease,CsCtD,0,27,0.005638915
+DB00158,Folic Acid,DOID:13378,Kawasaki disease,CsCtD,0,12,0.00553764
+DB00509,Dextrothyroxine,DOID:13378,Kawasaki disease,CsCtD,0,21,0.005533319
+DB00451,Levothyroxine,DOID:13378,Kawasaki disease,CsCtD,0,21,0.005533319
+DB00980,Ramelteon,DOID:9206,Barrett's esophagus,CsCtD,0,32,0.005335759
+DB00915,Amantadine,DOID:13378,Kawasaki disease,CsCtD,0,23,0.005195727
+DB01077,Etidronic acid,DOID:13378,Kawasaki disease,CsCtD,0,17,0.005137962
+DB00657,Mecamylamine,DOID:12361,Graves' disease,CsCtD,0,35,0.005009929
+DB00747,Scopolamine,DOID:13378,Kawasaki disease,CsCtD,0,18,0.004996227
+DB00575,Clonidine,DOID:13378,Kawasaki disease,CsCtD,0,29,0.004991851
+DB01100,Pimozide,DOID:13378,Kawasaki disease,CsCtD,0,23,0.004986791
+DB01133,Tiludronate,DOID:9206,Barrett's esophagus,CsCtD,0,30,0.004807059
+DB00279,Liothyronine,DOID:8778,Crohn's disease,CsCtD,0,34,0.004714561
+DB00248,Cabergoline,DOID:13378,Kawasaki disease,CsCtD,0,23,0.004620515
+DB05271,Rotigotine,DOID:13378,Kawasaki disease,CsCtD,0,24,0.004600949
+DB00657,Mecamylamine,DOID:9206,Barrett's esophagus,CsCtD,0,28,0.004556868
+DB00376,Trihexyphenidyl,DOID:9206,Barrett's esophagus,CsCtD,0,38,0.004485825
+DB00550,Propylthiouracil,DOID:13378,Kawasaki disease,CsCtD,0,15,0.004419401
+DB00763,Methimazole,DOID:13378,Kawasaki disease,CsCtD,0,13,0.004271264
+DB00502,Haloperidol,DOID:13378,Kawasaki disease,CsCtD,0,26,0.004221232
+DB01048,Abacavir,DOID:13378,Kawasaki disease,CsCtD,0,19,0.003527714
+DB00279,Liothyronine,DOID:5408,Paget's disease of bone,CsCtD,0,16,0.003499585
+DB00376,Trihexyphenidyl,DOID:13378,Kawasaki disease,CsCtD,0,11,0.003319983
+DB00980,Ramelteon,DOID:13378,Kawasaki disease,CsCtD,0,7,0.003112951
+DB00657,Mecamylamine,DOID:13378,Kawasaki disease,CsCtD,0,7,0.002615729
+DB00245,Benzatropine,DOID:13378,Kawasaki disease,CsCtD,0,8,0.002411067
+DB01133,Tiludronate,DOID:13378,Kawasaki disease,CsCtD,0,6,0.002328549
+DB00279,Liothyronine,DOID:9206,Barrett's esophagus,CsCtD,0,8,0.002161634
+DB00701,Amprenavir,DOID:13378,Kawasaki disease,CsCtD,0,8,0.001865113
+DB00279,Liothyronine,DOID:13378,Kawasaki disease,CsCtD,0,2,0.001324623
+DB00334,Olanzapine,DOID:8778,Crohn's disease,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:12361,Graves' disease,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:8778,Crohn's disease,CsCtD,1,0,0
+DB01601,Lopinavir,DOID:10652,Alzheimer's disease,CsCtD,0,0,0
+DB00810,Biperiden,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:12361,Graves' disease,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:10652,Alzheimer's disease,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:14330,Parkinson's disease,CsCtD,1,0,0
+DB00810,Biperiden,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:8778,Crohn's disease,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:10652,Alzheimer's disease,CsCtD,1,0,0
+DB00334,Olanzapine,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB00810,Biperiden,DOID:12361,Graves' disease,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,0,0
+DB00334,Olanzapine,DOID:14330,Parkinson's disease,CsCtD,0,0,0
+DB00334,Olanzapine,DOID:11119,Gilles de la Tourette syndrome,CsCtD,1,0,0
+DB01014,Balsalazide,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:8778,Crohn's disease,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,0,0
+DB00945,Acetylsalicylic acid,DOID:13378,Kawasaki disease,CsCtD,1,0,0
+DB01014,Balsalazide,DOID:14330,Parkinson's disease,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:10652,Alzheimer's disease,CsCtD,1,0,0
+DB00810,Biperiden,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:8778,Crohn's disease,CsCtD,0,0,0
+DB00810,Biperiden,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB00334,Olanzapine,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB00334,Olanzapine,DOID:10652,Alzheimer's disease,CsCtD,0,0,0
+DB00334,Olanzapine,DOID:12361,Graves' disease,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:635,acquired immunodeficiency syndrome,CsCtD,1,0,0
+DB00810,Biperiden,DOID:14330,Parkinson's disease,CsCtD,1,0,0
+DB00334,Olanzapine,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB00810,Biperiden,DOID:8778,Crohn's disease,CsCtD,0,0,0
+DB00334,Olanzapine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:8778,Crohn's disease,CsCtD,1,0,0
+DB00810,Biperiden,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:12361,Graves' disease,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:5408,Paget's disease of bone,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:10652,Alzheimer's disease,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:12361,Graves' disease,CsCtD,0,0,0
+DB00810,Biperiden,DOID:10652,Alzheimer's disease,CsCtD,1,0,0
+DB01601,Lopinavir,DOID:14330,Parkinson's disease,CsCtD,0,0,0
+DB01601,Lopinavir,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB00795,Sulfasalazine,DOID:14330,Parkinson's disease,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:9206,Barrett's esophagus,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:14330,Parkinson's disease,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:635,acquired immunodeficiency syndrome,CsCtD,0,0,0
+DB01014,Balsalazide,DOID:11119,Gilles de la Tourette syndrome,CsCtD,0,0,0
+DB00387,Procyclidine,DOID:13378,Kawasaki disease,CsCtD,0,0,0
+DB00163,Vitamin E,DOID:12361,Graves' disease,CsCtD,0,0,0

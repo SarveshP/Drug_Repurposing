@@ -1,0 +1,10 @@
+doid,name,source,pathophysiology 
+DOID:8778,Crohn's disease,hetio,immunologic 
+DOID:10652,Alzheimer's disease,hetio,degenerative 
+DOID:12361,Graves' disease,hetio,immunologic 
+DOID:14330,Parkinson's disease,hetio,degenerative 
+DOID:5408,Paget's disease of bone,hetio,immunologic 
+DOID:13378,Kawasaki disease,hetio,immunologic 
+DOID:11119,Gilles de la Tourette syndrome,hetio,psychiatric 
+DOID:9206,Barrett's esophagus,hetio,neoplastic 
+DOID:635,acquired immunodeficiency syndrome,hetio,infectious
