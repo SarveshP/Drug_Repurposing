@@ -14,10 +14,8 @@ library(ggplot2)
 ```
 
 ```{r,include=FALSE}
-blacklist = readr::read_csv('blacklist.csv')$feature
-feature_df = readr::read_csv('transformed-features.csv') %>% dplyr::select(-dplyr::one_of(blacklist)) 
-org_feature_df = readr::read_csv('features.csv')
-transformed_df = readr::read_csv('transformed-features.csv')
+blacklist = readr::read_csv('Data/blacklist.csv')$feature
+feature_df = readr::read_csv('Data/transformed-features.csv') %>% dplyr::select(-dplyr::one_of(blacklist)) 
 ```
 
 ```{r}
@@ -37,14 +35,14 @@ input_zeros_training_rows <- sample(1:nrow(input_zeros), 0.9*nrow(input_ones))  
 training_ones <- input_ones[input_ones_training_rows, ]  
 training_zeros <- input_zeros[input_zeros_training_rows, ]
 trainingData <- rbind(training_ones, training_zeros)  # row bind the 1's and 0's 
-write.csv(trainingData,file = "trainingdata.csv")
+write.csv(trainingData,file = "Data/trainingdata.csv")
 
 
 # Create Test Data
 test_ones <- input_ones[-input_ones_training_rows, ]
 test_zeros <- input_zeros[-input_zeros_training_rows, ]
 testData <- rbind(test_ones, test_zeros)  # row bind the 1's and 0's 
-write.csv(testData,file = "testdata.csv")
+write.csv(testData,file = "Data/testdata.csv")
 
 ```
 
@@ -55,12 +53,12 @@ train_y = trainingData %>% dplyr::select(dplyr::starts_with('status'))
 train_df = cbind(train_x,train_y)
 
 testData<-testData[sample(1:nrow(testData),nrow(train_df)),]
-write.csv(testData,file = "testdata1.csv")
+write.csv(testData,file = "Data/testdata1.csv")
 ```
 
 
 ```{r}
-testData = readr::read_csv('testdata1.csv')
+testData = readr::read_csv('Data/testdata1.csv')
 ```
 
 

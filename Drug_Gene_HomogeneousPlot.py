@@ -5,9 +5,9 @@ import itertools
 import csv
 
 
-df_edges = pd.read_csv('Compound-Gene.csv')[3900:4000]
-df_compounds = pd.read_csv('Compounds.csv')
-df_genes = pd.read_csv('Genes.csv')
+df_edges = pd.read_csv('Data/Compound-Gene.csv')[3900:4000]
+df_compounds = pd.read_csv('Data/Compounds.csv')
+df_genes = pd.read_csv('Data/Genes.csv')
 
 # df_edges = df_edges.loc[df_edges['source'] != "DB00246"]
 # df_edges = df_edges.loc[df_edges['target'] != "1576"]
@@ -52,7 +52,7 @@ for key, value in cmp_gene.items():
                 pass
 
 # print(edges)
-    with open('nodes_edges.csv', 'a') as new_Data:
+    with open('Data/nodes_edges.csv', 'a') as new_Data:
         newdata_writer = csv.writer(new_Data, delimiter = ",")
         for row in nodes_edges:
             newdata_writer.writerow(row)

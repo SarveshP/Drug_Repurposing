@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import itertools
 import csv
 
-df_edges = pd.read_csv('CtD.csv')[13:35]
-df_diseases = pd.read_csv('Diseases.csv')
-df_compounds = pd.read_csv('Compounds.csv')
+df_edges = pd.read_csv('Data/CtD.csv')[13:35]
+df_diseases = pd.read_csv('Data/Diseases.csv')
+df_compounds = pd.read_csv('Data/Compounds.csv')
 
 df_edges = df_edges.loc[df_edges['doid_id'] != "DOID:8778"]
 df_edges = df_edges.loc[df_edges['drugbank_id'] != "DB00850"]
@@ -52,7 +52,7 @@ for key, value in cmp_disease.items():
             nodes_edges.append([subset[0],subset[1],disease])
 
 # print(edges)
-    with open('nodes_edges.csv', 'a') as new_Data:
+    with open('Data/nodes_edges.csv', 'a') as new_Data:
         newdata_writer = csv.writer(new_Data, delimiter = ",")
         for row in nodes_edges:
             newdata_writer.writerow(row)
